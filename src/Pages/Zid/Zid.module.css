@@ -1,0 +1,134 @@
+.root {
+  --root-padding: 2rem;
+  --column-gap: 2rem;
+  --row-gap: 5rem;
+  --button-padding: 1.5rem;
+  --button-fontSize: 1.75rem;
+  --brick-fontSize: 3rem;
+  height: 100%;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 4fr 2fr;
+  grid-template-rows: repeat(2, 1fr);
+  justify-content: stretch;
+  align-items: center;
+  column-gap: var(--column-gap);
+  row-gap: var(--row-gap);
+  box-sizing: border-box;
+  padding: var(--root-padding);
+  animation: appear 0.3s;
+}
+.wall {
+  flex: 1;
+  aspect-ratio: 16 / 9;
+  background-size: 100% 100%;
+  grid-row-end: span 2;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+  justify-content: stretch;
+  align-items: stretch;
+  box-sizing: border-box;
+  border: solid 1px hsl(214, 45%, 12%);
+}
+.button {
+  background-color: var(--dark-teal);
+  padding: var(--button-padding) 0;
+  border-radius: var(--button-padding);
+  font-size: var(--button-fontSize);
+  border: none;
+  color: var(--white);
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  transition: all 0.3s;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: auto;
+}
+.button:last-child {
+  margin-top: 0;
+  margin-bottom: auto;
+}
+.button:hover {
+  background-color: var(--teal);
+}
+.brick {
+  flex: 1;
+  border: solid 1px hsl(214, 45%, 12%);
+  color: var(--white);
+  background-color: var(--dark-teal);
+  cursor: pointer;
+  font-size: var(--brick-fontSize);
+  font-weight: 600;
+  transition: all 0.3s;
+}
+.brick:hover {
+  background-color: var(--teal);
+}
+.broken {
+  transform: rotateX(-90deg);
+  cursor: default;
+}
+.blocked {
+  cursor: not-allowed;
+}
+.blocked:hover {
+  background-color: var(--dark-teal);
+}
+.timeCounter {
+  position: fixed;
+  right: 2rem;
+  top: 0.75rem;
+  color: var(--dark-teal);
+  font-size: 2rem;
+  font-weight: 600;
+  height: auto;
+  width: auto;
+  background-color: var(--white);
+}
+.dialogBox button[value=cancel] {
+  display: none;
+}
+@keyframes appear {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .root {
+    --root-padding: 1.75rem;
+    --column-gap: 1.75rem;
+    --row-gap: 4.5rem;
+    --button-padding: 1.25rem;
+    --button-fontSize: 1.5rem;
+    --brick-fontSize: 2.25rem;
+  }
+}
+@media only screen and (max-width: 720px) {
+  .root {
+    --root-padding: 1.5rem;
+    --column-gap: 1.5rem;
+    --row-gap: 4rem;
+    --button-padding: 1.25rem;
+    --button-fontSize: 1.5rem;
+    --brick-fontSize: 2rem;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .root {
+    --root-padding: 1.25rem;
+    --column-gap: 1.25rem;
+    --row-gap: 3.5rem;
+    --button-padding: 1rem;
+    --button-fontSize: 1.25rem;
+    --brick-fontSize: 1.75rem;
+  }
+}
+@media only screen and (max-height: 500px) {
+  .timeCounter {
+    font-size: 1.5rem;
+  }
+}

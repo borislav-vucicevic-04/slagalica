@@ -1,0 +1,118 @@
+.root {
+  --root-padding: 2rem;
+  --root-gap: 0.25rem;
+  --tile-fontSize: 1.75rem;
+  --tile-borderRadius: 1rem;
+  --giveUpBtn-fontSize: 1.5rem;
+  --giveUpBtn-padding: 0.5rem; 
+  height: 95%;
+  width: 100%;
+  margin-top: auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(6, 1fr);
+  gap: var(--root-gap);
+  justify-content: stretch;
+  align-items: stretch;
+  box-sizing: border-box;
+  padding: var(--root-padding);
+  animation: appear 0.3s;
+}
+.tile {
+  flex: 1;
+  background-color: var(--dark-teal);
+  border: none;
+  color: var(--white);
+  font-size: var(--tile-fontSize);
+  border-radius: var(--tile-borderRadius);
+  overflow: hidden;
+  text-wrap: nowrap;
+  text-overflow: ellipsis;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  cursor: pointer;
+  transition: all 0.3s;
+  transform: rotateX(0deg);
+}
+.tile:hover {
+  background-color: var(--teal);
+}
+.openTile {
+  cursor: auto;
+  background-color: var(--teal);
+  animation: rotate 0.5s;
+}
+.greenTile {
+  cursor: auto;
+  background-color: var(--green);
+  animation: rotate 0.5s;
+}
+.greenTile:hover {
+  background-color: var(--green);
+}
+.redTile {
+  cursor: auto;
+  background-color: var(--red);
+  animation: rotate 0.5s;
+}
+.redTile:hover {
+  background-color: var(--red);
+}
+.finalAnswerTile {
+  grid-column-end: span 4;
+}
+.timeCounter {
+  position: fixed;
+  right: 2rem;
+  top: 0.75rem;
+  color: var(--dark-teal);
+  font-size: 2rem;
+  font-weight: 600;
+  height: auto;
+  width: auto;
+  background-color: var(--white);
+}
+.giveUpBtn {
+  position: fixed;
+  left: 2rem;
+  top: 0.75rem;
+  background-color: var(--dark-teal);
+  border: none;
+  color: var(--white);
+  font-size: var(--giveUpBtn-fontSize);
+  padding: var(--giveUpBtn-padding) calc(var(--giveUpBtn-padding) * 2);
+  border-radius: var(--tile-borderRadius);
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.giveUpBtn:hover {
+  background-color: var(--teal);
+}
+@keyframes rotate {
+  from {
+    transform: rotateX(-180deg);
+  }
+  to {
+    transform: rotateX(0deg);
+  }
+}
+@keyframes appear {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@media only screen and (max-height: 500px) {
+  .root {
+    --tile-fontSize: 1.25rem;
+    --giveUpBtn-fontSize: 1rem;
+    --giveUpBtn-padding: 0.5rem; 
+  }
+  .timeCounter {
+    font-size: 1.5rem;
+  }
+}

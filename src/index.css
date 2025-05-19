@@ -1,0 +1,109 @@
+:root {
+  --black: #242324;
+  --white: #f5f7fa;
+  --green: #50723C;
+  --yellow: #F1D442;
+  --red: #A42B25;
+  --dark-purple: hsl(273, 35%, 42%);
+  --purple: #9368B7;
+  --dark-teal: #1c304a;
+  --teal: #2a486f;
+  --gray: #b2b2b3;
+}
+.asyncDialog {
+  backdrop-filter: blur(5px);
+  --ad-backdrop-color: rgba(36, 35, 36, 0.75);
+  --ad-ok-backgroundColor: var(--dark-teal);
+  --ad-ok-border: solid 2px var(--dark-teal);
+  --ad-ok-color: var(--white);
+  --ad-padding: 1.25rem;
+  --ad-title-backgroundColor: var(--white);
+  --ad-title-fontSize: 1.25rem;
+  --ad-title-color: var(--black);
+  --ad-footer-backgroundColor: var(--white);
+  --ad-button-height: 3.12rem;
+  --ad-button-fontSize: 1.25rem;
+  --ad-cancel-color: var(--black);
+  --ad-cancel-backgroundColor: var(--gray);
+  --ad-cancel-border: solid 2px var(--gray);
+  --ad-body-backgroundColor: var(--white);
+  --ad-body-row-gap: 1rem;
+  --ad-body-fontSize: 1.25rem;
+  --ad-select-fontSize: 1.25rem;
+  --ad-select-selectorSize: 1rem;
+  --ad-select-selectorColor: var(--dark-teal);
+  --ad-prompt-fontSize: 1.25rem;
+  --ad-prompt-input-padding: 6px;
+  --ad-prompt-input-outlineColor: var(--black);
+  --ad-prompt-input-focus-outlineColor: var(--dark-teal);
+}
+.noCancelDialog button[value=cancel] {
+  display: none;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100vh;
+  width: 100vw;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+#root {
+  height: 100%;
+  width: 100%;
+}
+@media only screen and (max-width: 768px) {
+  :root {
+    font-size: 15px;
+  }
+}
+@media only screen and (max-width: 720px) {
+  :root {
+    font-size: 14px;
+  }
+}
+@media only screen and (max-width: 425px) {
+  :root {
+    font-size: 13px;
+  }
+}
+@media only screen and (max-width: 320px) {
+  :root {
+    font-size: 12px;
+  }
+}
+@media only screen and (max-height: 300px) {
+  
+.asyncDialog {
+  --ad-ok-backgroundColor: var(--dark-teal);
+  --ad-ok-border: solid 2px var(--dark-teal);
+  --ad-ok-color: var(--white);
+  --ad-padding: 0.75rem;
+  --ad-title-backgroundColor: var(--white);
+  --ad-title-fontSize: 0.75rem;
+  --ad-title-color: var(--black);
+  --ad-footer-backgroundColor: var(--white);
+  --ad-button-height: 1.5rem;
+  --ad-button-fontSize: 0.75rem;
+  --ad-cancel-color: var(--black);
+  --ad-cancel-backgroundColor: var(--gray);
+  --ad-cancel-border: solid 2px var(--gray);
+  --ad-body-backgroundColor: var(--white);
+  --ad-body-row-gap: 1rem;
+  --ad-body-fontSize: 0.75rem;
+  --ad-select-fontSize: 0.75rem;
+  --ad-select-selectorSize: 0.75rem;
+  --ad-select-selectorColor: var(--dark-teal);
+  --ad-prompt-fontSize: 0.75rem;
+  --ad-prompt-input-padding: 4px;
+  --ad-prompt-input-outlineColor: var(--black);
+  --ad-prompt-input-focus-outlineColor: var(--dark-teal);
+}
+}

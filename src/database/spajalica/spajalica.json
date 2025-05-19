@@ -1,0 +1,1202 @@
+[
+  {
+    "description":"fudbalski klubovi i gradovi u kojima se nalaze",
+    "pairs":[
+      ["partizan", "beograd"],
+      ["juventus", "torino"],
+      ["arsenal", "london"],
+      ["bajern", "minhen"],
+      ["ajax", "amsterdam"],
+      ["hajduk", "split"],
+      ["atletiko", "madrid"]
+    ]
+  },
+  {
+    "description":"režiseri i njihovi filmovi",
+    "pairs":[
+      ["džejm kempion", "klavir"],
+      ["klint istvud", "mostovi okruga medison"],
+      ["roberto benjini", "život je lijep"],
+      ["stiven daldri", "čitač"],
+      ["aki kaurismaki", "čovjek bez prošlosti"],
+      ["mihail hanke", "učiteljica klavira"],
+      ["pedro almodovar", "pričaj sa njom"]
+    ]
+  },
+  {
+    "description":"pisci i njihova djela",
+    "pairs":[
+      ["bernhard šarl", "vikend"],
+      ["šarl bolder", "cvijeće zla"],
+      ["alesandro manconi", "vjerenici"],
+      ["doris lesing", "peto dijete"],
+      ["justejin gorder", "zamak u pirinejima"],
+      ["šarlot bronte", "džejn ejr"],
+      ["emili bronte", "orkanski visovi"]
+    ]
+  },
+  {
+    "description":"režiseri i zemlje iz kojih potiču",
+    "pairs":[
+      ["alfred hičkok", "velika britanija"],
+      ["mihail henke", "njemačka"],
+      ["baz laurman", "australija"],
+      ["liv ulman", "norveška"],
+      ["robert altman", "sad"],
+      ["marlin goris", "holandija"],
+      ["isiar boljain", "španija"]
+    ]
+  },
+  {
+    "description":"luke i države u kojima se nalaze",
+    "pairs":[
+      ["geteborg", "švedska"],
+      ["montevideo", "urugvaj"],
+      ["mumbaj", "indija"],
+      ["kingston", "jamajka"],
+      ["kartagena", "kolumbija"],
+      ["nasau", "bahami"],
+      ["roterdam", "holandija"]
+    ]
+  },
+  {
+    "description":"kiseline i njihove hemijske formule",
+    "pairs":[
+      ["fosforasta", "h3po3"],
+      ["sirćetna", "c24o2"],
+      ["fosforna", "h3po4"],
+      ["hlorovodonična", "hcl"],
+      ["sumporna", "h2so4"],
+      ["mravlja", "ch2o2"],
+      ["sumporasta", "h2so3"]
+    ]
+  },
+  {
+    "description":"sportski tereni i njihove dužine",
+    "pairs":[
+      ["košarka", "61m"],
+      ["rukomet", "27.5m"],
+      ["tenis", "40m"],
+      ["bejzbol", "28m"],
+      ["hokej na ledu", "23.78m"],
+      ["ragbi", "18m"],
+      ["vaterpolo", "30m"]
+    ]
+  },
+  {
+    "description":"imena i prezimena italijanskih pisaca",
+    "pairs":[
+      ["umberto", "eko"],
+      ["karlo", "kolodi"],
+      ["luiđi", "pirandelo"],
+      ["đovani", "bokačo"],
+      ["frančesko", "petrarka"],
+      ["dante", "aligijeri"],
+      ["alberto", "moravija"]
+    ]
+  },
+  {
+    "description":"glumci i filmovi u kojima su glumili",
+    "pairs":[
+      ["penelope kruz", "otvori oči"],
+      ["salma hajek", "desperado"],
+      ["šeron stoun", "niske strasti"],
+      ["kira najtli", "gordost i predrasude"],
+      ["nikol kidman", "duhovi u nama"],
+      ["džulija roberts", "osmjeh mona lize"],
+      ["ema votson", "hari poter"]
+    ]
+  },
+  {
+    "description":"planine i države u kojima se nalaze",
+    "pairs":[
+      ["slovenija", "julijski alpi"],
+      ["srbija", "golija"],
+      ["crna gora", "orjen"],
+      ["grčka", "olimp"],
+      ["bugarska", "rila"],
+      ["španija", "pirineji"],
+      ["bosna i hercegovina", "romanija"]
+    ]
+  },
+  {
+    "description":"glumci i njihovi filmovi",
+    "pairs":[
+      ["brad pitt", "fight club"],
+      ["meryl streep", "the devil wears prada"],
+      ["leonardo dicaprio", "titanic"],
+      ["scarlett johansson", "lost in translation"],
+      ["denzel washington", "training day"],
+      ["charlize theron", "monster"],
+      ["tom hanks", "forrest gump"]
+    ]
+  },
+  {
+    "description":"boje i njihovi objekti",
+    "pairs":[
+      ["crvena", "jabuka"],
+      ["plava", "nebo"],
+      ["zelena", "trava"],
+      ["žuta", "sunce"],
+      ["bela", "sneg"],
+      ["crna", "noć"],
+      ["siva", "kamen"]
+    ]
+  },
+  {
+    "description":"zanimanja i njihovi alati",
+    "pairs":[
+      ["stolar", "čekić"],
+      ["kuvar", "nož"],
+      ["medicinska sestra", "igla"],
+      ["električar", "kabl"],
+      ["frizer", "makaze"],
+      ["vozač", "volan"],
+      ["građevinac", "lopata"]
+    ]
+  },
+  {
+    "description":"brendovi i njihovi proizvodi",
+    "pairs":[
+      ["apple", "iphone"],
+      ["nike", "air max"],
+      ["coca-cola", "coca-cola"],
+      ["toyota", "corolla"],
+      ["mcdonald's", "big mac"],
+      ["adidas", "superstar"],
+      ["google", "chrome"]
+    ]
+  },
+  {
+    "description":"književnici i njihova djela",
+    "pairs":[
+      ["vilijam šekspir", "hamlet"],
+      ["fjodor dostojevski", "zločin i kazna"],
+      ["džejn osten", "ponos i predrasude"],
+      ["čarls dikens", "oliver tvist"],
+      ["virginija vulf", "gospođa dalovej"],
+      ["džordž orvel", "1984"],
+      ["j.k. rouling", "harry potter"]
+    ]
+  },
+  {
+    "description":"svjetski gradovi i znamenitosti",
+    "pairs":[
+      ["pariz", "eiffelov toranj"],
+      ["rim", "koloseum"],
+      ["london", "londonsko oko"],
+      ["peking", "kineski zid"],
+      ["rio de žaneiro", "krist statua"],
+      ["njork", "sloboda"],
+      ["sidnej", "operna kuća"]
+    ]
+  },
+  {
+    "description":"istorijske ličnosti i po čemu su prepoznatljivi",
+    "pairs":[
+      ["aleksandar veliki", "grčko-persijski ratovi"],
+      ["kleopatra", "egipatska kultura"],
+      ["martin luther king jr.", "građanska prava"],
+      ["napoleon bonaparte", "francuska revolucija"],
+      ["mahatma gandhi", "nenasilni otpor"],
+      ["kraljica elizabeta i", "tudor dinastija"],
+      ["abraham lincoln", "građanski rat u sad-u"]
+    ]
+  },
+  {
+    "description":"sportisti i njihovi sportovi",
+    "pairs":[
+      ["michael jordan", "košarka"],
+      ["serena williams", "tenis"],
+      ["usain bolt", "atletika"],
+      ["lionel messi", "fudbal"],
+      ["simone biles", "gimnastika"],
+      ["cristiano ronaldo", "fudbal"],
+      ["rafael nadal", "tenis"]
+    ]
+  },
+  {
+    "description":"slikari i njihova djela",
+    "pairs":[
+      ["leonardo da vinci", "mona lisa"],
+      ["pablo picasso", "guernica"],
+      ["vincent van gogh", "zvezdana noć"],
+      ["michelangelo", "david"],
+      ["frida kahlo", "autoportret sa španjolskim peškirom"],
+      ["salvador dalí", "pustolovine don kihota"],
+      ["claude monet", "nenormalni sat"]
+    ]
+  },
+  {
+    "description":"naučnici i njihova otkrića",
+    "pairs":[
+      ["albert einstein", "teorija relativiteta"],
+      ["marie curie", "radioaktivnost"],
+      ["isaac newton", "gravitacija"],
+      ["charles darwin", "evolucija"],
+      ["nikola tesla", "električna struja"],
+      ["jane goodall", "primate research"],
+      ["stephen hawking", "crne rupe"]
+    ]
+  },
+  {
+    "description":"planine i kontinenti na kojima se nalaze",
+    "pairs":[
+      ["everest", "azijski"],
+      ["kilimanjaro", "afrički"],
+      ["denali", "severnoamerički"],
+      ["andes", "južnoamerički"],
+      ["alpe", "evropski"],
+      ["himalaje", "azijski"],
+      ["rocky mountains", "severnoamerički"]
+    ]
+  },
+  {
+    "description":"države i njihovi glavni gradovi",
+    "pairs":[
+      ["srbija", "beograd"],
+      ["italija", "rim"],
+      ["njemačka", "berlin"],
+      ["francuska", "pariz"],
+      ["španija", "madrid"],
+      ["rusija", "moskva"],
+      ["kina", "peking"]
+    ]
+  },
+  {
+    "description":"filmovi i njihovi režiseri",
+    "pairs":[
+      ["the godfather", "francis ford coppola"],
+      ["pulp fiction", "quentin tarantino"],
+      ["inception", "christopher nolan"],
+      ["avatar", "james cameron"],
+      ["forrest gump", "robert zemeckis"],
+      ["fight club", "david fincher"],
+      ["the shawshank redemption", "frank darabont"]
+    ]
+  },
+  {
+    "description":"planete i njihovi sateliti",
+    "pairs":[
+      ["zemlja", "mesec"],
+      ["mars", "deimos"],
+      ["jupiter", "io"],
+      ["saturn", "titan"],
+      ["uran", "titania"],
+      ["neptun", "triton"],
+      ["venera", "venerin rep"]
+    ]
+  },
+  {
+    "description":"svjetske religije i njihovi osnivači",
+    "pairs":[
+      ["hršćanstvo", "isus hrist"],
+      ["islam", "muhamed"],
+      ["hinduizam", "nema pojedinačnog osnivača"],
+      ["budizam", "sidarta gautama"],
+      ["džainizam", "mahavira"],
+      ["sikhizam", "guru nanak"],
+      ["zoroastrizam", "zaratustra"]
+    ]
+  },
+  {
+    "description":"svjetski gradovi i njihove reke",
+    "pairs":[
+      ["pariz", "sena"],
+      ["london", "temza"],
+      ["rim", "tiber"],
+      ["prag", "vltava"],
+      ["budimpešta", "dunav"],
+      ["beč", "dunav"],
+      ["bangkok", "čao praja"]
+    ]
+  },
+  {
+    "description":"filmovi i glavni negativci",
+    "pairs":[
+      ["the dark knight", "joker"],
+      ["harry potter", "lord voldemort"],
+      ["star wars", "darth vader"],
+      ["the lord of the rings", "sauron"],
+      ["die hard", "hans gruber"],
+      ["the silence of the lambs", "hannibal lecter"],
+      ["the empire strikes back", "darth vader"]
+    ]
+  },
+  {
+    "description":"države i njihovi fudbalski timovi",
+    "pairs":[
+      ["brazil", "seleção brasileira"],
+      ["njemačka", "die mannschaft"],
+      ["argentima", "albiceleste"],
+      ["francuska", "les bleus"],
+      ["italija", "gli azzurri"],
+      ["engleska", "three lions"],
+      ["španija", "la roja"]
+    ]
+  },
+  {
+    "description":"filmovi i glavni glumci",
+    "pairs":[
+      ["the shawshank redemption", "morgan freeman"],
+      ["the godfather", "marlon brando"],
+      ["the dark knight", "christian bale"],
+      ["forrest gump", "tom hanks"],
+      ["the lord of the rings", "elijah wood"],
+      ["titanic", "leonardo dicaprio"],
+      ["avatar", "sam worthington"]
+    ]
+  },
+  {
+    "description":"gradovi i njihovi simboli",
+    "pairs":[
+      ["pariz", "ajffelov toranj"],
+      ["rim", "koloseum"],
+      ["london", "big ben"],
+      ["peking", "kineski zid"],
+      ["njujork", "kip slobode"],
+      ["moskva", "crveni trg"],
+      ["sydney", "sydney opera house"]
+    ]
+  },
+  {
+    "description":"svjetski lideri i njihovi pokreti",
+    "pairs":[
+      ["mahatma gandhi", "nasilno otpiranje"],
+      ["nelson mandjela", "apartheid"],
+      ["martin luther king jr.", "građanska prava"],
+      ["winston churchill", "saveznički pokret"],
+      ["adolf hitler", "nacizam"],
+      ["franklin d. roosevelt", "new deal"],
+      ["vladimir lenjin", "boljševizam"]
+    ]
+  },
+  {
+    "description":"književni likovi i njihove knjige",
+    "pairs":[
+      ["sherlock holmes", "a study in scarlet"],
+      ["harry potter", "harry potter and the philosopher's stone"],
+      ["bilbo baggins", "the hobbit"],
+      ["jay gatsby", "the great gatsby"],
+      ["elizabeth bennet", "pride and prejudice"],
+      ["atticus finch", "to kill a mockingbird"],
+      ["don quixote", "don quixote"]
+    ]
+  },
+  {
+    "description":"svjetske religije i zemlje u kojima su najzastupljenije",
+    "pairs":[
+      ["hršćanstvo", "sjedinjene američke države"],
+      ["islam", "indonezija"],
+      ["budizam", "kina"],
+      ["hinduizam", "indija"],
+      ["sikhizam", "indija"],
+      ["judaizam", "izrael"],
+      ["ateizam", "kina"]
+    ]
+  },
+  {
+    "description":"svjetske znamenitosti i zemlje u kojima se nalaze",
+    "pairs":[
+      ["petra", "jordan"],
+      ["tadž mahal", "indija"],
+      ["piramide u gizi", "egipat"],
+      ["kineski zid", "kina"],
+      ["koloseum", "italija"],
+      ["machu picchu", "peru"],
+      ["stonehenge", "engleska"]
+    ]
+  },
+  {
+    "description":"svjetske zgrade i gradovi u kojim se nalaze",
+    "pairs":[
+      ["burž khalifa", "dubai"],
+      ["tokyo skytree", "tokio"],
+      ["abraj al-bayt", "mecca"],
+      ["shanghai tower", "šangaj"],
+      ["abu dhabi plaza", "abu dhabi"],
+      ["goldin finance 117", "tianjin"],
+      ["suzhou zhongnan center", "suzhou"]
+    ]
+  },
+  {
+    "description": "životinje i porodice kojima pripadaju",
+    "pairs": [
+      ["orao", "accipitridae"],
+      ["vuk", "canidae"],
+      ["slon", "elephantidae"],
+      ["tigar", "felidae"],
+      ["zec", "leporidae"],
+      ["krokodil", "crocodylidae"],
+      ["delfin", "delphinidae"]
+    ]
+  },  
+  {
+    "description":"svjetske reke i njihovi izvori",
+    "pairs":[
+      ["amazon", "ande"],
+      ["nil", "jezero viktorija"],
+      ["mekong", "tienshan"],
+      ["mississippi", "jezero itaska"],
+      ["ganga", "himalaje"],
+      ["volga", "valdajsko visocje"],
+      ["jiang", "tibet"]
+    ]
+  },
+  {
+    "description":"okeani i ostrva",
+    "pairs":[
+      ["pacifik", "novi gvineja"],
+      ["atlantik", "gronland"],
+      ["indijan", "madagaskar"],
+      ["arktik", "severni grenland"],
+      ["južni", "juzhni polar"],
+      ["severni ledni", "severna ledja"],
+      ["južni ledni", "južna georgia"]
+    ]
+  },
+  {
+    "description":"svjetski gradovi i poznate građevine",
+    "pairs":[
+      ["pariz", "ajfelov toranj"],
+      ["rim", "koloseum"],
+      ["njujork", "empire state building"],
+      ["peking", "kineski zid"],
+      ["dubai", "burž khalifa"],
+      ["sidnej", "opera house"],
+      ["london", "big ben"]
+    ]
+  },
+  {
+    "description":"svjetske religije i njihve svjete knjige",
+    "pairs":[
+      ["hršćanstvo", "biblija"],
+      ["islam", "kuran"],
+      ["hinduizam", "vede"],
+      ["budizam", "tripitaka"],
+      ["džainizam", "agam"],
+      ["sikhizam", "guru granth sahib"],
+      ["zoroastrizam", "avesta"]
+    ]
+  },
+  {
+    "description":"države i njihove nacionalne himne",
+    "pairs":[
+      ["srbija", "bože pravde"],
+      ["francuska", "la marseillaise"],
+      ["rusija", "gimn ruske federacije"],
+      ["njemačka", "das lied der deutschen"],
+      ["sjedinjene američke države", "the star-spangled banner"],
+      ["japan", "kimigayo"],
+      ["italija", "il canto degli italiani"]
+    ]
+  },
+  {
+    "description":"glumci i likovi iz serije breaking bad",
+    "pairs":[
+      ["bryan cranston", "voter vejtk"],
+      ["aaron paul", "džesi pinkmen"],
+      ["anna gunn", "skajler vejtk"],
+      ["dean norris", "hank šrader"],
+      ["betsy brandt", "mariv hank"],
+      ["rj mitte", "volter vejtk mladji"],
+      ["bob odenkirk", "soul gudmen"]
+    ]
+  },
+  {
+    "description":"muzičari i njihovi hitovi",
+    "pairs":[
+      ["beyonce", "single ladies"],
+      ["mihajlo pupin", "tatjana"],
+      ["lui armstrong", "what a wonderful world"],
+      ["ketrin ledaki", "zlatno kolo"],
+      ["bobi rič", "badžer"],
+      ["frida", "dancing queen"],
+      ["džimi hendriks", "hendriksova himna"]
+    ]
+  },
+  {
+    "description":"glumci i likovi iz serije friends",
+    "pairs":[
+      ["jennifer aniston", "rachel green"],
+      ["courteney cox", "monica geller"],
+      ["lisa kudrow", "phoebe buffay"],
+      ["matthew perry", "chandler bing"],
+      ["matt leblanc", "joey tribbiani"],
+      ["jennifer aniston", "ross geller"],
+      ["christin davis", "gwenifer"]
+    ]
+  },
+  {
+    "description":"fudbaleri i njihove ekipe",
+    "pairs":[
+      ["luka modrić", "real madrid"],
+      ["lionel mesi", "psd barselona"],
+      ["kristijano ronaldo", "mančester junajted"],
+      ["neimar", "pari sen žermen"],
+      ["serhio ramus", "real madrid"],
+      ["hary kane", "totenhem"],
+      ["rober levanovski", "bajern minhen"]
+    ]
+  },
+  {
+    "description":"filmski režiseri i njihova ostvarenja",
+    "pairs":[
+      ["alfred hitchcock", "ptice"],
+      ["stanley kubrick", "svemirska odiseja"],
+      ["martin scorsese", "taksista"],
+      ["ridley scott", "kradljivac ovaca"],
+      ["quentin tarantino", "ponos i predrasude"],
+      ["francis ford coppola", "kum"],
+      ["steven spilberg", "radoznali george"]
+    ]
+  },
+  {
+    "description":"modni dizajneri",
+    "pairs":[
+      ["giorgio", "armani"],
+      ["coco", "chanel"],
+      ["ralph", "lauren"],
+      ["gianni", "versace"],
+      ["christian", "dior"],
+      ["lui", "vuitton"],
+      ["tom", "ford"]
+    ]
+  },
+  {
+    "description":"književnici i njihova djela",
+    "pairs":[
+      ["gabrijel garcia markes", "sto godina samoće"],
+      ["honoré de balzak", "gospođa bovare"],
+      ["johann wolfgang", "faust"],
+      ["fyodor dostoevsky", "braća karamazovi"],
+      ["mark twen", "avanture toma sojera"],
+      ["virginia wold", "gospođa dalevej"],
+      ["charles dickens", "oliver tvist"]
+    ]
+  },
+  {
+    "description":"svjetski gradovi i znamenitosti",
+    "pairs":[
+      ["london", "londonsko oko"],
+      ["pariz", "ajfelov toranj"],
+      ["rim", "koloseum"],
+      ["njujork", "kip slobode"],
+      ["peking", "kineski zid"],
+      ["rio de žaneiro", "kip isusa hrista"],
+      ["sidnej", "operna kuća"]
+    ]
+  },
+  {
+    "description":"slikari i njihova djela",
+    "pairs":[
+      ["leonardo da vinči", "mona liza"],
+      ["vincent van go", "zvezdana noć"],
+      ["pablo pikaso", "guernica"],
+      ["michelangelo", "david"],
+      ["salvador dali", "upornost pamćenja"],
+      ["claude monet", "voden lili"],
+      ["edvard munk", "krik"]
+    ]
+  },
+  {
+    "description":"pravci u muzici i njihovi predstavnici",
+    "pairs":[
+      ["klasična muzika", "ludvig van betoven"],
+      ["rok muzika", "bitlsi"],
+      ["džez", "luj armstrong"],
+      ["bluz", "budi gaj"],
+      ["pop muzika", "madona"],
+      ["haus muzika", "dejvid geta"],
+      ["tehno", "kraftverk"]
+    ]
+  },
+  {
+    "description":"istorijski događaji i godine",
+    "pairs":[
+      ["prvi svetski rat", "1914-1918"],
+      ["američka revolucija", "1775-1783"],
+      ["francuska revolucija", "1789-1799"],
+      ["kubanska revolucija", "1953-1959"],
+      ["američki građanski rat", "1861-1865"],
+      ["oktobarska revolucija", "1917"],
+      ["pad berlinskog zida", "1989"]
+    ]
+  },
+  {
+    "description":"istorijski događaji i godine",
+    "pairs":[
+      ["kineska kulturna revolucija", "1966-1976"],
+      ["marš na washington", "1963"],
+      ["kraljevska porodica romanov", "1613-1917"],
+      ["bitka kod vaterloa", "1815"],
+      ["osnivanje rimskog carstva", "27 p.n.e."],
+      ["bitka kod staljingrada", "1942-1943"],
+      ["nuklearna katastrofa u černobilu", "1986"]
+    ]
+  },
+  {
+    "description":"istorijski događaji i godine",
+    "pairs":[
+      ["oktobarska revolucija", "1917"],
+      ["kineski građanski rat", "1927-1950"],
+      ["bostonska čajanka", "1773"],
+      ["francuska revolucija", "1789-1799"],
+      ["stvaranje ujedinjenog kraljevstva", "1707"],
+      ["napad na pearl harbor", "1941"],
+      ["stvaranje nemačkog carstva", "1871"]
+    ]
+  },
+  {
+    "description":"istorijski događaji i godine",
+    "pairs":[
+      ["stvaranje sad-a", "1776"],
+      ["majsko previranje", "1968"],
+      ["kineska kulturna revolucija", "1966-1976"],
+      ["hladni rat", "1947-1991"],
+      ["zalivska kriza", "1990-1991"],
+      ["krimski rat", "1853-1856"],
+      ["bitka kod gettysburga", "1863"]
+    ]
+  },
+  {
+    "description":"istorijski događaji i godine",
+    "pairs":[
+      ["američki građanski rat", "1861-1865"],
+      ["bitka kod hastingsa", "1066"],
+      ["majmunski prevrat", "1920"],
+      ["napad na pearl harbor", "1941"],
+      ["pomorska bitka kod lepanta", "1571"],
+      ["bitka kod staljingrada", "1942-1943"],
+      ["hladni rat", "1947-1991"]
+    ]
+  },
+  {
+    "description":"istorijski događaji i godine",
+    "pairs":[
+      ["pomorska bitka kod salamine", "480 p.n.e."],
+      ["majski prevrat", "1968"],
+      ["bitka kod sekstoničkog poteza", "31 p.n.e."],
+      ["kineska kulturna revolucija", "1966-1976"],
+      ["bitka kod vaterloa", "1815"],
+      ["prvi svetski rat", "1914-1918"],
+      ["bitka kod midveja", "216 p.n.e."]
+    ]
+  },
+  {
+    "description":"istorijski događaji i godine",
+    "pairs":[
+      ["kubanska raketna kriza", "1962"],
+      ["američka revolucija", "1775-1783"],
+      ["diktatura francisco franka", "1939-1975"],
+      ["stvaranje sad-a", "1776"],
+      ["stvaranje kine", "221 p.n.e."],
+      ["osmansko carstvo osnivačka godina", "1299"],
+      ["bitka kod gettysburga", "1863"]
+    ]
+  },
+  {
+    "description":"istorijski događaji i godine",
+    "pairs":[
+      ["bitka kod sekstoničkog poteza", "31 p.n.e."],
+      ["stvaranje ujedinjenog kraljevstva", "1707"],
+      ["napad na pearl harbor", "1941"],
+      ["stvaranje jugoslavije", "1918"],
+      ["diktatura fulgencija batiste", "1952-1959"],
+      ["bitka kod midveja", "216 p.n.e."],
+      ["stvaranje evropske unije", "1993"]
+    ]
+  },
+  {
+    "description":"istorijski događaji i godine",
+    "pairs":[
+      ["američki građanski rat", "1861-1865"],
+      ["stvaranje ujedinjenog kraljevstva", "1707"],
+      ["bitka kod sekstoničkog poteza", "31 p.n.e."],
+      ["stvaranje kine", "221 p.n.e."],
+      ["bitka kod midveja", "216 p.n.e."],
+      ["bitka kod gettysburga", "1863"],
+      ["pad berlinskog zida", "1989"]
+    ]
+  },
+  {
+    "description":"istorijski događaji i godine",
+    "pairs":[
+      ["stvaranje sad-a", "1776"],
+      ["stvaranje kine", "221 p.n.e."],
+      ["diktatura francisco franka", "1939-1975"],
+      ["stvaranje nato-a", "1949"],
+      ["stvaranje evropske unije", "1993"],
+      ["stvaranje ujedinjenog kraljevstva", "1707"],
+      ["osmansko carstvo osnivačka godina", "1299"]
+    ]
+  },
+  {
+    "description":"likovi i glumci iz filma 'the shawshank redemption'",
+    "pairs":[
+      ["andy dufresne", "tim robbins"],
+      ["ellis redding", "morgan freeman"],
+      ["warden norton", "bob gunton"],
+      ["tommy williams", "gil bellows"],
+      ["heywood", "william sadler"],
+      ["brooks hatlen", "james whitmore"],
+      ["bogs diamond", "mark rolston"]
+    ]
+  },
+  {
+    "description":"likovi i glumci iz filma 'pulp fiction'",
+    "pairs":[
+      ["vincent vega", "john travolta"],
+      ["jules winnfield", "samuel l. jackson"],
+      ["mia wallace", "uma thurman"],
+      ["marsellus wallace", "ving rhames"],
+      ["butch coolidge", "bruce willis"],
+      ["winston wolf", "harvey keitel"],
+      ["fabienne", "maria de medeiros"]
+    ]
+  },
+  {
+    "description":"likovi i glumci iz filma 'the dark knight'",
+    "pairs":[
+      ["batman", "christian bale"],
+      ["joker", "heath ledger"],
+      ["harvey dent", "aaron eckhart"],
+      ["alfred pennyworth", "michael caine"],
+      ["commissioner gordon", "gary oldman"],
+      ["rachel dawes", "maggie gyllenhaal"],
+      ["lucius fox", "morgan freeman"]
+    ]
+  },
+  {
+    "description":"likovi i glumci iz filma 'forrest gump'",
+    "pairs":[
+      ["forrest gump", "tom hanks"],
+      ["jenny curran", "robin wright"],
+      ["lt. dan taylor", "gary sinise"],
+      ["bubba blue", "mykelti williamson"],
+      ["mama gump", "sally field"],
+      ["young forrest gump", "michael conner humphreys"],
+      ["young jenny curran", "hanna r. hall"]
+    ]
+  },
+  {
+    "description":"likovi i glumci iz filma 'the matrix'",
+    "pairs":[
+      ["neo", "keanu reeves"],
+      ["morpheus", "laurence fishburne"],
+      ["trinity", "carrie-anne moss"],
+      ["agent smith", "hugo weaving"],
+      ["cypher", "joe pantoliano"],
+      ["tank", "marcus chong"],
+      ["dozer", "anthony ray parker"]
+    ]
+  },
+  {
+    "description":"likovi i glumci iz filma 'inception'",
+    "pairs":[
+      ["dom cobb", "leonardo dicaprio"],
+      ["arthur", "joseph gordon-levitt"],
+      ["ariadne", "ellen page"],
+      ["mal cobb", "marion cotillard"],
+      ["eames", "tom hardy"],
+      ["saito", "ken watanabe"],
+      ["robert fischer", "cillian murphy"]
+    ]
+  },
+  {
+    "description":"likovi i glumci iz filma 'the godfather'",
+    "pairs":[
+      ["don vito corleone", "marlon brando"],
+      ["michael corleone", "al pacino"],
+      ["sonny corleone", "james caan"],
+      ["tom hagen", "robert duvall"],
+      ["kay adams", "diane keaton"],
+      ["luca brasi", "lenny montana"],
+      ["fredo corleone", "john cazale"]
+    ]
+  },
+  {
+    "description":"likovi i glumci iz filma 'fight club'",
+    "pairs":[
+      ["tyler durden", "brad pitt"],
+      ["the narrator", "edward norton"],
+      ["marla singer", "helena bonham carter"],
+      ["robert 'bob' paulsen", "meat loaf"],
+      ["angel face", "jared leto"],
+      ["chloe", "rachel singer"],
+      ["richard chesler", "david andrews"]
+    ]
+  },
+  {
+    "description":"likovi i glumci iz filma 'the silence of the lambs'",
+    "pairs":[
+      ["hannibal lecter", "anthony hopkins"],
+      ["clarice starling", "jodie foster"],
+      ["buffalo bill", "ted levine"],
+      ["jack crawford", "scott glenn"],
+      ["dr. frederick chilton", "anthony heald"],
+      ["dr. frederick chilton", "anthony heald"],
+      ["senator ruth martin", "diane baker"]
+    ]
+  },
+  {
+    "description":"likovi i glumci iz filma 'the avengers'",
+    "pairs":[
+      ["tony stark", "robert downey jr."],
+      ["steve rogers", "chris evans"],
+      ["natasha romanoff", "scarlett johansson"],
+      ["bruce banner", "mark ruffalo"],
+      ["thor", "chris hemsworth"],
+      ["loki", "tom hiddleston"],
+      ["clint barton", "jeremy renner"]
+    ]
+  },
+  {
+    "description": "gradovi i države u kojima se nalaze",
+    "pairs": [
+      ["london", "ujedinjeno kraljevstvo"],
+      ["pariz", "francuska"],
+      ["berlin", "nemačka"],
+      ["rim", "italija"],
+      ["tokio", "japan"],
+      ["moskva", "rusija"],
+      ["sidnej", "australija"]
+    ]
+  },
+  {
+    "description": "gradovi i države u kojima se nalaze",
+    "pairs": [
+      ["njujork", "sjedinjene američke države"],
+      ["madrid", "španija"],
+      ["toronto", "kanada"],
+      ["dablin", "irska"],
+      ["amsterdam", "holandija"],
+      ["peking", "kina"],
+      ["kairo", "egipat"]
+    ]
+  },
+  {
+    "description": "gradovi i države u kojima se nalaze",
+    "pairs": [
+      ["rio de žaneiro", "brazil"],
+      ["atina", "grčka"],
+      ["bangkok", "tajland"],
+      ["stokholm", "švedska"],
+      ["beč", "austrija"],
+      ["seul", "južna koreja"],
+      ["meksički grad", "meksiko"]
+    ]
+  },
+  {
+    "description": "gradovi i države u kojima se nalaze",
+    "pairs": [
+      ["buenos ajres", "argentina"],
+      ["oslo", "norveška"],
+      ["helsinki", "finska"],
+      ["varšava", "poljska"],
+      ["lisabon", "portugal"],
+      ["brisel", "belgija"],
+      ["dubai", "ujedinjeni arapski emirati"]
+    ]
+  },
+  {
+    "description": "gradovi i države u kojima se nalaze",
+    "pairs": [
+      ["prag", "češka"],
+      ["budimpešta", "mađarska"],
+      ["santijago", "čile"],
+      ["singapur", "singapur"],
+      ["kuala lumpur", "malezija"],
+      ["cirih", "švajcarska"],
+      ["kopenhagen", "Danska"]
+    ]
+  },
+  {
+    "description": "gradovi i države u kojima se nalaze",
+    "pairs": [
+      ["istanbul", "turska"],
+      ["mumbai", "indijska"],
+      ["atina", "grčka"],
+      ["beč", "austrija"],
+      ["lima", "peru"],
+      ["teheran", "iran"],
+      ["sidnej", "australija"]
+    ]
+  },
+  {
+    "description": "gradovi i države u kojima se nalaze",
+    "pairs": [
+      ["san francisko", "Sjedinjene Američke Države"],
+      ["firenca", "italija"],
+      ["kejp taun", "južnoafrička republika"],
+      ["jerusalim", "izrael"],
+      ["barselona", "španija"],
+      ["hanoj", "vijetnam"],
+      ["edniburh", "škotska"]
+    ]
+  },
+  {
+    "description": "gradovi i države u kojima se nalaze",
+    "pairs": [
+      ["singapur", "singapur"],
+      ["kuala lumpur", "malezija"],
+      ["prag", "češka"],
+      ["santijago", "čile"],
+      ["varšava", "poljska"],
+      ["brisel", "belgija"],
+      ["dubai", "ujedinjeni arapski emirati"]
+    ]
+  },
+  {
+    "description": "gradovi i države u kojima se nalaze",
+    "pairs": [
+      ["toronto", "kanada"],
+      ["perta", "australija"],
+      ["pariz", "francuska"],
+      ["rim", "italija"],
+      ["moskva", "rusija"],
+      ["peking", "kina"],
+      ["meksiko siti", "meksiko"]
+    ]
+  },
+  {
+    "description": "gradovi i države u kojima se nalaze",
+    "pairs": [
+      ["toronto", "kanada"],
+      ["perta", "australija"],
+      ["pariz", "francuska"],
+      ["rim", "italija"],
+      ["moskva", "rusija"],
+      ["peking", "kina"],
+      ["meksiko siti", "meksiko"]
+    ]
+  },
+  {
+    "description": "biljke i porodice kojima pripadaju",
+    "pairs": [
+      ["bagrem", "fabaceae"],
+      ["lipa", "tiliaceae"],
+      ["jasen", "oleaceae"],
+      ["brest", "ulmaceae"],
+      ["bokvica", "plantaginaceae"],
+      ["breza", "betulaceae"],
+      ["hrast", "fagaceae"]
+    ]
+  },
+  {
+    "description": "biljke i porodice kojima pripadaju",
+    "pairs": [
+      ["žalfija", "lamiaceae"],
+      ["smreka", "pinaceae"],
+      ["divlja trešnja", "rosaceae"],
+      ["kopriva", "urticaceae"],
+      ["jorgovan", "oleaceae"],
+      ["lipa", "tiliaceae"],
+      ["javor", "aceraceae"]
+    ]
+  },
+  {
+    "description": "biljke i porodice kojima pripadaju",
+    "pairs": [
+      ["lubenica", "cucurbitaceae"],
+      ["jagoda", "rosaceae"],
+      ["breza", "betulaceae"],
+      ["bokvica", "plantaginaceae"],
+      ["bagrem", "fabaceae"],
+      ["kopriva", "urticaceae"],
+      ["borovnica", "ericaceae"]
+    ]
+  },
+  {
+    "description": "biljke i porodice kojima pripadaju",
+    "pairs": [
+      ["ruža", "rosaceae"],
+      ["kupina", "rosaceae"],
+      ["breza", "betulaceae"],
+      ["hrast", "fagaceae"],
+      ["jorgovan", "oleaceae"],
+      ["žalfija", "lamiaceae"],
+      ["smreka", "pinaceae"]
+    ]
+  },
+  {
+    "description": "biljke i porodice kojima pripadaju",
+    "pairs": [
+      ["javor", "aceraceae"],
+      ["lipa", "tiliaceae"],
+      ["jasen", "oleaceae"],
+      ["brest", "ulmaceae"],
+      ["divlja trešnja", "rosaceae"],
+      ["žalfija", "lamiaceae"],
+      ["breza", "betulaceae"]
+    ]
+  },
+  {
+    "description": "biljke i porodice kojima pripadaju",
+    "pairs": [
+      ["bagrem", "fabaceae"],
+      ["kopriva", "urticaceae"],
+      ["jagoda", "rosaceae"],
+      ["hrast", "fagaceae"],
+      ["smreka", "pinaceae"],
+      ["bokvica", "plantaginaceae"],
+      ["lubenica", "cucurbitaceae"]
+    ]
+  },
+  {
+    "description": "biljke i porodice kojima pripadaju",
+    "pairs": [
+      ["jorgovan", "oleaceae"],
+      ["žalfija", "lamiaceae"],
+      ["jasen", "oleaceae"],
+      ["lipa", "tiliaceae"],
+      ["brest", "ulmaceae"],
+      ["ruža", "rosaceae"],
+      ["kupina", "rosaceae"]
+    ]
+  },
+  {
+    "description": "biljke i porodice kojima pripadaju",
+    "pairs": [
+      ["jorgovan", "oleaceae"],
+      ["žalfija", "lamiaceae"],
+      ["jasen", "oleaceae"],
+      ["lipa", "tiliaceae"],
+      ["brest", "ulmaceae"],
+      ["ruža", "rosaceae"],
+      ["kupina", "rosaceae"]
+    ]
+  },
+  {
+    "description": "biljke i porodice kojima pripadaju",
+    "pairs": [
+      ["bagrem", "fabaceae"],
+      ["smreka", "pinaceae"],
+      ["jagoda", "rosaceae"],
+      ["breza", "betulaceae"],
+      ["jorgovan", "oleaceae"],
+      ["žalfija", "lamiaceae"],
+      ["lubenica", "cucurbitaceae"]
+    ]
+  },
+  {
+    "description": "životinje i porodice kojima pripadaju",
+    "pairs": [
+      ["mačka", "felidae"],
+      ["pas", "canidae"],
+      ["slon", "elephantidae"],
+      ["lav", "felidae"],
+      ["vuk", "canidae"],
+      ["tigar", "felidae"],
+      ["žirafa", "giraffidae"]
+    ]
+  },
+  {
+    "description": "životinje i porodice kojima pripadaju",
+    "pairs": [
+      ["medved", "ursidae"],
+      ["kit", "balaenopteridae"],
+      ["konj", "equidae"],
+      ["zebra", "equidae"],
+      ["pingvin", "spheniscidae"],
+      ["lav", "felidae"],
+      ["tigar", "felidae"]
+    ]
+  },
+  {
+    "description": "životinje i porodice kojima pripadaju",
+    "pairs": [
+      ["orao", "accipitridae"],
+      ["vuk", "canidae"],
+      ["zmija", "colubridae"],
+      ["foka", "phocidae"],
+      ["mačka", "felidae"],
+      ["panda", "ursidae"],
+      ["tigar", "felidae"]
+    ]
+  },
+  {
+    "description": "životinje i porodice kojima pripadaju",
+    "pairs": [
+      ["soko", "accipitridae"],
+      ["zec", "leporidae"],
+      ["krokodil", "crocodylidae"],
+      ["lav", "felidae"],
+      ["pingvin", "spheniscidae"],
+      ["foka", "phocidae"],
+      ["konj", "equidae"]
+    ]
+  },
+  {
+    "description": "životinje i porodice kojima pripadaju",
+    "pairs": [
+      ["kit", "balaenopteridae"],
+      ["pingvin", "spheniscidae"],
+      ["delfin", "delphinidae"],
+      ["mačka", "felidae"],
+      ["pas", "canidae"],
+      ["konj", "equidae"],
+      ["panda", "ursidae"]
+    ]
+  },
+  {
+    "description": "životinje i porodice kojima pripadaju",
+    "pairs": [
+      ["krokodil", "crocodylidae"],
+      ["slon", "elephantidae"],
+      ["medved", "ursidae"],
+      ["vuk", "canidae"],
+      ["pingvin", "spheniscidae"],
+      ["kit", "balaenopteridae"],
+      ["lav", "felidae"]
+    ]
+  },
+  {
+    "description": "životinje i porodice kojima pripadaju",
+    "pairs": [
+      ["žirafa", "giraffidae"],
+      ["zebra", "equidae"],
+      ["soko", "accipitridae"],
+      ["pingvin", "spheniscidae"],
+      ["foka", "phocidae"],
+      ["kit", "balaenopteridae"],
+      ["krokodil", "crocodylidae"]
+    ]
+  },
+  {
+    "description": "životinje i porodice kojima pripadaju",
+    "pairs": [
+      ["orao", "accipitridae"],
+      ["zečevi", "leporidae"],
+      ["delfin", "delphinidae"],
+      ["soko", "accipitridae"],
+      ["mačka", "felidae"],
+      ["pingvin", "spheniscidae"],
+      ["slon", "elephantidae"]
+    ]
+  },
+  {
+    "description": "životinje i porodice kojima pripadaju",
+    "pairs": [
+      ["žirafa", "giraffidae"],
+      ["zebra", "equidae"],
+      ["pingvin", "spheniscidae"],
+      ["foka", "phocidae"],
+      ["kit", "balaenopteridae"],
+      ["krokodil", "crocodylidae"],
+      ["soko", "accipitridae"]
+    ]
+  },
+  {
+    "description": "životinje i porodice kojima pripadaju",
+    "pairs": [
+      ["lav", "felidae"],
+      ["vuk", "canidae"],
+      ["pingvin", "spheniscidae"],
+      ["zebra", "equidae"],
+      ["kit", "balaenopteridae"],
+      ["krokodil", "crocodylidae"],
+      ["mačka", "felidae"]
+    ]
+  }
+]

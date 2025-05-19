@@ -1,0 +1,48 @@
+.instructionsContainer {
+  height: 100svh;
+  width: 100svw;
+  padding: 0.75rem;
+  box-sizing: border-box;
+  overflow: auto;
+}
+.instructionsContainer strong {
+  color: var(--dark-teal);
+}
+.instructionsContainer ul li::marker {
+  color: var(--dark-teal);
+}
+.instructionsContentWrapper {
+  width: 100%;
+  box-sizing: border-box;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 24px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+}
+.instructionsSection {
+  width: 100%;
+  margin: 4rem 0;
+  text-align: justify;
+}
+.instructionsTitle {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: var(--dark-teal);
+  text-align: center;
+}
+
+.subTitle {
+  font-size: 24px;
+  margin-bottom: 16px;
+  color: var(--teal);
+  text-align: center;
+}
+
+.instructionsParagraph {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 16px;
+  color: var(--black);
+  text-align: justify;
+}

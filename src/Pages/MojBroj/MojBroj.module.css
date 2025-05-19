@@ -1,0 +1,121 @@
+.root {
+  --root-padding: 1rem;
+  --container-gap: 0.75rem;
+  --wanted-number-height: 5rem;
+  --wanted-number-fontSize: 3rem;
+  --button-height: 4rem;
+  --button-fontSize: 2rem;
+  --submit-button-padding: 1rem;
+  --submit-button-fontSize: 2rem;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  animation: appear 0.3s;
+  box-sizing: border-box;
+  padding: var(--root-padding);
+}
+.container {
+  width: 100%;
+  max-width: 1200px;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+  align-items: stretch;
+  justify-content: center;
+  gap: var(--container-gap);
+}
+.wantedNumber, .submit {
+  align-self: stretch;
+  width: 100%;
+  grid-column-end: span 6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: var(--wanted-number-height);
+  font-size: var(--wanted-number-fontSize);
+  margin: auto 0;
+  font-weight: bold;
+  color: var(--white);
+  line-height: 0px;
+  text-transform: uppercase;
+  letter-spacing: 8px;
+  border-radius: 0.5rem;
+  background: var(--dark-teal);
+}
+.button {
+  flex: 1;
+  margin: auto 0;
+  height: var(--button-height);
+  background-color: var(--dark-teal);
+  text-transform: uppercase;
+  font-size: var(--button-fontSize);
+  font-weight: 600;
+  border-radius: 0.5rem;
+  border: none;
+  color: var(--white);
+  transition: all 0.3s;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: var(--teal);
+}
+.button:disabled {
+  opacity: 80%;
+  cursor: not-allowed;
+}
+.expressionContainer {
+  grid-column-end: span 4;
+}
+.resultContainer,
+.expressionContainer {
+  cursor: auto;
+  transition: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.resultContainer:hover,
+.expressionContainer:hover {
+  background-color: var(--dark-teal);
+}
+.backspace img {
+  height: 100%;
+  aspect-ratio: 1 / 1;
+}
+.timeCounter {
+  position: fixed;
+  right: 24px;
+  top: 12px;
+  color: var(--dark-teal);
+  font-size: 2rem;
+  font-weight: 600;
+  height: auto;
+  width: auto;
+  background-color: var(--white);
+}
+@keyframes appear {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@media only screen and (max-height: 500px) {
+  .root {
+    --root-padding: 0.75rem;
+    --container-gap: 0.5rem;
+    --wanted-number-height: 3rem;
+    --wanted-number-fontSize: 2rem;
+    --button-height: 3rem;
+    --button-fontSize: 1.5rem;
+    --submit-button-padding: 0.75rem;
+    --submit-button-fontSize: 1.5rem;
+  }
+  .timeCounter {
+    font-size: 1.5rem;
+  }
+}

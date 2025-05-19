@@ -1,0 +1,502 @@
+[
+  {
+    "description":"Grčki bogovi",
+    "correct":["Hestija","Zevs","Dionis","Demetra","Hera","Niksa","Had"],
+    "wrong":["Merkur","Mars","Jupiter","Saturn","Neptun","Morana","Vesna"]
+  },
+  {
+    "description":"Ulazne jedinice",
+    "correct":["tastatura","miš","mikrofon","kamera","skener","džojstik","veb kamera"],
+    "wrong":["monitor","slušalice","zvučnik","štampač","projektor","ploter","GPS"]
+  },
+  {
+    "description":"Izlazne jedinice",
+    "correct":["monitor","slušalice","zvučnik","štampač","projektor","ploter","GPS"],
+    "wrong":["tastatura","miš","mikrofon","kamera","skener","džojstik","veb kamera"]
+  },
+  {
+    "description":"Domaće životinje",
+    "correct":["pas","krava","koza","ovca","mačka","kokoška","svinja"],
+    "wrong":["lav","tigar","slon","zebra","leopard","medvjed","žirafa"]
+  },
+  {
+    "description":"Riječne ribe",
+    "correct":["som","šaran","mrena","amur","bucov","štuka","smuđ"],
+    "wrong":["haringa","bakalar","arbun","losos","inćun","orada","oslić"]
+  },
+  {
+    "description":"Morske ribe",
+    "correct":["haringa","bakalar","arbun","losos","inćun","orada","oslić"],
+    "wrong":["som","šaran","mrena","amur","bucov","štuka","smuđ"]
+  },
+  {
+    "description":"Metali",
+    "correct":["Fe","Au","Ag","Zr","W","Rf","Db"],
+    "wrong":["H","Li","Na","K","Rb","Cs","Fr"]
+  },
+  {
+    "description":"Glavni gradovi",
+    "correct":["Sarajevo","Zagreb","Beograd","Podgorica","London","Pariz","Oslo"],
+    "wrong":["Bihać","Modriča","Banja Luka","Šamac","Marseille","Toulouse","Doboj"]
+  },
+  {
+    "description":"Gradovi Bosne i Hercegovine",
+    "correct":["Modriča","Bihać","Doboj","Bijeljina","Brčko","Banja Luka","Sarajevo"],
+    "wrong":["Zagreb", "Beograd", "Marseille", "Podgorica", "Novi Sad","Niš","Čačak"]
+  },
+  {
+    "description": "Najviši planinski vrhovi",
+    "correct": ["Everest", "K2", "Kangčendzenga", "Lhotse", "Makalu", "Čo Oju", "Anapurna"],
+    "wrong": ["Aconcagua", "Kilimandžaro", "Mont Blanc", "Denali", "Elbrus", "Kavkaz", "Pamir"]
+  },
+  {
+    "description": "Značajne svjetske rijeke",
+    "correct": ["Amazon", "Nil", "Jangce", "Misisipi", "Ganga", "Jukon", "Volga"],
+    "wrong": ["Severna Dvina", "Tisa", "Reno", "Sena", "Tems", "Rijeka", "Potomak"]
+  },
+  {
+    "description": "Genetički poremećaji",
+    "correct": ["Daunov sindrom", "Hantingtonova bolest", "Fenilketonurija", "Turnerov sindrom", "Cistična fibroza", "Spinalna mišićna atrofija", "Marfanov sindrom"],
+    "wrong": ["Rak dojke", "Osteoporoza", "Hipertenzija", "HIV/AIDS", "Alchajmerova bolest", "Dijabetes", "Multipla skleroza"]
+  },
+  {
+    "description": "Oskarovci za najbolji film (do 2022. godine)",
+    "correct": ["Kum", "Lista Šindlera", "Titanik", "Gospodar prstenova: Povratak kralja", "Oblik vode", "Parazit", "Nomadland"],
+    "wrong": ["Harry Potter i Kamen mudraca", "Avatar", "Početak", "Mračni vitez", "Ratovi zvijezda: Epizoda IV - Nova nada", "Forest Gamp", "Pulp Fiction"]
+  },
+  {
+    "description": "Poznati svjetski fudbalski klubovi",
+    "correct": ["Real Madrid", "FC Barcelona", "Manchester United", "Bayern Munich", "Liverpool FC", "AC Milan", "Juventus"],
+    "wrong": ["New York Yankees", "Los Angeles Lakers", "Dallas Cowboys", "Manchester City", "Paris Saint-Germain", "Chelsea FC", "Arsenal FC"]
+  },
+  {
+    "description": "Modne marke",
+    "correct": ["Guci", "Luj Viton", "Šanel", "Prada", "Dior", "Versaće", "Armani"],
+    "wrong": ["Adidas", "Najk", "Puma", "Andar armor", "Zara", "H&M", "Uniklo"]
+  },
+  {
+    "description": "Evropski gradovi",
+    "correct": ["Pariz", "London", "Rim", "Berlin", "Amsterdam", "Prag", "Atina"],
+    "wrong": ["Njujork", "Tokio", "Peking", "Sidnej", "Toronto", "Rio de Žaneiro", "Kairo"]
+  },
+  {
+    "description": "Auto-moto brendovi",
+    "correct": ["BMW", "Mercedes-Benz", "Audi", "Ferari", "Porsche", "Toyota", "Honda"],
+    "wrong": ["Epel", "Najk", "Puma", "Andar armor", "Zara", "H&M", "Uniklo"]
+  },
+  {
+    "description": "Slavni slikari",
+    "correct": ["Leonardo da Vinči", "Vincent van Gog", "Pablo Pikaso", "Klod Mone", "Mikelanđelo", "Salvador Dali", "Rembrant"],
+    "wrong": ["Volfgang Amadeus Mocart", "Vilijam Šekspir", "Albert Ajnštajn", "Marija Kiri", "Nikola Tesla", "Mahatma Gandi", "Martin Luter King Džunior"]
+  },
+  {
+    "description": "Predsjednici SAD-a",
+    "correct": ["Džordž Vašington", "Abraham Linkoln", "Frenklin D. Ruzvelt", "Džon F. Kenedi", "Ronald Regan", "Bil Klinton", "Barak Obama"],
+    "wrong": ["Vladimir Putin", "Angela Merkel", "Emmanuel Makron", "Si Đinping", "Šinzo Abe", "Džastin Trudo", "Nelson Mandela"]
+  },
+  {
+    "description": "Domaće životinje",
+    "correct": ["Krava", "Pas", "Mačka", "Kokoška", "Koza", "Svinja", "Konj"],
+    "wrong": ["Lav", "Tigar", "Slon", "Zebra", "Leopard", "Medved", "Žirafa"]
+  },
+  {
+    "description": "Najviši planinski vrhovi",
+    "correct": ["Everest", "K2", "Kangčendženga", "Lhotse", "Makalu", "Čo Oju", "Anapurna"],
+    "wrong": ["Aconcagua", "Kilimandžaro", "Mont Blan", "Denali", "Elbrus", "Kavkaz", "Pamir"]
+  },
+  {
+    "description": "Poznati svjetski astronomi",
+    "correct": ["Galileo Galilej", "Johannes Kepler", "Isak Njutn", "Karl Sagan", "Nikola Kopernik", "Edvin Habl", "Eni Džamp Kanan"],
+    "wrong": ["Albert Ajnštajn", "Čarls Darvin", "Leonardo da Vinči", "Marija Kiri", "Stiven Hoking", "Nikola Tesla", "Ričard Fejnman"]
+  },
+  {
+    "description": "Evropske rijeke",
+    "correct": ["Dunav", "Rajna", "Sena", "Volga", "Tamiš", "Dnjepar", "Elba"],
+    "wrong": ["Amazon", "Nil", "Misisipi", "Mekong", "Ganga", "Jangce", "Niger"]
+  },
+  {
+    "description": "Poznati svjetski modni dizajneri",
+    "correct": ["Koko Šanel", "Džorđo Armani", "Ralf Lauren", "Kelvin Klajn", "Donatela Versaće", "Karl Lagerfeld", "Kristijan Dior"],
+    "wrong": ["Stiv Džobs", "Bil Gejts", "Elon Mask", "Džef Bezos", "Mark Zakerberg", "Tim Kuk", "Leri Pejdž"]
+  },
+  {
+    "description": "Olimpijski sportovi",
+    "correct": ["Atletika", "Plivanje", "Tenis", "Gimnastika", "Rvanje", "Džudo", "Streljaštvo"],
+    "wrong": ["Fudbal", "Košarka", "Odbojka", "Hokej na ledu", "Skijanje", "Snoubording", "Surfovanje"]
+  },
+  {
+    "description": "Poznati svetski reperi",
+    "correct": ["Eminem", "Džej Zi", "Kanje Vest", "Drejk", "Nas", "Snoop Dog", "Tupak Šakur"],
+    "wrong": ["Majkl Džekson", "Prins", "Madona", "Bijonse", "Adel", "Tejlor Svift", "Ed Širan"]
+  },
+  {
+    "description": "Evropske prestonice",
+    "correct": ["London", "Pariz", "Berlin", "Rim", "Madrid", "Atina", "Lisabon"],
+    "wrong": ["Vašington, D.C.", "Moskva", "Peking", "Tokio", "Kairo", "Kanbera", "Brasilia"]
+  },
+  {
+    "description": "Poznati svjetski brendovi čokolade",
+    "correct": ["Nestlé", "Cadbury", "Hershey's", "Lindt", "Ferrero Rocher", "Milka", "Ghirardelli"],
+    "wrong": ["Coca-Cola", "Pepsi", "Nike", "Adidas", "Apple", "Samsung", "Google"]
+  },
+  {
+    "description": "Poznate svjetske planine",
+    "correct": ["Mount Everest", "Kilimanjaro", "Matterhorn", "Denali", "Mont Blanc", "Aconcagua", "Mount Fuji"],
+    "wrong": ["Mount Rushmore", "Mount Vesuvius", "Mount St. Helens", "Mount McKinley", "Mauna Kea", "Mount Elbrus", "Mount Rainier"]
+  },
+  {
+    "description": "Poznati svjetski zoološki vrtovi",
+    "correct": ["San Diego Zoo", "Bronx Zoo", "London Zoo", "Singapore Zoo", "Berlin Zoological Garden", "Toronto Zoo", "Moscow Zoo"],
+    "wrong": ["Central Park Zoo", "Los Angeles Zoo", "Zoo Atlanta", "San Francisco Zoo", "Smithsonian National Zoo", "Melbourne Zoo", "Wellington Zoo"]
+  },
+  {
+    "description": "Poznati svjetski brendovi automobila",
+    "correct": ["Toyota", "Ford", "Volkswagen", "BMW", "Mercedes-Benz", "Honda", "Audi"],
+    "wrong": ["Apple", "Samsung", "Google", "Nike", "Adidas", "Microsoft", "Amazon"]
+  },
+  {
+    "description": "Poznati svjetski brendovi kafe",
+    "correct": ["Starbucks", "Nescafé", "Lavazza", "Illy", "Dunkin' Donuts", "Costa Coffee", "Tim Hortons"],
+    "wrong": ["Coca-Cola", "Pepsi", "Red Bull", "Monster Energy", "Rockstar Energy", "Gatorade", "Lucozade"]
+  },
+  {
+    "description": "Poznati svjetski brendovi elektronike",
+    "correct": ["Apple", "Samsung", "Sony", "LG", "Panasonic", "Microsoft", "Philips"],
+    "wrong": ["Coca-Cola", "Pepsi", "Nike", "Adidas", "Toyota", "Honda", "Volkswagen"]
+  },
+  {
+    "description": "Poznati svjetski brendovi sportske opreme",
+    "correct": ["Nike", "Adidas", "Under Armour", "Puma", "Reebok", "New Balance", "Asics"],
+    "wrong": ["Apple", "Samsung", "Microsoft", "Sony", "LG", "Panasonic", "Philips"]
+  },
+  {
+    "description": "Glumci iz filma Pulp Fiction",
+    "correct": ["John Travolta", "Uma Thurman", "Samuel L. Jackson", "Bruce Willis", "Ving Rhames", "Harvey Keitel", "Tim Roth"],
+    "wrong": ["Tom Hanks", "Meryl Streep", "Leonardo DiCaprio", "Brad Pitt", "Scarlett Johansson", "Angelina Jolie", "Charlize Theron"]
+  },
+  {
+    "description": "Likovi iz romana Rat i mir",
+    "correct": ["Pierre Bezukhov", "Andrei Bolkonsky", "Natasha Rostova", "Prince Andrei", "Kutuzov", "Prince Vassily", "Helene Kuragina"],
+    "wrong": ["Harry Potter", "Holden Caulfield", "Jay Gatsby", "Sherlock Holmes", "Bilbo Baggins", "Katniss Everdeen", "Don Quijote"]
+  },
+  {
+    "description": "Pjesme sa albuma Abbey Road od The Beatles",
+    "correct": ["Come Together", "Something", "Here Comes the Sun", "Octopus's Garden", "I Want You (She's So Heavy)", "Because", "Oh! Darling"],
+    "wrong": ["Bohemian Rhapsody", "Stairway to Heaven", "Like a Rolling Stone", "Purple Haze", "Smells Like Teen Spirit", "Wonderwall", "Hotel California"]
+  },
+  {
+    "description": "Glumci iz filma The Godfather",
+    "correct": ["Marlon Brando", "Al Pacino", "James Caan", "Robert Duvall", "Diane Keaton", "John Cazale", "Talia Shire"],
+    "wrong": ["Leonardo DiCaprio", "Tom Hanks", "Brad Pitt", "Johnny Depp", "Meryl Streep", "Angelina Jolie", "Scarlett Johansson"]
+  },
+  {
+    "description": "Slikari iz perioda renesanse",
+    "correct": ["Leonardo da Vinci", "Michelangelo", "Raffaello Sanzio", "Sandro Botticelli", "Tiziano Vecellio", "Titian", "Giorgione"],
+    "wrong": ["Pablo Picasso", "Vincent van Gogh", "Claude Monet", "Salvador Dalí", "Frida Kahlo", "Georgia O'Keeffe", "Jackson Pollock"]
+  },
+  {
+    "description": "Muzički žanrovi",
+    "correct": ["Rok", "Džez", "Klasična muzika", "Hip-hop", "R&B", "Pop", "Elektronska muzika"],
+    "wrong": ["Fudbal", "Tenis", "Košarka", "Plivanje", "Boks", "Skijanje", "Planinarenje"]
+  },
+  {
+    "description": "Filmovi sa Tom Hanksom",
+    "correct": ["Forrest Gump", "Cast Away", "Saving Private Ryan", "Philadelphia", "The Green Mile", "Apollo 13", "Big"],
+    "wrong": ["Pulp Fiction", "The Godfather", "The Dark Knight", "Inception", "The Shawshank Redemption", "Fight Club", "The Matrix"]
+  },
+  {
+    "description": "Književna djela autora iz 19. vijeka",
+    "correct": ["Ponos i predrasude", "Rat i mir", "Majstor i Margarita", "Oliver Twist", "Zločin i kazna", "Veliki Getsbi", "Ana Karenjina"],
+    "wrong": ["Harry Potter i Kamen mudraca", "Hobit", "The Catcher in the Rye", "To Kill a Mockingbird", "The Lord of the Rings", "1984", "Brave New World"]
+  },
+  {
+    "description": "Oskarovci za najbolji film",
+    "correct": ["The Godfather", "Schindler's List", "Titanic", "The Lord of the Rings: The Return of the King", "The Shape of Water", "Parasite", "Nomadland"],
+    "wrong": ["Harry Potter and the Philosopher's Stone", "Avatar", "Inception", "The Dark Knight", "Star Wars: Episode IV - A New Hope", "Forrest Gump", "Pulp Fiction"]
+  },
+  {
+    "description": "Filmovi Quentina Tarantina",
+    "correct": ["Pulp Fiction", "Kill Bill", "Django Unchained", "Inglourious Basterds", "Reservoir Dogs", "Once Upon a Time in Hollywood", "Jackie Brown"],
+    "wrong": ["The Shawshank Redemption", "The Godfather", "The Dark Knight", "Inception", "The Lord of the Rings", "The Matrix", "Fight Club"]
+  },
+  {
+    "description": "Slikari impresionizma",
+    "correct": ["Claude Monet", "Pierre-Auguste Renoir", "Edgar Degas", "Camille Pissarro", "Mary Cassatt", "Berthe Morisot", "Alfred Sisley"],
+    "wrong": ["Vincent van Gogh", "Pablo Picasso", "Salvador Dalí", "Leonardo da Vinci", "Michelangelo", "Rembrandt", "Jackson Pollock"]
+  },
+  {
+    "description": "Filmovi sa Meryl Streep",
+    "correct": ["The Devil Wears Prada", "Sophie's Choice", "Kramer vs. Kramer", "Out of Africa", "The Iron Lady", "Doubt", "Julie & Julia"],
+    "wrong": ["Pulp Fiction", "The Godfather", "The Dark Knight", "Inception", "The Shawshank Redemption", "Fight Club", "The Matrix"]
+  },
+  {
+    "description": "Književna djela autora iz romantizma",
+    "correct": ["Frankenstein", "The Hunchback of Notre-Dame", "Wuthering Heights", "Jane Eyre", "Les Misérables", "The Count of Monte Cristo", "Ivanhoe"],
+    "wrong": ["Harry Potter i Kamen mudraca", "Hobit", "The Catcher in the Rye", "To Kill a Mockingbird", "The Lord of the Rings", "1984", "Brave New World"]
+  },
+  {
+    "description": "Poznati svjetski astronomi",
+    "correct": ["Galileo Galilei", "Johannes Kepler", "Isaac Newton", "Carl Sagan", "Nicolaus Copernicus", "Edwin Hubble", "Annie Jump Cannon"],
+    "wrong": ["Albert Einstein", "Charles Darwin", "Leonardo da Vinci", "Marie Curie", "Stephen Hawking", "Nikola Tesla", "Richard Feynman"]
+  },
+  {
+    "description": "Poznati svjetski arhitekti",
+    "correct": ["Frank Lloyd Wright", "Le Corbusier", "Antoni Gaudí", "Zaha Hadid", "Ieoh Ming Pei", "Louis Kahn", "Renzo Piano"],
+    "wrong": ["Pablo Picasso", "Vincent van Gogh", "Claude Monet", "Salvador Dalí", "Leonardo da Vinci", "Michelangelo", "Rembrandt"]
+  },
+  {
+    "description": "Filmovi sa Tom Cruise-om",
+    "correct": ["Top Gun", "Mission: Impossible", "Jerry Maguire", "Rain Man", "A Few Good Men", "Collateral", "Edge of Tomorrow"],
+    "wrong": ["Pulp Fiction", "The Godfather", "The Dark Knight", "Inception", "The Shawshank Redemption", "Fight Club", "The Matrix"]
+  },
+  {
+    "description": "Književni likovi iz romana Dostojevskog",
+    "correct": ["Raskoljnikov", "Porfirije Petrovič", "Svidrigajlov", "Razumihin", "Sonja Marmeladova", "Dunja Rjepoljov", "Marmeladov"],
+    "wrong": ["Holden Caulfield", "Jay Gatsby", "Harry Potter", "Atticus Finch", "Lisbeth Salander", "Katniss Everdeen", "Sherlock Holmes"]
+  },
+  {
+    "description": "Poznati svjetski kompozitori klasične muzike",
+    "correct": ["Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Johann Sebastian Bach", "Pyotr Ilyich Tchaikovsky", "Franz Schubert", "Frédéric Chopin", "Antonio Vivaldi"],
+    "wrong": ["The Beatles", "Elvis Presley", "Michael Jackson", "Bob Dylan", "Johnny Cash", "David Bowie", "Prince"]
+  },
+  {
+    "description": "Poznate svjetske sportske lige",
+    "correct": ["NBA", "NFL", "Premier League", "La Liga", "Serie A", "Bundesliga", "Ligue 1"],
+    "wrong": ["NHL", "MLB", "MLS", "UEFA Champions League", "Formula 1", "Wimbledon", "Olympic Games"]
+  },
+  {
+    "description": "Poznati svjetski astronomski fenomeni",
+    "correct": ["Solar Eclipse", "Lunar Eclipse", "Halley's Comet", "Hale-Bopp Comet", "Northern Lights", "Supernova", "Black Hole"],
+    "wrong": ["Earthquake", "Tornado", "Hurricane", "Volcano Eruption", "Tsunami", "Avalanche", "Thunderstorm"]
+  },
+  {
+    "description": "Poznati svjetski parfimeri",
+    "correct": ["Coco Chanel", "Giorgio Armani", "Calvin Klein", "Christian Dior", "Yves Saint Laurent", "Marc Jacobs", "Tom Ford"],
+    "wrong": ["Nike", "Adidas", "Puma", "Reebok", "Converse", "Vans", "New Balance"]
+  },
+  {
+    "description": "Poznate svjetske spektakularne građevine",
+    "correct": ["Eiffel Tower", "Great Wall of China", "Taj Mahal", "Pyramids of Giza", "Colosseum", "Machu Picchu", "Petra"],
+    "wrong": ["Statue of Liberty", "Tower Bridge", "Sydney Opera House", "Burj Khalifa", "Brooklyn Bridge", "Golden Gate Bridge", "St. Basil's Cathedral"]
+  },
+  {
+    "description": "Poznati svjetski borci u MMA-u",
+    "correct": ["Conor McGregor", "Khabib Nurmagomedov", "Jon Jones", "Anderson Silva", "Georges St-Pierre", "Amanda Nunes", "Ronda Rousey"],
+    "wrong": ["Floyd Mayweather Jr.", "Mike Tyson", "Muhammad Ali", "Manny Pacquiao", "Canelo Alvarez", "Anthony Joshua", "Tyron Woodley"]
+  },
+  {
+    "description": "Poznati svjetski teoretičari fizike",
+    "correct": ["Albert Einstein", "Stephen Hawking", "Richard Feynman", "Niels Bohr", "Werner Heisenberg", "Max Planck", "Erwin Schrödinger"],
+    "wrong": ["Galileo Galilei", "Johannes Kepler", "Isaac Newton", "Marie Curie", "Nikola Tesla", "Carl Sagan", "Annie Jump Cannon"]
+  },
+  {
+    "description": "Poznati svjetski naučnici u oblasti medicine",
+    "correct": ["Florence Nightingale", "Louis Pasteur", "Alexander Fleming", "Jonas Salk", "Edward Jenner", "Elizabeth Blackwell", "Rene Laennec"],
+    "wrong": ["Albert Einstein", "Stephen Hawking", "Marie Curie", "Charles Darwin", "Galileo Galilei", "Isaac Newton", "Carl Sagan"]
+  },
+  {
+    "description": "Gradovi Srbije",
+    "correct": ["Beograd", "Novi Sad", "Niš", "Kragujevac", "Subotica", "Čačak", "Kraljevo"],
+    "wrong": ["Budimpešta", "Bukurešt", "Sofija", "Zagreb", "Sarajevo", "Skoplje", "Podgorica"]
+  },
+  {
+    "description": "Rijeke Evrope",
+    "correct": ["Dunav", "Sava", "Tisa", "Drina", "Morava", "Una", "Ibar"],
+    "wrong": ["Nil", "Amazon", "Mississippi", "Huang He", "Yangtze", "Ganges", "Ind"]
+  },
+  {
+    "description": "Planine u Srbiji",
+    "correct": ["Tara", "Zlatibor", "Kopaonik", "Stara planina", "Fruška gora", "Suva planina", "Golija"],
+    "wrong": ["Alpe", "Pirineji", "Kavkaz", "Apalači", "Himalaji", "Andi", "Anzići"]
+  },
+  {
+    "description": "Gradovi Italije",
+    "correct": ["Rim", "Milano", "Venecija", "Firenca", "Napulj", "Torino", "Bologna"],
+    "wrong": ["Pariz", "Madrid", "Berlin", "London", "Amsterdam", "Beč", "Prag"]
+  },
+  {
+    "description": "Rijeke SAD-a",
+    "correct": ["Mississippi", "Missouri", "Colorado", "Hudson", "Rio Grande", "Ohio", "Columbia"],
+    "wrong": ["Volga", "Nil", "Jangce", "Amazon", "Seina", "Tisa", "Don"]
+  },
+  {
+    "description": "Planine u Francuskoj",
+    "correct": ["Mont Blanc", "Pireneji", "Jura", "Vogesi", "Alpe-Maritime", "Masiv Central", "Alpe-Jure"],
+    "wrong": ["Kilimandžaro", "Everest", "Kavkaz", "Andi", "Himalaji", "Atlas", "Apalači"]
+  },
+  {
+    "description": "Gradovi Njemačke",
+    "correct": ["Berlin", "Hamburg", "München", "Köln", "Frankfurt", "Stuttgart", "Düsseldorf"],
+    "wrong": ["Rim", "Pariz", "Madrid", "London", "Beč", "Amsterdam", "Prag"]
+  },
+  {
+    "description": "Rijeke Rusije",
+    "correct": ["Volga", "Don", "Lena", "Ob", "Amur", "Jenisej", "Angara"],
+    "wrong": ["Nil", "Mississippi", "Amazon", "Huang He", "Tisa", "Dunav", "Rio Grande"]
+  },
+  {
+    "description": "Planine u Španiji",
+    "correct": ["Sierra Nevada", "Pirineji", "Sistema Central", "Montserrat", "Cantabrija", "Sierra de Guadarrama", "Sierra Morena"],
+    "wrong": ["Alpi", "Andi", "Apalači", "Masiv Central", "Alpe-Jure", "Tatra", "Karpate"]
+  },
+  {
+    "description": "Gradovi Japana",
+    "correct": ["Tokyo", "Osaka", "Nagoya", "Sapporo", "Kyoto", "Fukuoka", "Kawasaki"],
+    "wrong": ["Peking", "Seul", "Bangkok", "Manila", "Shanghai", "Mumbai", "Jakarta"]
+  },
+  {
+    "description": "Najviši vrhovi Balkana",
+    "correct": ["Musala", "Olimp", "Triglav", "Šar planina", "Rila", "Vihren", "Prokletije"],
+    "wrong": ["Mont Blanc", "Elbrus", "Kilimandžaro", "Everest", "Kavkaz", "Anapurna", "Denali"]
+  },
+  {
+    "description": "Gradovi Španije",
+    "correct": ["Madrid", "Barselona", "Valensija", "Sevilja", "Bilbao", "Toledo", "Málaga"],
+    "wrong": ["Rim", "London", "Berlin", "Pariz", "Amsterdam", "Prag", "Beč"]
+  },
+  {
+    "description": "Najveće rijeke Afrike",
+    "correct": ["Niger", "Kongo", "Nil", "Zambija", "Oranje", "Nijer", "Senegal"],
+    "wrong": ["Misisipi", "Amazon", "Volga", "Ganga", "Jangce", "Tisa", "Dunav"]
+  },
+  {
+    "description": "Planine Azije",
+    "correct": ["Everest", "Himalaji", "Kavkaz", "Anapurna", "Pamir", "Altaj", "Tian Shan"],
+    "wrong": ["Alpi", "Pireneji", "Andi", "Aconcagua", "Kilimandžaro", "Elbrus", "Rockies"]
+  },
+  {
+    "description": "Gradovi Australije",
+    "correct": ["Sidnej", "Melburn", "Brisben", "Perth", "Adelaida", "Gold Coast", "Canberra"],
+    "wrong": ["Tokyo", "London", "New York", "Rim", "Peking", "Berlin", "Pariz"]
+  },
+  {
+    "description": "Najveće rijeke Azije",
+    "correct": ["Jangce", "Huang He", "Ind", "Ganga", "Amur", "Mekong", "Ob"],
+    "wrong": ["Nil", "Amazon", "Mississippi", "Volga", "Dunav", "Tisa", "Sena"]
+  },
+  {
+    "description": "Planine Južne Amerike",
+    "correct": ["Aconcagua", "Andi", "Montevidéo", "Mont Blanc", "Elbrus", "Cotopaxi", "Vinson"],
+    "wrong": ["Rockies", "Alpi", "Himalaji", "Kavkaz", "Pireneji", "Kilimandžaro", "Anapurna"]
+  },
+  {
+    "description": "Gradovi Kanade",
+    "correct": ["Toronto", "Montreal", "Vancouver", "Kalgari", "Ottawa", "Edmonton", "Quebec City"],
+    "wrong": ["Moskva", "Peking", "London", "Sidnej", "Rim", "New York", "Tokyo"]
+  },
+  {
+    "description": "Najviši vrhovi Australije",
+    "correct": ["Kosciuszko", "Mount Townsend", "Mount Twynam", "Mount Townsend", "Mount Northcote", "Mount Watson", "Mount Ramshead"],
+    "wrong": ["Everest", "Mont Blanc", "Kilimandžaro", "Elbrus", "Aconcagua", "Anapurna", "Himalaji"]
+  },
+  {
+    "description": "Planine Afrike",
+    "correct": ["Kilimandžaro", "Atlas", "Rift Mountains", "Drakensberg", "Simien Mountains", "Ras Dashen", "Homa Mountains"],
+    "wrong": ["Rockies", "Alpi", "Himalaji", "Kavkaz", "Pireneji", "Andi", "Aconcagua"]
+  },
+  {
+    "description": "Gradovi Rusije",
+    "correct": ["Moskva", "Sankt Peterburg", "Novosibirsk", "Jekaterinburg", "Nižnji Novgorod", "Kazanj", "Samara"],
+    "wrong": ["London", "Berlin", "Pariz", "Rim", "Madrid", "Atina", "Beograd"]
+  },
+  {
+    "description": "Najveće rijeke Kanade",
+    "correct": ["Mekong", "Fraser", "Mackenzie", "Yukon", "Saint Lawrence", "Churchill", "Saskatchewan"],
+    "wrong": ["Nil", "Amazon", "Mississippi", "Jangce", "Ganga", "Niger", "Dunav"]
+  },
+  {
+    "description": "Planine Severne Amerike",
+    "correct": ["Rockies", "Aljaska", "Kaskadi", "Sierra Nevada", "Appalachian", "Coast Mountains", "Cascades"],
+    "wrong": ["Himalaji", "Andi", "Pireneji", "Kavkaz", "Elbrus", "Mont Blanc", "Kilimandžaro"]
+  },
+  {
+    "description": "Gradovi Kine",
+    "correct": ["Peking", "Šangaj", "Guangzhou", "Shenzhen", "Wuhan", "Tianjin", "Chongqing"],
+    "wrong": ["Berlin", "Rim", "London", "Pariz", "Madrid", "Atina", "Beograd"]
+  },
+  {
+    "description": "Najveće rijeke Kine",
+    "correct": ["Jangce", "Huang He", "Jangzi", "Xi Jiang", "Huai He", "Yalong Jiang", "Daxi Jiang"],
+    "wrong": ["Nil", "Amazon", "Mississippi", "Ganga", "Mekong", "Fraser", "Sjeverna Dvina"]
+  },
+  {
+    "description": "Likovi koje je tumačio Tom Hanks",
+    "correct": ["Forrest Gump", "Captain John H. Miller", "Chuck Noland", "Robert Langdon", "Woody", "Josh Baskin", "Jim Lovell"],
+    "wrong": ["James Bond", "Luke Skywalker", "Harry Potter", "Indiana Jones", "Sherlock Holmes", "Captain Jack Sparrow", "Tony Stark"]
+  },
+  {
+    "description": "Likovi koje je tumačio Meryl Streep",
+    "correct": ["Miranda Priestly", "Sophie", "Julia Child", "Karen Silkwood", "Margaret Thatcher", "Katherine Graham", "Florence Foster Jenkins"],
+    "wrong": ["Hannibal Lecter", "Jack Sparrow", "Terminator", "Vito Corleone", "Norman Bates", "Rocky Balboa", "James Bond"]
+  },
+  {
+    "description": "Likovi koje je tumačio Leonardo DiCaprio",
+    "correct": ["Jordan Belfort", "Jack Dawson", "Hugh Glass", "Howard Hughes", "Frank Abagnale Jr.", "Billy Costigan", "Dom Cobb"],
+    "wrong": ["Harry Potter", "Indiana Jones", "Luke Skywalker", "Forrest Gump", "Sherlock Holmes", "Tony Stark", "Captain Jack Sparrow"]
+  },
+  {
+    "description": "Likovi koje je tumačila Audrey Hepburn",
+    "correct": ["Holly Golightly", "Princess Ann", "Sabrina Fairchild", "Jo Stockton", "Regina Lampert", "Charade", "Ariane Chavasse"],
+    "wrong": ["Terminator", "Hannibal Lecter", "James Bond", "Rocky Balboa", "Vito Corleone", "Norman Bates", "Luke Skywalker"]
+  },
+  {
+    "description": "Likovi koje je tumačio Clint Eastwood",
+    "correct": ["The Man with No Name", "Dirty Harry Callahan", "Josie Wales", "Blondie", "Inspector 'Dirty' Harry Callahan", "Frankie Dunn", "Walt Kowalski"],
+    "wrong": ["Princess Leia", "James Bond", "Indiana Jones", "Forrest Gump", "Sherlock Holmes", "Jack Sparrow", "Tony Stark"]
+  },
+  {
+    "description": "Likovi koje je tumačio Al Pacino",
+    "correct": ["Michael Corleone", "Tony Montana", "Frank Serpico", "Carlito Brigante", "Sonny Wortzik", "Benjamin 'Lefty' Ruggiero", "Ricky Roma"],
+    "wrong": ["Harry Potter", "Luke Skywalker", "James Bond", "Indiana Jones", "Forrest Gump", "Sherlock Holmes", "Jack Sparrow"]
+  },
+  {
+    "description": "Likovi koje je tumačila Angelina Jolie",
+    "correct": ["Lara Croft", "Evelyn Salt", "Maleficent", "Jane Smith", "Christine Collins", "Marianne Pearl", "Gia Carangi"],
+    "wrong": ["Harry Potter", "Luke Skywalker", "James Bond", "Indiana Jones", "Forrest Gump", "Sherlock Holmes", "Jack Sparrow"]
+  },
+  {
+    "description": "Likovi koje je tumačio Robert De Niro",
+    "correct": ["Vito Corleone", "Jake LaMotta", "Travis Bickle", "Jimmy Conway", "Max Cady", "Rupert Pupkin", "Al Capone"],
+    "wrong": ["Harry Potter", "Luke Skywalker", "James Bond", "Indiana Jones", "Forrest Gump", "Sherlock Holmes", "Jack Sparrow"]
+  },
+  {
+    "description": "Likovi koje je tumačila Julia Roberts",
+    "correct": ["Vivian Ward", "Erin Brockovich", "Anna Scott", "Maggie Carpenter", "Shelby Eatenton", "Laura Burney", "Charlotte 'Charlie' Newton"],
+    "wrong": ["Harry Potter", "Luke Skywalker", "James Bond", "Indiana Jones", "Forrest Gump", "Sherlock Holmes", "Jack Sparrow"]
+  },
+  {
+    "description": "Likovi koje je tumačio Brad Pitt",
+    "correct": ["Tyler Durden", "Achilles", "Lt. Aldo Raine", "Mickey O'Neil", "Benjamin Button", "Tristan Ludlow", "Jesse James"],
+    "wrong": ["Harry Potter", "Luke Skywalker", "James Bond", "Indiana Jones", "Forrest Gump", "Sherlock Holmes", "Jack Sparrow"]
+  },
+  {
+    "description": "Biljke iz porodice Asteraceae",
+    "correct": ["Majčina dušica", "Kamilica", "Neven", "Maslačak", "Krupnolisna ivanjica", "Radič", "Cikorija"],
+    "wrong": ["Javor", "Bor", "Breza", "Četina", "Topola", "Jasen", "Bagrem"]
+  },
+  {
+    "description": "Životinje iz porodice Canidae",
+    "correct": ["Vuk", "Šakal", "Lisica", "Pustinjski šakal", "Crveni vuk", "Sibirski vuk", "Sivi vuk"],
+    "wrong": ["Lav", "Tigar", "Leopard", "Gepard", "Pantera", "Jaguar", "Puma"]
+  },
+  {
+    "description": "Biljke iz porodice Fabaceae",
+    "correct": ["Grah", "Pasulj", "Soja", "Ljubičica", "Kopriva", "Detelina", "Gajk"],
+    "wrong": ["Ruža", "Ljiljan", "Tulipan", "Orhideja", "Kaktus", "Jorgovan", "Hibiskus"]
+  },
+  {
+    "description": "Životinje iz porodice Felidae",
+    "correct": ["Lav", "Tigar", "Leopard", "Gepard", "Pantera", "Jaguar", "Puma"],
+    "wrong": ["Vuk", "Šakal", "Lisica", "Medvjed", "Vepar", "Ris", "Rijeka"]
+  },
+  {
+    "description": "Biljke iz porodice Rosaceae",
+    "correct": ["Majčina dušica", "Kamilica", "Neven", "Maslačak", "Krupnolisna ivanjica", "Radič", "Cikorija"],
+    "wrong": ["Javor", "Bor", "Breza", "Četina", "Topola", "Jasen", "Bagrem"]
+  },
+  {
+    "description": "Životinje iz porodice Ursidae",
+    "correct": ["Medvjed", "Polar medvjed", "Smeđi medvjed", "Koala", "Panda", "Grizli", "Mali panda"],
+    "wrong": ["Vuk", "Šakal", "Lisica", "Tigar", "Leopard", "Jaguar", "Lav"]
+  }
+]

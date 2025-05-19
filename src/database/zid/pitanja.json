@@ -1,0 +1,1282 @@
+[
+  {
+    "question": "Koji od sledećih gradova je prestonica Francuske?",
+    "answers": ["London", "Berlin", "Pariz", "Rim"],
+    "correctAnswer": "Pariz"
+  },
+  {
+    "question": "Ko je napisao dramu 'Hamlet'?",
+    "answers": ["William Shakespeare", "Mihail Bulgakov", "Fjodor Dostojevski", "Charles Dickens"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "question": "Ko je prvi čovek koji je kročio na Mesec?",
+    "answers": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "John Glenn"],
+    "correctAnswer": "Neil Armstrong"
+  },
+  {
+    "question": "Koji je najveći kontinent na Zemlji?",
+    "answers": ["Afrika", "Azija", "Evropa", "Severna Amerika"],
+    "correctAnswer": "Azija"
+  },
+  {
+    "question": "Ko je napisao roman 'Ana Karenjina'?",
+    "answers": ["Fjodor Dostojevski", "Lev Tolstoj", "Gustav Flober", "Herman Hese"],
+    "correctAnswer": "Lev Tolstoj"
+  },
+  {
+    "question": "Koje godine je završen Prvi svetski rat?",
+    "answers": ["1914", "1917", "1918", "1921"],
+    "correctAnswer": "1918"
+  },
+  {
+    "question": "Koja je najveća planina na svetu?",
+    "answers": ["Everest", "Kilimandžaro", "Mont Everest", "K2"],
+    "correctAnswer": "Everest"
+  },
+  {
+    "question": "Ko je napisao 'Romeo i Julija'?",
+    "answers": ["William Shakespeare", "Jane Austen", "Charles Dickens", "Leo Tolstoj"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "question": "Ko je pronalazač teorije relativiteta?",
+    "answers": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+    "correctAnswer": "Albert Einstein"
+  },
+  {
+    "question": "Koji od sledećih je najduža reka u Africi?",
+    "answers": ["Nil", "Kongo", "Niger", "Zambezi"],
+    "correctAnswer": "Nil"
+  },
+  {
+    "question": "Ko je autor 'Mona Lize'?",
+    "answers": ["Leonardo da Vinči", "Michelangelo", "Rafael", "Donatelo"],
+    "correctAnswer": "Leonardo da Vinči"
+  },
+  {
+    "question": "Koje godine je pao Berlinski zid?",
+    "answers": ["1987", "1989", "1991", "1993"],
+    "correctAnswer": "1989"
+  },
+  {
+    "question": "Koji od sledećih gradova je prestonica Francuske?",
+    "answers": ["London", "Berlin", "Pariz", "Rim"],
+    "correctAnswer": "Pariz"
+  },
+  {
+    "question": "Ko je napisao dramu 'Hamlet'?",
+    "answers": ["William Shakespeare", "Mihail Bulgakov", "Fjodor Dostojevski", "Charles Dickens"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "question": "Ko je prvi čovek koji je kročio na Mesec?",
+    "answers": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "John Glenn"],
+    "correctAnswer": "Neil Armstrong"
+  },
+  {
+    "question": "Koji je najveći kontinent na Zemlji?",
+    "answers": ["Afrika", "Azija", "Evropa", "Severna Amerika"],
+    "correctAnswer": "Azija"
+  },
+  {
+    "question": "Ko je napisao roman 'Rat i mir'?",
+    "answers": ["Fjodor Dostojevski", "Lev Tolstoj", "Gustav Flober", "Herman Hese"],
+    "correctAnswer": "Lev Tolstoj"
+  },
+  {
+    "question": "Ko je bio prvi američki predsednik?",
+    "answers": ["Thomas Jefferson", "George Washington", "Abraham Lincoln", "John F. Kennedy"],
+    "correctAnswer": "George Washington"
+  },
+  {
+    "question": "Koliko planeta ima Sunčev sistem?",
+    "answers": ["7", "8", "9", "10"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Koji je hemijski simbol za vodonik?",
+    "answers": ["O", "H", "V", "W"],
+    "correctAnswer": "H"
+  },
+  {
+    "question": "Ko je napisao tragediju 'Orestija'?",
+    "answers": ["Eshil", "Sofokle", "Euripid", "Herodot"],
+    "correctAnswer": "Eshil"
+  },
+  {
+    "question": "Ko je napisao 'Paklena pomorandža'?",
+    "answers": ["Aldous Huxley", "George Orwell", "Anthony Burgess", "Ray Bradbury"],
+    "correctAnswer": "Anthony Burgess"
+  },
+  {
+    "question": "Ko je bio prvi čovek koji je otkrio Ameriku?",
+    "answers": ["Christofer Columbus", "Amerigo Vespuči", "Ferdinand Magellan", "Vasko da Gama"],
+    "correctAnswer": "Christofer Columbus"
+  },
+  {
+    "question": "Ko je napisao 'Kako ubiti pticu rugalicu'?",
+    "answers": ["Harper Lee", "Mark Twain", "Ernest Hemingway", "John Steinbeck"],
+    "correctAnswer": "Harper Lee"
+  },
+  {
+    "question": "Koji je najveći grad u svetu po populaciji?",
+    "answers": ["Tokio", "Šangaj", "Mumbai", "Peking"],
+    "correctAnswer": "Tokio"
+  },
+  {
+    "question": "Ko je bio prvi čovek na prostoru današnje Srbije?",
+    "answers": ["Neandertalac", "Homo sapiens", "Vinčanski čovek", "Iliri"],
+    "correctAnswer": "Neandertalac"
+  },
+  {
+    "question": "Koji naučnik je formulisao teoriju relativiteta?",
+    "answers": ["Isaac Newton", "Albert Einstein", "Niels Bohr", "Werner Heisenberg"],
+    "correctAnswer": "Albert Einstein"
+  },
+  {
+    "question": "Koja je najduža reka u svetu?",
+    "answers": ["Amazon", "Niger", "Jangce", "Misisipi"],
+    "correctAnswer": "Amazon"
+  },
+  {
+    "question": "Ko je bio prvi čovek koji je osvojio Nobelovu nagradu za književnost?",
+    "answers": ["Rudyard Kipling", "Mark Twain", "Leo Tolstoj", "William Faulkner"],
+    "correctAnswer": "Rudyard Kipling"
+  },
+  {
+    "question": "Ko je otkrio prvu planetu izvan Sunčevog sistema?",
+    "answers": ["Johannes Kepler", "Galileo Galilei", "William Herschel", "Nicolaus Copernicus"],
+    "correctAnswer": "William Herschel"
+  },
+  {
+    "question": "Koji je najmanji element po atomskoj masi?",
+    "answers": ["Vodonik", "Helijum", "Litijum", "Bor"],
+    "correctAnswer": "Vodonik"
+  },
+  {
+    "question": "Ko je prvi put izmerio brzinu svetlosti?",
+    "answers": ["Isaac Newton", "Albert Michelson", "Galileo Galilei", "James Clerk Maxwell"],
+    "correctAnswer": "Albert Michelson"
+  },
+  {
+    "question": "Koja je najveća pustinja na svetu?",
+    "answers": ["Sahara", "Atakama", "Antarktik", "Gobi"],
+    "correctAnswer": "Antarktik"
+  },
+  {
+    "question": "Ko je osvojio Nobelovu nagradu za fiziku za otkriće radijacije?",
+    "answers": ["Marie Curie", "Albert Einstein", "Max Planck", "Niels Bohr"],
+    "correctAnswer": "Marie Curie"
+  },
+  {
+    "question": "Ko je bio prvi čovek koji je popeo na vrh Mont Everesta?",
+    "answers": ["Edmund Hillary", "Tenzing Norgay", "Reinhold Messner", "Maurice Herzog"],
+    "correctAnswer": "Edmund Hillary"
+  },
+  {
+    "question": "Ko je napisao knjigu 'Vojna strategija'?",
+    "answers": ["Sun Tzu", "Machiavelli", "Carl von Clausewitz", "Niccolò Machiavelli"],
+    "correctAnswer": "Sun Tzu"
+  },
+  {
+    "question": "Ko je osvojio Nobelovu nagradu za fiziologiju ili medicinu za otkriće penicilina?",
+    "answers": ["Alexander Fleming", "Louis Pasteur", "Jonas Salk", "Robert Koch"],
+    "correctAnswer": "Alexander Fleming"
+  },
+  {
+    "question": "Koja je najmanja država na svetu po površini?",
+    "answers": ["Vatikan", "Monako", "Nauru", "Maldivi"],
+    "correctAnswer": "Vatikan"
+  },
+  {
+    "question": "Koji je hemijski element imenovan po naučniku Albertu Einsteinu?",
+    "answers": ["Einsteinijum", "Curium", "Francium", "Mendelevijum"],
+    "correctAnswer": "Einsteinijum"
+  },
+  {
+    "question": "Koja je najveća životinja na Zemlji?",
+    "answers": ["Plavi kit", "Američki bizon", "Slon", "Gorila"],
+    "correctAnswer": "Plavi kit"
+  },
+  {
+    "question": "Ko je napisao filozofski roman 'U potrazi za izgubljenim vremenom'?",
+    "answers": ["Gustave Flaubert", "Marcel Proust", "Fjodor Dostojevski", "James Joyce"],
+    "correctAnswer": "Marcel Proust"
+  },
+  {
+    "question": "Ko je otkrio prvi zakon termodinamike?",
+    "answers": ["James Clerk Maxwell", "Ludwig Boltzmann", "Sadi Carnot", "Rudolf Clausius"],
+    "correctAnswer": "Sadi Carnot"
+  },
+  {
+    "question": "Ko je osvojio Nobelovu nagradu za mir 1964. godine zbog borbe protiv rasne diskriminacije?",
+    "answers": ["Martin Luther King Jr.", "Nelson Mandela", "Mahatma Gandhi", "Desmond Tutu"],
+    "correctAnswer": "Martin Luther King Jr."
+  },
+  {
+    "question": "Koji je najviši planinski vrh u Evropi?",
+    "answers": ["Mont Blanc", "Elbrus", "Matterhorn", "Dolomiti"],
+    "correctAnswer": "Elbrus"
+  },
+  {
+    "question": "Koja je najduža reka u Aziji?",
+    "answers": ["Jangce", "Huanghe", "Mekong", "Irtiš"],
+    "correctAnswer": "Jangce"
+  },
+  {
+    "question": "Ko je napisao knjigu 'Kapital'?",
+    "answers": ["Adam Smith", "Karl Marx", "John Maynard Keynes", "Milton Friedman"],
+    "correctAnswer": "Karl Marx"
+  },
+  {
+    "question": "Koji je naučnik formulisao kvantnu mehaniku?",
+    "answers": ["Werner Heisenberg", "Max Planck", "Erwin Schrödinger", "Niels Bohr"],
+    "correctAnswer": "Erwin Schrödinger"
+  },
+  {
+    "question": "Koji je hemijski element najrasprostranjeniji u ljudskom telu?",
+    "answers": ["Hidrogen", "Oksigen", "Karbon", "Azot"],
+    "correctAnswer": "Karbon"
+  },
+  {
+    "question": "Koja je najviša temperatura ikad zabeležena na Zemlji?",
+    "answers": ["55 °C", "66 °C", "70 °C", "100 °C"],
+    "correctAnswer": "70 °C"
+  },
+  {
+    "question": "Koja je najveća životinja koja je ikada živela na Zemlji?",
+    "answers": ["Plavi kit", "Argentinosaurus", "Liopleurodon", "Brachiosaurus"],
+    "correctAnswer": "Argentinosaurus"
+  },
+  {
+    "question": "Koji je element imenovan po grčkom bogu Sunca?",
+    "answers": ["Helijum", "Heli", "Selen", "Helium"],
+    "correctAnswer": "Helijum"
+  },
+  {
+    "question": "Ko je napisao delo 'Bogovi i ljudi'?",
+    "answers": ["Homer", "Herodot", "Platon", "Aristotel"],
+    "correctAnswer": "Homer"
+  },
+  {
+    "question": "Koja je najstarija poznata civilizacija na svetu?",
+    "answers": ["Sumerani", "Induska civilizacija", "Egipćani", "Maji"],
+    "correctAnswer": "Sumerani"
+  },
+  {
+    "question": "Ko je bio prvi kosmonaut u svemiru?",
+    "answers": ["Yuri Gagarin", "Alan Shepard", "John Glenn", "Neil Armstrong"],
+    "correctAnswer": "Yuri Gagarin"
+  },
+  {
+    "question": "Ko je osvojio Nobelovu nagradu za hemiju za otkriće radijuma i polonijuma?",
+    "answers": ["Marie Curie", "Dmitri Mendeleev", "Linus Pauling", "Irène Joliot-Curie"],
+    "correctAnswer": "Marie Curie"
+  },
+  {
+    "question": "Ko je prvi put predložio heliocentrični model Sunčevog sistema?",
+    "answers": ["Nicolaus Copernicus", "Galileo Galilei", "Johannes Kepler", "Aristotel"],
+    "correctAnswer": "Nicolaus Copernicus"
+  },
+  {
+    "question": "Koji je glavni grad Kanade?",
+    "answers": ["Toronto", "Montreal", "Ottawa", "Vancouver"],
+    "correctAnswer": "Ottawa"
+  },
+  {
+    "question": "Ko je napisao komediju 'Buka i bes'?",
+    "answers": ["Fjodor Dostojevski", "Ernest Hemingvej", "Gustav Flober", "William Faulkner"],
+    "correctAnswer": "William Faulkner"
+  },
+  {
+    "question": "Ko je otkrio elektromagnetno zračenje koje je kasnije nazvano X-zraci?",
+    "answers": ["Henri Becquerel", "Wilhelm Röntgen", "Max Planck", "Marie Curie"],
+    "correctAnswer": "Wilhelm Röntgen"
+  },
+  {
+    "question": "Koji je hemijski element najviše prisutan u Zemljinoj kori?",
+    "answers": ["Kiseonik", "Silicijum", "Aluminijum", "Gvožđe"],
+    "correctAnswer": "Kiseonik"
+  },
+  {
+    "question": "Koja je najstarija poznata pisana civilizacija?",
+    "answers": ["Sumeri", "Babilonci", "Maji", "Hetiti"],
+    "correctAnswer": "Sumeri"
+  },
+  {
+    "question": "Ko je bio prvi evropski istraživač koji je doplovio do obala Australije?",
+    "answers": ["Abel Tasman", "James Cook", "Willem Janszoon", "Luis Vaez de Torres"],
+    "correctAnswer": "Willem Janszoon"
+  },
+  {
+    "question": "Koja je najduža reka u Južnoj Americi?",
+    "answers": ["Amazon", "Orinoko", "Parana", "Río de la Plata"],
+    "correctAnswer": "Amazon"
+  },
+  {
+    "question": "Ko je napisao filozofski spis 'Prolegomena to Any Future Metaphysics'?",
+    "answers": ["Immanuel Kant", "David Hume", "René Descartes", "John Locke"],
+    "correctAnswer": "Immanuel Kant"
+  },
+  {
+    "question": "Koja je najveća država na svetu po površini?",
+    "answers": ["Rusija", "Kanada", "Kina", "SAD"],
+    "correctAnswer": "Rusija"
+  },
+  {
+    "question": "Ko je bio prvi predsednik SAD-a?",
+    "answers": ["Thomas Jefferson", "John Adams", "George Washington", "James Madison"],
+    "correctAnswer": "George Washington"
+  },
+  {
+    "question": "Ko je napisao knjigu 'Vavilonski režim'?",
+    "answers": ["F. Scott Fitzgerald", "George Orwell", "Aldous Huxley", "Isaac Asimov"],
+    "correctAnswer": "Aldous Huxley"
+  },
+  {
+    "question": "Ko je osvojio Nobelovu nagradu za fiziologiju ili medicinu za otkriće strukture DNK?",
+    "answers": ["James Watson i Francis Crick", "Rosalind Franklin", "Linus Pauling", "Barbara McClintock"],
+    "correctAnswer": "James Watson i Francis Crick"
+  },
+  {
+    "question": "Koja je najveća reka u Evropi po protoku vode?",
+    "answers": ["Volga", "Dunav", "Rajna", "Dnjepar"],
+    "correctAnswer": "Volga"
+  },
+  {
+    "question": "Ko je osvojio Nobelovu nagradu za mir za osnivanje Crvenog krsta?",
+    "answers": ["Henry Dunant", "Albert Schweitzer", "Mother Teresa", "Nelson Mandela"],
+    "correctAnswer": "Henry Dunant"
+  },
+  {
+    "question": "Ko je bio prvi vladar drevne Mesopotamije?",
+    "answers": ["Sargon Akadski", "Hamurabi", "Ašurbanipal", "Gilgameš"],
+    "correctAnswer": "Sargon Akadski"
+  },
+  {
+    "question": "Ko je napisao knjigu 'Don Kihot'?",
+    "answers": ["Miguel de Cervantes", "Franz Kafka", "Leo Tolstoj", "Fjodor Dostojevski"],
+    "correctAnswer": "Miguel de Cervantes"
+  },
+  {
+    "question": "Koji je hemijski element osnovni sastojak stakla?",
+    "answers": ["Sumpor", "Fosfor", "Barijum", "Silicijum"],
+    "correctAnswer": "Silicijum"
+  },
+  {
+    "question": "Ko je bio osnivač hinduizma?",
+    "answers": ["Buda", "Muhamed", "Mahavira", "Nijansa"],
+    "correctAnswer": "Nijansa"
+  },
+  {
+    "question": "Ko je bio prvi američki predsednik koji je bio rođen u SAD-u?",
+    "answers": ["Martin Van Buren", "Andrew Jackson", "John Tyler", "James K. Polk"],
+    "correctAnswer": "Martin Van Buren"
+  },
+  {
+    "question": "Koja je najveća država u Africi po površini?",
+    "answers": ["Alžir", "DR Kongo", "Sudan", "Libija"],
+    "correctAnswer": "Alžir"
+  },
+  {
+    "question": "Ko je napisao delo 'Oliver Tvist'?",
+    "answers": ["Charles Dickens", "Jane Austen", "Emily Brontë", "Fyodor Dostoevsky"],
+    "correctAnswer": "Charles Dickens"
+  },
+  {
+    "question": "Koji je hemijski element najlakši?",
+    "answers": ["Hidrogen", "Helijum", "Liti", "Bor"],
+    "correctAnswer": "Hidrogen"
+  },
+  {
+    "question": "Koji je najveći kontinent na Zemlji?",
+    "answers": ["Afrika", "Azija", "Evropa", "Južna Amerika"],
+    "correctAnswer": "Azija"
+  },
+  {
+    "question": "Koja je najveća žlezda u ljudskom telu?",
+    "answers": ["Jetra", "Žučna kesa", "Bubrezi", "Žlezda slezina"],
+    "correctAnswer": "Jetra"
+  },
+  {
+    "question": "Ko je prvi put koristio termin 'neravnoteža moći'?",
+    "answers": ["Winston Churchill", "Henry Kissinger", "Theodore Roosevelt", "John F. Kennedy"],
+    "correctAnswer": "Winston Churchill"
+  },
+  {
+    "question": "Koja je najveća životinja koja ikada postoji na Zemlji?",
+    "answers": ["Plavi kit", "Brontosaurus", "Megalodon", "Argentinosaurus"],
+    "correctAnswer": "Plavi kit"
+  },
+  {
+    "question": "Koji je hemijski element najviše zastupljen u Zemljinoj kori?",
+    "answers": ["Oksigen", "Silicijum", "Aluminijum", "Kalcijum"],
+    "correctAnswer": "Oksigen"
+  },
+  {
+    "question": "Ko je napisao 'Gospodara prstenova'?",
+    "answers": ["J.R.R. Tolkien", "C.S. Lewis", "George R.R. Martin", "Philip Pullman"],
+    "correctAnswer": "J.R.R. Tolkien"
+  },
+  {
+    "question": "Ko je osnivač moderne teorije evolucije?",
+    "answers": ["Charles Darwin", "Gregor Mendel", "Alfred Russel Wallace", "Jean-Baptiste Lamarck"],
+    "correctAnswer": "Charles Darwin"
+  },
+  {
+    "question": "Koji je najmanji kontinent na svetu?",
+    "answers": ["Afrika", "Evropa", "Australija", "Severna Amerika"],
+    "correctAnswer": "Australija"
+  },
+  {
+    "question": "Ko je bio prvi čovek na Mesecu?",
+    "answers": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"],
+    "correctAnswer": "Neil Armstrong"
+  },
+  {
+    "question": "Koja je najstarija religija na svetu?",
+    "answers": ["Hinduizam", "Judaizam", "Budizam", "Zoroastrizam"],
+    "correctAnswer": "Hinduizam"
+  },
+  {
+    "question": "Koji je najduži rečni sistem na svetu?",
+    "answers": ["Niger", "Nil", "Amazon", "Mississippi"],
+    "correctAnswer": "Amazon"
+  },
+  {
+    "question": "Ko je prva žena koja je osvojila Nobelovu nagradu za književnost?",
+    "answers": ["Selma Lagerlöf", "Pearl S. Buck", "Gabriela Mistral", "Nelly Sachs"],
+    "correctAnswer": "Selma Lagerlöf"
+  },
+  {
+    "question": "Koji je hemijski element najrasprostranjeniji u ljudskom telu?",
+    "answers": ["Kiseonik", "Vodonik", "Ugljenik", "Azot"],
+    "correctAnswer": "Kiseonik"
+  },
+  {
+    "question": "Ko je prvi put predložio koncept atomskog jezgra?",
+    "answers": ["Ernest Rutherford", "Niels Bohr", "Albert Einstein", "Max Planck"],
+    "correctAnswer": "Ernest Rutherford"
+  },
+  {
+    "question": "Ko je autor knjige '1984'?",
+    "answers": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Isaac Asimov"],
+    "correctAnswer": "George Orwell"
+  },
+  {
+    "question": "Koji je najveći potop koji je ikada zabeležen u istoriji?",
+    "answers": ["Potop Nojev", "Potop Atlantide", "Potop Misisipi", "Potop Sina"],
+    "correctAnswer": "Potop Nojev"
+  },
+  {
+    "question": "Ko je osvojio Nobelovu nagradu za mir 2009. godine?",
+    "answers": ["Barack Obama", "Nelson Mandela", "Kofi Annan", "Desmond Tutu"],
+    "correctAnswer": "Barack Obama"
+  },
+  {
+    "question": "Koji je hemijski element najteži?",
+    "answers": ["Uranijum", "Olovo", "Ugljenik", "Plutonijum"],
+    "correctAnswer": "Plutonijum"
+  },
+  {
+    "question": "Ko je osnivač filozofske škole stoicizma?",
+    "answers": ["Zenon iz Kitija", "Aristotel", "Platon", "Sokrat"],
+    "correctAnswer": "Zenon iz Kitija"
+  },
+  {
+    "question": "Ko je napisao 'Zločin i kaznu'?",
+    "answers": ["Fjodor Dostojevski", "Lav Tolstoj", "Gustav Flober", "Herman Hese"],
+    "correctAnswer": "Fjodor Dostojevski"
+  },
+  {
+    "question": "Ko je bio prvi čovek koji je osvojio Nobelovu nagradu za mir?",
+    "answers": ["Henry Dunant", "Frederic Passy", "Theodore Roosevelt", "Jean Henry Dunant"],
+    "correctAnswer": "Henry Dunant"
+  },
+  {
+    "question": "Koja je najviša planina u Severnoj Americi?",
+    "answers": ["Denali", "Mount Whitney", "Mount Elbert", "Mount St. Elias"],
+    "correctAnswer": "Denali"
+  },
+  {
+    "question": "Koji je hemijski element najviše prisutan u ljudskom telu?",
+    "answers": ["Kiseonik", "Ugljenik", "Vodonik", "Azot"],
+    "correctAnswer": "Kiseonik"
+  },
+  {
+    "question": "Koja je najveća religija na svetu po broju sledbenika?",
+    "answers": ["Hrišćanstvo", "Islam", "Hinduizam", "Budizam"],
+    "correctAnswer": "Hrišćanstvo"
+  },
+  {
+    "question": "Ko je otkrio radioaktivnost?",
+    "answers": ["Henri Becquerel", "Marie Curie", "Ernest Rutherford", "Max Planck"],
+    "correctAnswer": "Henri Becquerel"
+  },
+  {
+    "question": "Koji je najveći kontinent na Zemlji po površini?",
+    "answers": ["Azija", "Afrika", "Severna Amerika", "Južna Amerika"],
+    "correctAnswer": "Azija"
+  },
+  {
+    "question": "Ko je napisao 'Ana Karenjina'?",
+    "answers": ["Lev Tolstoj", "Fjodor Dostojevski", "Gustav Flober", "Herman Hese"],
+    "correctAnswer": "Lev Tolstoj"
+  },
+  {
+    "question": "Ko je prvi put koristio pojam 'kibernetika'?",
+    "answers": ["Norbert Wiener", "Alan Turing", "John von Neumann", "Claude Shannon"],
+    "correctAnswer": "Norbert Wiener"
+  },
+  {
+    "question": "Ko je prva žena koja je osvojila Nobelovu nagradu za mir?",
+    "answers": ["Jane Addams", "Mother Teresa", "Wangari Maathai", "Rigoberta Menchú"],
+    "correctAnswer": "Jane Addams"
+  },
+  {
+    "question": "Koja je najduža reka u Aziji?",
+    "answers": ["Jangce", "Mekong", "Iravadi", "Ganges"],
+    "correctAnswer": "Jangce"
+  },
+  {
+    "question": "Ko je napisao komediju 'Mnogo buke ni oko čega'?",
+    "answers": ["William Shakespeare", "Molijer", "Christopher Marlowe", "Oscar Wilde"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "question": "Koji je najveći kanjon na svetu?",
+    "answers": ["Grand Canyon", "Canyon del Colca", "Fish River Canyon", "Tara Canyon"],
+    "correctAnswer": "Grand Canyon"
+  },
+  {
+    "question": "Ko je napisao roman 'Lolita'?",
+    "answers": ["F. Scott Fitzgerald", "Vladimir Nabokov", "Albert Camus", "Franz Kafka"],
+    "correctAnswer": "Vladimir Nabokov"
+  },
+  {
+    "question": "Koja je najduža reka u Evropi?",
+    "answers": ["Dunav", "Volga", "Dnjepr", "Don"],
+    "correctAnswer": "Volga"
+  },
+  {
+    "question": "Ko je otkrio teoriju gravitacije?",
+    "answers": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Johannes Kepler"],
+    "correctAnswer": "Isaac Newton"
+  },
+  {
+    "question": "Koji je najstariji grad na svetu?",
+    "answers": ["Damas", "Varanasi", "Jerusalim", "Sidon"],
+    "correctAnswer": "Varanasi"
+  },
+  {
+    "question": "Koja je najveća država u Aziji po površini?",
+    "answers": ["Rusija", "Kina", "Indija", "Kazahstan"],
+    "correctAnswer": "Rusija"
+  },
+  {
+    "question": "Koja je najveća reka u Kini?",
+    "answers": ["Jangce", "Huanghe", "Jilin", "Yenisei"],
+    "correctAnswer": "Jangce"
+  },
+  {
+    "question": "Koji je najmanji kontinent na svetu?",
+    "answers": ["Severna Amerika", "Južna Amerika", "Evropa", "Australija"],
+    "correctAnswer": "Australija"
+  },
+  {
+    "question": "Ko je osvojio Nobelovu nagradu za ekonomiju za svoj doprinos teoriji političke ekonomije?",
+    "answers": ["Milton Friedman", "John Maynard Keynes", "Friedrich Hayek", "Amartya Sen"],
+    "correctAnswer": "Milton Friedman"
+  },
+  {
+    "question": "Koja je najviša planina u Evropi?",
+    "answers": ["Mont Blanc", "Elbrus", "Matterhorn", "Dolomiti"],
+    "correctAnswer": "Elbrus"
+  },
+  {
+    "question": "Ko je napisao roman 'Lovac u žitu'?",
+    "answers": ["Ernest Hemingway", "J.D. Salinger", "Jack Kerouac", "F. Scott Fitzgerald"],
+    "correctAnswer": "J.D. Salinger"
+  },
+  {
+    "question": "Koji je najveći grad u Africi?",
+    "answers": ["Kairo", "Lagos", "Kinšasa", "Džibuti"],
+    "correctAnswer": "Kairo"
+  },
+  {
+    "question": "Ko je otkrio elektronsku strukturu atoma?",
+    "answers": ["Ernest Rutherford", "Niels Bohr", "James Clerk Maxwell", "Marie Curie"],
+    "correctAnswer": "Niels Bohr"
+  },
+  {
+    "question": "Koja je najstarija religija koja je još uvek praktikovana?",
+    "answers": ["Hinduizam", "Judaizam", "Budizam", "Zoroastrizam"],
+    "correctAnswer": "Hinduizam"
+  },
+  {
+    "question": "Ko je osvojio Nobelovu nagradu za fiziku za otkriće radioaktivnosti?",
+    "answers": ["Pierre i Marie Curie", "Max Planck", "Werner Heisenberg", "Richard Feynman"],
+    "correctAnswer": "Pierre i Marie Curie"
+  },
+  {
+    "question": "Ko je prvi put koristio pojam 'crna rupa'?",
+    "answers": ["John Wheeler", "Albert Einstein", "Stephen Hawking", "Karl Schwarzschild"],
+    "correctAnswer": "John Wheeler"
+  },
+  {
+    "question": "Ko je napisao 'Djavo nosi Pradu'?",
+    "answers": ["Lauren Weisberger", "Sophie Kinsella", "Gillian Flynn", "E. L. James"],
+    "correctAnswer": "Lauren Weisberger"
+  },
+  {
+    "question": "Ko je osvojio prvu Nobelovu nagradu za mir?",
+    "answers": ["Henry Dunant", "Fredrik Bajer", "Jean Henry Dunant", "Fridtjof Nansen"],
+    "correctAnswer": "Henry Dunant"
+  },
+  {
+    "question": "Koji je najdublji okean na svetu?",
+    "answers": ["Tih", "Atlantski", "Indijski", "Severni ledeni"],
+    "correctAnswer": "Tih"
+  },
+  {
+    "question": "Ko je osvojio prvu Nobelovu nagradu za književnost?",
+    "answers": ["Sully Prudhomme", "Rudyard Kipling", "José Echegaray", "Frédéric Mistral"],
+    "correctAnswer": "Sully Prudhomme"
+  },
+  {
+    "question": "Koja je najstarija religijska knjiga na svetu?",
+    "answers": ["Rigveda", "Torah", "Biblija", "Koran"],
+    "correctAnswer": "Rigveda"
+  },
+  {
+    "question": "Ko je osvojio prvu Nobelovu nagradu za hemiju?",
+    "answers": ["Jacobus Henricus van 't Hoff", "Wilhelm Ostwald", "Svante Arrhenius", "Emil Fischer"],
+    "correctAnswer": "Jacobus Henricus van 't Hoff"
+  },
+  {
+    "question": "Koja je najveća žlezda u ljudskom telu?",
+    "answers": ["Jetra", "Žlezda pankreas", "Štitna žlezda", "Bubrezi"],
+    "correctAnswer": "Jetra"
+  },
+  {
+    "question": "Ko je napisao 'Ana Karenjina'?",
+    "answers": ["Lev Tolstoj", "Fjodor Dostojevski", "Ivan Turgenjev", "Anton Pavlovič Čehov"],
+    "correctAnswer": "Lev Tolstoj"
+  },
+  {
+    "question": "Koji je najduži rečni sistem u Sjedinjenim Američkim Državama?",
+    "answers": ["Misisipi", "Missouri", "Jangce", "Niger"],
+    "correctAnswer": "Misisipi"
+  },
+  {
+    "question": "Koji je najmanji planet u Sunčevom sistemu?",
+    "answers": ["Merkur", "Venera", "Mars", "Pluton"],
+    "correctAnswer": "Merkur"
+  },
+  {
+    "question": "Koji je hemijski element otkriven u Soni?",
+    "answers": ["Helijum", "Kiseonik", "Gvožđe", "Urani"],
+    "correctAnswer": "Helijum"
+  },
+  {
+    "question": "Ko je osvojio prvu Nobelovu nagradu za fiziologiju ili medicinu?",
+    "answers": ["Emil Adolf von Behring", "Robert Koch", "Niels Ryberg Finsen", "Ronald Ross"],
+    "correctAnswer": "Emil Adolf von Behring"
+  },
+  {
+    "question": "Koja je najveća pustinja na svetu?",
+    "answers": ["Sahara", "Gobi", "Arabiska", "Kalahari"],
+    "correctAnswer": "Sahara"
+  },
+  {
+    "question": "Koja je najveća država u Južnoj Americi po površini?",
+    "answers": ["Brazil", "Argentina", "Peru", "Kolumbija"],
+    "correctAnswer": "Brazil"
+  },
+  {
+    "question": "Ko je napisao knjigu 'Ana Frank: Dnevnik'",
+    "answers": ["Ana Frank", "Otto Frank", "Miep Gies", "Victor Kugler"],
+    "correctAnswer": "Ana Frank"
+  },
+  {
+    "question": "Koja je najviša planina u Severnoj Americi?",
+    "answers": ["Denali (Mount McKinley)", "Mount Whitney", "Mount Rainier", "Mount Elbert"],
+    "correctAnswer": "Denali (Mount McKinley)"
+  },
+  {
+    "question": "Ko je otkrio elektricitet?",
+    "answers": ["Benjamin Franklin", "Thomas Edison", "Nikola Tesla", "Alexander Graham Bell"],
+    "correctAnswer": "Benjamin Franklin"
+  },
+  {
+    "question": "Koja je najveća država na svetu po površini?",
+    "answers": ["Rusija", "Kanada", "Kina", "SAD"],
+    "correctAnswer": "Rusija"
+  },
+  {
+    "question": "Koji je najveći koralni greben na svetu?",
+    "answers": ["Veliki koralni greben", "Koralni greben Belize", "Koralni greben Ningaloo", "Koralni greben Andros"],
+    "correctAnswer": "Veliki koralni greben"
+  },
+  {
+    "question": "Ko je napisao 'Rat i mir'?",
+    "answers": ["Lev Tolstoj", "Fjodor Dostojevski", "Ivan Turgenjev", "Anton Pavlovič Čehov"],
+    "correctAnswer": "Lev Tolstoj"
+  },
+  {
+    "question": "Ko je osvojio prvu zlatnu medalju na modernim Olimpijskim igrama?",
+    "answers": ["James Connolly", "Pierre de Coubertin", "Spyridon Louis", "Thomas Burke"],
+    "correctAnswer": "James Connolly"
+  },
+  {
+    "question": "Ko je napisao 'Romeo i Julija'?",
+    "answers": ["William Shakespeare", "Christopher Marlowe", "Ben Jonson", "John Milton"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "question": "Ko je otkrio penicilin?",
+    "answers": ["Alexander Fleming", "Louis Pasteur", "Joseph Lister", "Robert Koch"],
+    "correctAnswer": "Alexander Fleming"
+  },
+  {
+    "question": "Koja je najmanja ptica na svetu?",
+    "answers": ["Kolibri", "Pčelar", "Vrabac", "Lastavica"],
+    "correctAnswer": "Kolibri"
+  },
+  {
+    "question": "Koja je najviša planina u Africi?",
+    "answers": ["Kilimandžaro", "Ras Dashen", "Mawenzi", "Mount Kenya"],
+    "correctAnswer": "Kilimandžaro"
+  },
+  {
+    "question": "Ko je osvojio Nobelovu nagradu za mir za organizaciju Društva Crvenog polumeseca?",
+    "answers": ["Henry Dunant", "John Boyd Orr", "Albert Schweitzer", "Emily Balch"],
+    "correctAnswer": "Henry Dunant"
+  },
+  {
+    "question": "Ko je prvi put predložio postojanje fotona?",
+    "answers": ["Albert Einstein", "Niels Bohr", "Max Planck", "Werner Heisenberg"],
+    "correctAnswer": "Albert Einstein"
+  },
+  {
+    "question": "Ko je napisao 'Krik i bijes'?",
+    "answers": ["William Faulkner", "Ernest Hemingway", "F. Scott Fitzgerald", "John Steinbeck"],
+    "correctAnswer": "William Faulkner"
+  },
+  {
+    "question": "Koji je najveći grad u Australiji?",
+    "answers": ["Sidnej", "Melburn", "Brisben", "Perth"],
+    "correctAnswer": "Sidnej"
+  },
+  {
+    "question": "Ko je otkrio zakon gravitacije?",
+    "answers": ["Isaac Newton", "Galileo Galilei", "Johannes Kepler", "Albert Einstein"],
+    "correctAnswer": "Isaac Newton"
+  },
+  {
+    "question": "Ko je napisao 'Ubiti pticu rugalicu'?",
+    "answers": ["Harper Lee", "John Grisham", "Truman Capote", "Mark Twain"],
+    "correctAnswer": "Harper Lee"
+  },
+  {
+    "question": "Koji je najmanji kontinent na svetu?",
+    "answers": ["Australija", "Evropa", "Južna Amerika", "Severna Amerika"],
+    "correctAnswer": "Australija"
+  },
+  {
+    "question": "Koji je najveći grad na svetu po broju stanovnika?",
+    "answers": ["Tokio", "Šangaj", "Mumbai", "Peking"],
+    "correctAnswer": "Tokio"
+  },
+  {
+    "question": "Ko je napisao 'Lovac na zmajeve'?",
+    "answers": ["Khaled Hosseini", "Jhumpa Lahiri", "Aravind Adiga", "Sohrab Ahmari"],
+    "correctAnswer": "Khaled Hosseini"
+  },
+  {
+    "question": "Koja je najveća pustinja u Evropi?",
+    "answers": ["Pustinjska pustinja", "Gobi", "Sahara", "Kalavija"],
+    "correctAnswer": "Pustinjska pustinja"
+  },
+  {
+    "question": "Koji je najveći grad u SAD-u?",
+    "answers": ["Njujork", "Los Anđeles", "Čikago", "Hjuston"],
+    "correctAnswer": "Njujork"
+  },
+  {
+    "question": "Koja je najveća država na Balkanu?",
+    "answers": ["Rumunija", "Bugarska", "Grčka", "Srbija"],
+    "correctAnswer": "Rumunija"
+  },
+  {
+    "question": "Ko je otkrio elektronski mikroskop?",
+    "answers": ["Ernst Ruska", "Hans Lippershey", "Robert Hooke", "Antonie van Leeuwenhoek"],
+    "correctAnswer": "Ernst Ruska"
+  },
+  {
+    "question": "Koja je najveća životinja na svetu?",
+    "answers": ["Plavi kit", "Slon", "Dinosaurs", "Kitubistvo"],
+    "correctAnswer": "Plavi kit"
+  },
+  {
+    "question": "Ko je napisao 'Vojna i mir'?",
+    "answers": ["Lev Tolstoj", "Fjodor Dostojevski", "Ivan Turgenjev", "Anton Pavlovič Čehov"],
+    "correctAnswer": "Lev Tolstoj"
+  },
+  {
+    "question": "Koji je najviši vodopad na svetu?",
+    "answers": ["Anđeoski vodopad", "Victoria Falls", "Niagarski vodopad", "Iguaçu Falls"],
+    "correctAnswer": "Anđeoski vodopad"
+  },
+  {
+    "question": "Ko je osvojio prvu Nobelovu nagradu za fiziku?",
+    "answers": ["Wilhelm Conrad Röntgen", "Henri Becquerel", "Pierre Curie", "Marie Curie"],
+    "correctAnswer": "Wilhelm Conrad Röntgen"
+  },
+  {
+    "question": "Ko je napisao roman 'Proces'?",
+    "answers": ["Franz Kafka", "Hermann Hesse", "Thomas Mann", "Albert Camus"],
+    "correctAnswer": "Franz Kafka"
+  },
+  {
+    "question": "Koji je najduži most na svetu?",
+    "answers": ["Dugeviken most", "Hong Kong-Zhuhai-Macau most", "Danyang-Kunshan most", "Bang Na Expressway"],
+    "correctAnswer": "Hong Kong-Zhuhai-Macau most"
+  },
+  {
+    "question": "Ko je napisao dramu 'Hamlet'?",
+    "answers": ["William Shakespeare", "Christopher Marlowe", "Ben Jonson", "John Milton"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "question": "Koja je najveća država na Arapskom poluostrvu?",
+    "answers": ["Saudijska Arabija", "Jemen", "Oman", "Ujedinjeni Arapski Emirati"],
+    "correctAnswer": "Saudijska Arabija"
+  },
+  {
+    "question": "Ko je osvojio Nobelovu nagradu za ekonomiju za svoj doprinos teoriji razvoja ekonomije?",
+    "answers": ["Amartya Sen", "Joseph Stiglitz", "Milton Friedman", "Paul Krugman"],
+    "correctAnswer": "Amartya Sen"
+  },
+  {
+    "question": "Ko je osvojio prvu Nobelovu nagradu za fiziku za otkriće rentgenskih zraka?",
+    "answers": ["Wilhelm Conrad Röntgen", "Marie Curie", "Pierre Curie", "Henri Becquerel"],
+    "correctAnswer": "Wilhelm Conrad Röntgen"
+  },
+  {
+    "question": "Koja je najveća država u Africi prema broju stanovnika?",
+    "answers": ["Nigerija", "Etiopija", "Egipat", "DR Kongo"],
+    "correctAnswer": "Nigerija"
+  },
+  {
+    "question": "Koja je najdublja tačka na Zemlji?",
+    "answers": ["Marianska brazda", "Puerto Riko grabež", "Tihookeanski greben", "Molinska jama"],
+    "correctAnswer": "Marianska brazda"
+  },
+  {
+    "question": "Ko je napisao knjigu 'Ilija Gromovnik'?",
+    "answers": ["Paulo Coelho", "Herman Hesse", "Mikhail Bulgakov", "Nikolai Gogol"],
+    "correctAnswer": "Mikhail Bulgakov"
+  },
+  {
+    "question": "Ko je prvi put koristio reč 'feminizam'?",
+    "answers": ["Charles Fourier", "Hubertine Auclert", "Olympe de Gouges", "Alexandra Kollontai"],
+    "correctAnswer": "Charles Fourier"
+  },
+  {
+    "question": "Koji je najveći grad u Kanadi?",
+    "answers": ["Toronto", "Montreal", "Vancouver", "Kalgari"],
+    "correctAnswer": "Toronto"
+  },
+  {
+    "question": "Ko je otkrio penicilin?",
+    "answers": ["Alexander Fleming", "Louis Pasteur", "Joseph Lister", "Robert Koch"],
+    "correctAnswer": "Alexander Fleming"
+  },
+  {
+    "question": "Koja je najviša planina u Australiji?",
+    "answers": ["Kozje planine", "Alpe", "Blue Mountains", "Mount Kosciuszko"],
+    "correctAnswer": "Mount Kosciuszko"
+  },
+  {
+    "question": "Ko je osvojio Nobelovu nagradu za mir za 2004. godinu?",
+    "answers": ["Wangari Maathai", "Muhammad Yunus", "Mohamed ElBaradei", "Malala Yousafzai"],
+    "correctAnswer": "Wangari Maathai"
+  },
+  {
+    "question": "Ko je napisao roman 'Grad na obali mora'?",
+    "answers": ["Herman Hesse", "Thomas Mann", "Franz Kafka", "Albert Camus"],
+    "correctAnswer": "Herman Hesse"
+  },
+  {
+    "question": "Koji je najduži tunel na svetu?",
+    "answers": ["Seikan tunel", "Kanal La Manche", "Gotthard tunel", "Tunel zlatnog ratnika"],
+    "correctAnswer": "Seikan tunel"
+  },
+  {
+    "question": "Koja je najveća planina na svetu po obimu?",
+    "answers": ["Mauna Kea", "Everest", "Mount Kilimanjaro", "Denali (Mount McKinley)"],
+    "correctAnswer": "Mauna Kea"
+  },
+  {
+    "question": "Ko je napisao knjigu 'Veliki Getsbi'?",
+    "answers": ["F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck", "Sinclair Lewis"],
+    "correctAnswer": "F. Scott Fitzgerald"
+  },
+  {
+    "question": "Koja je najstarija poznata civilizacija u istoriji?",
+    "answers": ["Sumerska civilizacija", "Egipatska civilizacija", "Induska civilizacija", "Kineska civilizacija"],
+    "correctAnswer": "Sumerska civilizacija"
+  },
+  {
+    "question": "Ko je osvojio Nobelovu nagradu za književnost 2018. godine?",
+    "answers": ["Olga Tokarczuk", "Kazuo Ishiguro", "Bob Dylan", "Svetlana Aleksijevič"],
+    "correctAnswer": "Olga Tokarczuk"
+  },
+  {
+    "question": "Koji je najviši most na svetu?",
+    "answers": ["Dugeviken most", "Millau Viaduct", "Hong Kong-Zhuhai-Macau most", "Russky most"],
+    "correctAnswer": "Millau Viaduct"
+  },
+  {
+    "question": "Ko je napisao 'Ovčar traži muža'?",
+    "answers": ["Harper Lee", "John Grisham", "Truman Capote", "Mark Twain"],
+    "correctAnswer": "Harper Lee"
+  },
+  {
+    "question": "Koja je najveća žlezda u ljudskom telu?",
+    "answers": ["Jetra", "Slezina", "Bubrezi", "Štitna žlezda"],
+    "correctAnswer": "Jetra"
+  },
+  {
+    "question": "Ko je osvojio Nobelovu nagradu za fiziku za otkriće poluprovodnika?",
+    "answers": ["John Bardeen, Walter Brattain, William Shockley", "Albert Einstein", "Niels Bohr", "Richard Feynman"],
+    "correctAnswer": "John Bardeen, Walter Brattain, William Shockley"
+  },
+  {
+    "question": "Ko je napisao roman 'Sto godina samoće'?",
+    "answers": ["Gabriel García Márquez", "Mario Vargas Llosa", "Julio Cortázar", "Isabel Allende"],
+    "correctAnswer": "Gabriel García Márquez"
+  },
+  {
+    "question": "Koja je najveća pustinja u Aziji?",
+    "answers": ["Gobi pustinja", "Karakum pustinja", "Rub al-Khali", "Kyzylkum pustinja"],
+    "correctAnswer": "Gobi pustinja"
+  },
+  {
+    "question": "Ko je napisao roman 'Hobit'?",
+    "answers": ["J.R.R. Tolkien", "C.S. Lewis", "J.K. Rowling", "George R.R. Martin"],
+    "correctAnswer": "J.R.R. Tolkien"
+  },
+  {
+    "question": "Ko je otkrio zakon termodinamike?",
+    "answers": ["Sadi Carnot", "James Prescott Joule", "Ludwig Boltzmann", "Robert Boyle"],
+    "correctAnswer": "Sadi Carnot"
+  },
+  {
+    "question": "Koji je najveći grad u Kini?",
+    "answers": ["Šangaj", "Peking", "Guangzhou", "Čongćing"],
+    "correctAnswer": "Šangaj"
+  },
+  {
+    "question": "Koji je najveći planinski sistem na svetu?",
+    "answers": ["Himalaji", "Andi", "Alpe", "Apenini"],
+    "correctAnswer": "Himalaji"
+  },
+  {
+    "question": "Koja je najstarija država na svetu?",
+    "answers": ["Egipat", "Kina", "Iran", "Indija"],
+    "correctAnswer": "Egipat"
+  },
+  {
+    "question": "Koja je najmanja država na svetu po površini?",
+    "answers": ["Vatikan", "Monako", "Nauru", "San Marino"],
+    "correctAnswer": "Vatikan"
+  },
+  {
+    "question": "Ko je napisao knjigu 'Mala princeza'?",
+    "answers": ["Antoine de Saint-Exupéry", "Jules Verne", "Hans Christian Andersen", "Roald Dahl"],
+    "correctAnswer": "Antoine de Saint-Exupéry"
+  },
+  {
+    "question": "Koja je najveća žlezda u ljudskom telu?",
+    "answers": ["Jetra", "Žlezda pankreas", "Štitna žlezda", "Bubrezi"],
+    "correctAnswer": "Jetra"
+  },
+  {
+    "question": "Ko je osvojio prvu Nobelovu nagradu za hemiju?",
+    "answers": ["Jacobus Henricus van 't Hoff", "Wilhelm Ostwald", "Svante Arrhenius", "Emil Fischer"],
+    "correctAnswer": "Jacobus Henricus van 't Hoff"
+  },
+  {
+    "question": "Koja je najveća pustinja na svetu?",
+    "answers": ["Sahara", "Gobi", "Arabiska", "Kalahari"],
+    "correctAnswer": "Sahara"
+  },
+  {
+    "question": "Ko je napisao 'Ana Karenjina'?",
+    "answers": ["Lev Tolstoj", "Fjodor Dostojevski", "Ivan Turgenjev", "Anton Pavlovič Čehov"],
+    "correctAnswer": "Lev Tolstoj"
+  },
+  {
+    "question": "Koji je najveći grad u Aziji po broju stanovnika?",
+    "answers": ["Tokio", "Šangaj", "Delhi", "Mumbai"],
+    "correctAnswer": "Tokio"
+  },
+  {
+    "question": "Koja je najviša planina u Južnoj Americi?",
+    "answers": ["Aconcagua", "Ojos del Salado", "Huascarán", "Monte Pissis"],
+    "correctAnswer": "Aconcagua"
+  },
+  {
+    "question": "Ko je osvojio prvu zlatnu medalju na modernim Olimpijskim igrama?",
+    "answers": ["James Connolly", "Pierre de Coubertin", "Spyridon Louis", "Thomas Burke"],
+    "correctAnswer": "James Connolly"
+  },
+  {
+    "question": "Ko je napisao 'Romeo i Julija'?",
+    "answers": ["William Shakespeare", "Christopher Marlowe", "Ben Jonson", "John Milton"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "question": "Ko je osvojio prvu Nobelovu nagradu za fiziologiju ili medicinu?",
+    "answers": ["Emil Adolf von Behring", "Robert Koch", "Niels Ryberg Finsen", "Ronald Ross"],
+    "correctAnswer": "Emil Adolf von Behring"
+  },
+  {
+    "question": "Ko je napisao 'Oliver Tvist'?",
+    "answers": ["Charles Dickens", "Jane Austen", "Emily Bronte", "Mark Twain"],
+    "correctAnswer": "Charles Dickens"
+  },
+  {
+    "question": "Ko je otkrio radioaktivnost?",
+    "answers": ["Henri Becquerel", "Marie Curie", "Pierre Curie", "Wilhelm Conrad Röntgen"],
+    "correctAnswer": "Henri Becquerel"
+  },
+  {
+    "question": "Koja je najveća država na Balkanu?",
+    "answers": ["Rumunija", "Bugarska", "Grčka", "Srbija"],
+    "correctAnswer": "Rumunija"
+  },
+  {
+    "question": "Ko je napisao 'Gospodar prstenova'?",
+    "answers": ["J.R.R. Tolkien", "C.S. Lewis", "George R.R. Martin", "J.K. Rowling"],
+    "correctAnswer": "J.R.R. Tolkien"
+  },
+  {
+    "question": "Koji je najveći kontinent na svetu?",
+    "answers": ["Azija", "Afrika", "Severna Amerika", "Južna Amerika"],
+    "correctAnswer": "Azija"
+  },
+  {
+    "question": "Ko je osvojio prvu Nobelovu nagradu za mir?",
+    "answers": ["Henry Dunant", "Fredrik Bajer", "Jean Henry Dunant", "Fridtjof Nansen"],
+    "correctAnswer": "Henry Dunant"
+  },
+  {
+    "question": "Ko je napisao 'Divlji konj Džo'?",
+    "answers": ["Anna Sewell", "Mark Twain", "Jules Verne", "Lewis Carroll"],
+    "correctAnswer": "Anna Sewell"
+  },
+  {
+    "question": "Koja je najstarija religija koja se još uvek praktikuje?",
+    "answers": ["Hinduizam", "Budizam", "Judaizam", "Zoroastrizam"],
+    "correctAnswer": "Hinduizam"
+  },
+  {
+    "question": "Ko je napisao 'Dobri vuk'? ",
+    "answers": ["Jack London", "Herman Melville", "Rudyard Kipling", "Mark Twain"],
+    "correctAnswer": "Jack London"
+  },
+  {
+    "question": "Ko je prvi put predložio postojanje fotona?",
+    "answers": ["Albert Einstein", "Niels Bohr", "Max Planck", "Werner Heisenberg"],
+    "correctAnswer": "Albert Einstein"
+  },
+  {
+    "question": "Koja je najveća država u Africi po površini?",
+    "answers": ["Alžir", "Demokratska Republika Kongo", "Sudan", "Libija"],
+    "correctAnswer": "Alžir"
+  },
+  {
+    "question": "Koji je najduži rečni sistem u Australiji?",
+    "answers": ["Murray-Darling", "Mackenzie", "Murrumbidgee", "Lachlan"],
+    "correctAnswer": "Murray-Darling"
+  },
+  {
+    "question": "Koja je najstarija država u Evropi?",
+    "answers": ["San Marino", "Andora", "Malta", "Island"],
+    "correctAnswer": "San Marino"
+  },
+  {
+    "question": "Koji je najveći grad na svetu po površini?",
+    "answers": ["Hulunbuir", "Čita", "Moskva", "Los Angeles"],
+    "correctAnswer": "Hulunbuir"
+  },
+  {
+    "question": "Ko je napisao '1984'?",
+    "answers": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Philip K. Dick"],
+    "correctAnswer": "George Orwell"
+  },
+  {
+    "question": "Koja je najduža reka u Africi?",
+    "answers": ["Nil", "Kongo", "Niger", "Zambezi"],
+    "correctAnswer": "Nil"
+  },
+  {
+    "question": "Ko je osvojio prvu zlatnu medalju na modernim letnjim Olimpijskim igrama?",
+    "answers": ["James Connolly", "Pierre de Coubertin", "Spyridon Louis", "Thomas Burke"],
+    "correctAnswer": "James Connolly"
+  },
+  {
+    "question": "Ko je napisao roman 'Sto godina samoće'?",
+    "answers": ["Gabriel Garcia Marquez", "Mario Vargas Llosa", "Jorge Luis Borges", "Isabel Allende"],
+    "correctAnswer": "Gabriel Garcia Marquez"
+  },
+  {
+    "question": "Koja je najveća država na Balkanu?",
+    "answers": ["Rumunija", "Grčka", "Srbija", "Hrvatska"],
+    "correctAnswer": "Rumunija"
+  },
+  {
+    "question": "Ko je prvi put objasnio teoriju evolucije putem prirodne selekcije?",
+    "answers": ["Charles Darwin", "Alfred Russel Wallace", "Gregor Mendel", "Jean-Baptiste Lamarck"],
+    "correctAnswer": "Charles Darwin"
+  },
+  {
+    "question": "Koja je najmanja kost u ljudskom telu?",
+    "answers": ["Stremen", "Čekrk", "Pipak", "Vilica"],
+    "correctAnswer": "Stremen"
+  },
+  {
+    "question": "Ko je osvojio prvu zlatnu medalju na modernim zimskim Olimpijskim igrama?",
+    "answers": ["Charles Jewtraw", "Nikolaj Panin", "Thorleif Haug", "Gillis Grafström"],
+    "correctAnswer": "Charles Jewtraw"
+  },
+  {
+    "question": "Koja je najgušća planeta u Sunčevom sistemu?",
+    "answers": ["Zemlja", "Merkur", "Venera", "Mars"],
+    "correctAnswer": "Zemlja"
+  },
+  {
+    "question": "Ko je napisao 'Stožer'?",
+    "answers": ["Joseph Heller", "Kurt Vonnegut", "Ernest Hemingway", "F. Scott Fitzgerald"],
+    "correctAnswer": "Joseph Heller"
+  },
+  {
+    "question": "Koja je najstarija religija koja se još uvek praktikuje?",
+    "answers": ["Hinduizam", "Judaizam", "Budizam", "Taoizam"],
+    "correctAnswer": "Hinduizam"
+  },
+  {
+    "question": "Ko je osvojio prvu Nobelovu nagradu za književnost?",
+    "answers": ["Sully Prudhomme", "Rudyard Kipling", "Herman Sudermann", "Bjørnstjerne Bjørnson"],
+    "correctAnswer": "Sully Prudhomme"
+  },
+  {
+    "question": "Koja je najviša planina u Evropi?",
+    "answers": ["Elbrus", "Mont Blanc", "Matterhorn", "Eiger"],
+    "correctAnswer": "Elbrus"
+  },
+  {
+    "question": "Ko je otkrio strukturu DNK?",
+    "answers": ["James Watson i Francis Crick", "Rosalind Franklin", "Linus Pauling", "Gregor Mendel"],
+    "correctAnswer": "James Watson i Francis Crick"
+  },
+  {
+    "question": "Ko je napisao 'Gospođa Bovari'?",
+    "answers": ["Gustave Flaubert", "Émile Zola", "Stendhal", "Victor Hugo"],
+    "correctAnswer": "Gustave Flaubert"
+  },
+  {
+    "question": "Koja je najveća država na svetu prema broju stanovnika?",
+    "answers": ["Kina", "Indija", "SAD", "Indonezija"],
+    "correctAnswer": "Kina"
+  },
+  {
+    "question": "Koji je najveći grad na svetu po broju stanovnika?",
+    "answers": ["Tokio", "Delhi", "Šangaj", "Mumbai"],
+    "correctAnswer": "Tokio"
+  },
+  {
+    "question": "Koja je najveća žlezda u ljudskom telu?",
+    "answers": ["Jetra", "Bubrezi", "Štitna žlezda", "Pankreas"],
+    "correctAnswer": "Jetra"
+  },
+  {
+    "question": "Ko je osvojio prvu zlatnu medalju na modernim letnjim Olimpijskim igrama?",
+    "answers": ["James Connolly", "Spyridon Louis", "Pierre de Coubertin", "Thomas Burke"],
+    "correctAnswer": "James Connolly"
+  },
+  {
+    "question": "Ko je napisao 'U potrazi za izgubljenim vremenom'?",
+    "answers": ["Marcel Proust", "James Joyce", "Virginia Woolf", "Thomas Mann"],
+    "correctAnswer": "Marcel Proust"
+  },
+  {
+    "question": "Ko je osvojio prvu Nobelovu nagradu za mir?",
+    "answers": ["Henry Dunant", "Frédéric Passy", "Jean Henri Dunant", "Frédéric Passy"],
+    "correctAnswer": "Henry Dunant"
+  },
+  {
+    "question": "Ko je napisao 'Vetrovito ostrvo'?",
+    "answers": ["Aldous Huxley", "George Orwell", "Ernest Hemingway", "F. Scott Fitzgerald"],
+    "correctAnswer": "Aldous Huxley"
+  },
+  {
+    "question": "Koji je najveći kontinent na svetu?",
+    "answers": ["Azija", "Afrika", "Severna Amerika", "Južna Amerika"],
+    "correctAnswer": "Azija"
+  },
+  {
+    "question": "Koja je najviša planina na svetu?",
+    "answers": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
+    "correctAnswer": "Mount Everest"
+  },
+  {
+    "question": "Ko je napisao 'Veliki Getsbi'?",
+    "answers": ["F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck", "Sinclair Lewis"],
+    "correctAnswer": "F. Scott Fitzgerald"
+  },
+  {
+    "question": "Koji je najveći jezik na svetu po broju govornika?",
+    "answers": ["Mandarinski kineski", "Španski", "Engleski", "Hindi"],
+    "correctAnswer": "Mandarinski kineski"
+  },
+  {
+    "question": "Ko je osvojio prvu zlatnu medalju na modernim zimskim Olimpijskim igrama?",
+    "answers": ["Charles Jewtraw", "Nikolaj Panin", "Thorleif Haug", "Gillis Grafström"],
+    "correctAnswer": "Charles Jewtraw"
+  },
+  {
+    "question": "Koja je najveća reka u Africi?",
+    "answers": ["Niger", "Kongo", "Nil", "Zambezi"],
+    "correctAnswer": "Nil"
+  },
+  {
+    "question": "Ko je napisao 'Vojna i mir'?",
+    "answers": ["Lev Tolstoj", "Fjodor Dostojevski", "Ivan Turgenjev", "Anton Pavlovič Čehov"],
+    "correctAnswer": "Lev Tolstoj"
+  },
+  {
+    "question": "Ko je osvojio prvu Nobelovu nagradu za medicinu?",
+    "answers": ["Emil Adolf von Behring", "Robert Koch", "Niels Ryberg Finsen", "Ronald Ross"],
+    "correctAnswer": "Emil Adolf von Behring"
+  },
+  {
+    "question": "Koja je najveća pustinja na svetu?",
+    "answers": ["Sahara", "Gobi", "Atakama", "Kalahari"],
+    "correctAnswer": "Sahara"
+  },
+  {
+    "question": "Ko je otkrio penicilin?",
+    "answers": ["Alexander Fleming", "Louis Pasteur", "Joseph Lister", "Robert Koch"],
+    "correctAnswer": "Alexander Fleming"
+  },
+  {
+    "question": "Ko je napisao 'Stari čovek i more'?",
+    "answers": ["Ernest Hemingway", "Mark Twain", "John Steinbeck", "Herman Melville"],
+    "correctAnswer": "Ernest Hemingway"
+  }
+]

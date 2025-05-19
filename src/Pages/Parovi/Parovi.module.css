@@ -1,0 +1,158 @@
+.root {
+  --root-padding: 2rem;
+  --board-gap: 1.5rem;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  animation: appear 0.3s;
+}
+.board {
+  height: calc(100vmin - var(--root-padding) * 2);
+  aspect-ratio: 1 / 1;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+  gap: var(--board-gap);
+  justify-content: stretch;
+  align-items: stretch;
+  background-color: var(--teal);
+  padding: var(--board-gap);
+  border-radius: var(--board-gap);
+  box-sizing: border-box;
+}
+.card {
+  flex: 1;
+  box-sizing: border-box;
+  border: solid 2px var(--black);
+  border-radius: 1rem;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: var(--black);
+  background-size: 90% 90%;
+  background-image: url(./../../images/parovi/cardBack.svg);
+  transform: rotateY(0deg);
+  transition-property: transform, background;
+  transition-duration: 0.3s;
+  cursor: pointer;
+}
+.bell {
+  background-color: var(--white);
+  background-image: url(./../../images/parovi/bell.svg);
+  transform: rotateY(180deg);
+}
+.clover {
+  background-color: var(--white);
+  background-image: url(./../../images/parovi/clover.svg);
+  transform: rotateY(180deg);
+}
+.clubs {
+  background-color: var(--white);
+  background-image: url(./../../images/parovi/clubs.svg);
+  transform: rotateY(180deg);
+}
+.coin {
+  background-color: var(--white);
+  background-image: url(./../../images/parovi/coin.svg);
+  transform: rotateY(180deg);
+}
+.diamonds {
+  background-color: var(--white);
+  background-image: url(./../../images/parovi/diamonds.svg);
+  transform: rotateY(180deg);
+}
+.hearts {
+  background-color: var(--white);
+  background-image: url(./../../images/parovi/hearts.svg);
+  transform: rotateY(180deg);
+}
+.spades {
+  background-color: var(--white);
+  background-image: url(./../../images/parovi/spades.svg);
+  transform: rotateY(180deg);
+}
+.star {
+  background-color: var(--white);
+  background-image: url(./../../images/parovi/star.svg);
+  transform: rotateY(180deg);
+}
+.timeCounter {
+  position: fixed;
+  right: 2rem;
+  top: 0.75rem;
+  color: var(--dark-teal);
+  font-size: 2rem;
+  font-weight: 600;
+  height: auto;
+  width: auto;
+  background-color: var(--white);
+}
+.boardDisabler {
+  position: fixed;
+  z-index: 99999;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(0, 0, 0, 0);
+}
+@keyframes appear {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .root {
+    --root-padding: 1.75rem;
+    --board-gap: 1.5rem;
+  }
+  .container::before {
+    top: calc(var(--container-padding) * -1 - 1rem);
+    left: 0;
+  }
+}
+@media only screen and (max-width: 720px) {
+  .root {
+    --root-padding: 1.75rem;
+    --board-gap: 1.25rem;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .root {
+    --root-padding: 1.5rem;
+    --board-gap: 1rem;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .root {
+    --root-padding: 1.25rem;
+    --board-gap: 0.5rem;
+  }
+}
+@media only screen and (max-height: 600px) {
+  .root {
+    --root-padding: 1.75rem;
+    --board-gap: 1.25rem;
+  }
+}
+@media only screen and (max-height: 425px) {
+  .root {
+    --root-padding: 1.25rem;
+    --board-gap: 1rem;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .root {
+    --root-padding: 1.25rem;
+    --board-gap: 0.5rem;
+  }
+}
+@media only screen and (max-height: 500px) {
+  .timeCounter {
+    font-size: 1.5rem;
+  }
+}

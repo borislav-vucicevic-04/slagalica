@@ -1,0 +1,1959 @@
+[
+  {
+    "a":{
+      "answer":"bijela",
+      "words":["boja","vino","nada","svjetlost"]
+    },
+    "b":{
+      "answer":"crna",
+      "words":["boja","vino","tuga","tama"]
+    },
+    "c":{
+      "answer":"kina",
+      "words":["zid","komunizam","riža","štapići za jelo"]
+    },
+    "d":{
+      "answer":"bambus",
+      "words":["drvo","šuma","flauta","azija"]
+    },
+    "finalAnswer":"panda"
+  },
+  {
+    "a":{
+      "answer":"magija",
+      "words":["crna","bijela","vudu","čarolije"]
+    },
+    "b":{
+      "answer":"napitak",
+      "words":["ljubav","otrov","bočica","eliksir"]
+    },
+    "c":{
+      "answer":"metla",
+      "words":["štap","čistiti","lopatica","leteća"]
+    },
+    "d":{
+      "answer":"ritual",
+      "words":["žrtva","proces","prizivanje","svijeća"]
+    },
+    "finalAnswer":"vještica"
+  },
+  {
+    "a":{
+      "answer":"krov",
+      "words":["prozor","greda","dimnjak","crijep"]
+    },
+    "b":{
+      "answer":"prag",
+      "words":["pruga","češka","sparta","karlov most"]
+    },
+    "c":{
+      "answer":"moda",
+      "words":["visoka","kolekcija","manekeni","trend"]
+    },
+    "d":{
+      "answer":"vrata",
+      "words":["kvaka","ulaz","brava","drvo"]
+    },
+    "finalAnswer":"kuća"
+  },
+  {
+    "a":{
+      "answer":"cigareta",
+      "words":["nikotin","katran","unljen monoksid","dim"]
+    },
+    "b":{
+      "answer":"šibica",
+      "words":["vatra","kresnuti","drvce","fosfor"]
+    },
+    "c":{
+      "answer":"karton",
+      "words":["crveni","žuti","zeleni","medicinski"]
+    },
+    "d":{
+      "answer":"boks",
+      "words":["muhamed ali","majk tajson","rukavice","ring"]
+    },
+    "finalAnswer":"kutija"
+  },
+  {
+    "a":{
+      "answer":"sport",
+      "words":["fudbal","odbojka","tenis","košarka"]
+    },
+    "b":{
+      "answer":"led",
+      "words":["čaj","santa","voda","kocka"]
+    },
+    "c":{
+      "answer":"trava",
+      "words":["livada","zelena","engleska","vimbldon"]
+    },
+    "d":{
+      "answer":"klizanje",
+      "words":["oštrica","obuća","baurer","roler"]
+    },
+    "finalAnswer":"hokej"
+  },
+  {
+    "a":{
+      "answer":"lansiranje",
+      "words":["rampa","raketa","proizvod","kampanja"]
+    },
+    "b":{
+      "answer":"rusija",
+      "words":["petar veliki","majka","putin","sibir"]
+    },
+    "c":{
+      "answer":"pas",
+      "words":["lanac","kost","ogrlica","mačka"]
+    },
+    "d":{
+      "answer":"svemir",
+      "words":["zvijezde","beskrajan","stanica","brod"]
+    },
+    "finalAnswer":"lajka"
+  },
+  {
+    "a":{
+      "answer":"cvijet",
+      "words":["tučak","med","latice","livada"]
+    },
+    "b":{
+      "answer":"mlijeko",
+      "words":["prah","čokolada","jagoda","tijelo"]
+    },
+    "c":{
+      "answer":"meksiko",
+      "words":["tortilja","sombrero","čili","siti"]
+    },
+    "d":{
+      "answer":"bodlja",
+      "words":["prase","ruža","jež","pčela"]
+    },
+    "finalAnswer":"kaktus"
+  },
+  {
+    "a":{
+      "answer":"staro",
+      "words":["drvo","društvo","pravilo","... za novo"]
+    },
+    "b":{
+      "answer":"zavjesa",
+      "words":["kada","dim","pozorište","prozor"]
+    },
+    "c":{
+      "answer":"žica",
+      "words":["zlato","glas","bodljikava","ograda"]
+    },
+    "d":{
+      "answer":"element",
+      "words":["hemija","periodni sistem","kuhinjski","peti"]
+    },
+    "finalAnswer":"željezo"
+  },
+  {
+    "a":{
+      "answer":"vektor",
+      "words":["intenzitet","geometrija","smijer","pravac"]
+    },
+    "b":{
+      "answer":"viša",
+      "words":["matematika","škola","stručna sprema","instanca"]
+    },
+    "c":{
+      "answer":"sedam",
+      "words":["loto","nedjelja","broj","jul"]
+    },
+    "d":{
+      "answer":"magnet",
+      "words":["kompas","pol","indukcija","polje"]
+    },
+    "finalAnswer":"sila"
+  },
+  {
+    "a":{
+      "answer":"crni",
+      "words":["hljeb","petak","luk","bijeli"]
+    },
+    "b":{
+      "answer":"zeleni",
+      "words":["list","gušter","pojas","karton"]
+    },
+    "c":{
+      "answer":"šolja",
+      "words":["tanjirić","porcelan","wc","kafa"]
+    },
+    "d":{
+      "answer":"pet",
+      "words":["element","plus","prsti","ocjena"]
+    },
+    "finalAnswer":"čaj"
+  },
+  {
+    "a": {
+      "answer": "so",
+      "words": ["na", "čaša", "kristal", "tuzla"]
+    },
+    "b": {
+      "answer": "pas",
+      "words": ["kost", "prijatelj", "užica", "ljubimac"]
+    },
+    "c": {
+      "answer": "starac",
+      "words": ["bore", "štap", "djed", "čovjek"]
+    },
+    "d": {
+      "answer": "riba",
+      "words": ["som", "sabljarka", "stuka", "sardina"]
+    },
+    "finalAnswer": "more"
+  },
+  {
+    "a": {
+      "answer": "kutija",
+      "words": ["patike", "muzika", "pandora", "crna"]
+    },
+    "b": {
+      "answer": "konj",
+      "words": ["trka", "ludi", "rep", "troja"]
+    },
+    "c": {
+      "answer": "zanat",
+      "words": ["škola", "pivo", "majstor", "radionica"]
+    },
+    "d": {
+      "answer": "sredstvo",
+      "words": ["plaćanje", "smirenje", "čišćenje", "cilj"]
+    },
+    "finalAnswer": "alat"
+  },
+  {
+    "a": {
+      "answer": "boja",
+      "words": ["koža", "kajsija", "kafa", "osnovna"]
+    },
+    "b": {
+      "answer": "sport",
+      "words": ["povreda", "srce", "centar", "ribolov"]
+    },
+    "c": {
+      "answer": "krevet",
+      "words": ["bolnica", "brak", "francuska", "doručak"]
+    },
+    "d": {
+      "answer": "znak",
+      "words": ["saobraćaj", "jezik", "pitanje", "pažnja"]
+    },
+    "finalAnswer": "voda"
+  },
+  {
+    "a": {
+      "answer": "magla",
+      "words": ["jahači", "josipa lisac", "smog", "prodavanje"]
+    },
+    "b": {
+      "answer": "krivina",
+      "words": ["okuka", "oštra", "tamburelo", "lakat"]
+    },
+    "c": {
+      "answer": "lopta",
+      "words": ["sfera", "radius", "meč", "set"]
+    },
+    "d": {
+      "answer": "leptir",
+      "words": ["nož", "monarh", "gusjenica", "admiral"]
+    },
+    "finalAnswer": "hvatanje"
+  },
+  {
+    "a": {
+      "answer": "atletika",
+      "words": ["stopalo", "disciplina", "staza", "desetoboj"]
+    },
+    "b": {
+      "answer": "kontra",
+      "words": ["protiv", "tenor", "napad", "indikacija"]
+    },
+    "c": {
+      "answer": "susret",
+      "words": ["izlazak", "sastanak", "bliski", "utakmica"]
+    },
+    "d": {
+      "answer": "podrška",
+      "words": ["potpora", "pomoć", "roditeljska", "tehnička"]
+    },
+    "finalAnswer": "miting"
+  },
+  {
+    "a": {
+      "answer": "kneževina",
+      "words": ["monako", "andora", "srbija", "lihtenštajn"]
+    },
+    "b": {
+      "answer": "magija",
+      "words": ["crna", "vudu", "krpa", "realizam"]
+    },
+    "c": {
+      "answer": "rumunija",
+      "words": ["rej", "dačija", "crno more", "revolucija"]
+    },
+    "d": {
+      "answer": "kolo",
+      "words": ["hvatanje", "vasa", "vandredno", "sreća"]
+    },
+    "finalAnswer": "vlaska"
+  },
+  {
+    "a": {
+      "answer": "alat",
+      "words": ["majstor", "čekić", "ručni", "kutija"]
+    },
+    "b": {
+      "answer": "drvo",
+      "words": ["advokat", "život", "stablo", "javor"]
+    },
+    "c": {
+      "answer": "nokti",
+      "words": ["keratin", "manikir", "lak", "prsti"]
+    },
+    "d": {
+      "answer": "metal",
+      "words": ["plemenit", "olovo", "detektor", "rešetka"]
+    },
+    "finalAnswer": "turpija"
+  },
+  {
+    "a": {
+      "answer": "papir",
+      "words": ["list", "novac", "drvo", "avion"]
+    },
+    "b": {
+      "answer": "ukras",
+      "words": ["torta", "sara", "biljka", "nova godina"]
+    },
+    "c": {
+      "answer": "žuč",
+      "words": ["kamen", "kanal", "jetra", "čaša"]
+    },
+    "d": {
+      "answer": "najlon",
+      "words": ["polimer", "nit", "čarape", "pijaca"]
+    },
+    "finalAnswer": "kesa"
+  },
+  {
+    "a": {
+      "answer": "film",
+      "words": ["režija", "akcija", "foto-aparat", "kritika"]
+    },
+    "b": {
+      "answer": "put",
+      "words": ["isprava", "torba", "auto", "svila"]
+    },
+    "c": {
+      "answer": "prvi",
+      "words": ["pogled", "poljubac", "maj", "april"]
+    },
+    "d": {
+      "answer": "fudbalski klub",
+      "words": ["liverpul", "viljareal", "ajaks", "omladinski"]
+    },
+    "finalAnswer": "partizan"
+  },
+  {
+    "a": {
+      "answer": "lovac",
+      "words": ["avion", "jelen", "zmaj", "žito"]
+    },
+    "b": {
+      "answer": "muha",
+      "words": ["gospodar", "boks", "ljepilo", "ćevape"]
+    },
+    "c": {
+      "answer": "kosa",
+      "words": ["samson", "bježanija", "lak", "ravna"]
+    },
+    "d": {
+      "answer": "luda",
+      "words": ["nasta", "noć", "kuća", "krava"]
+    },
+    "finalAnswer": "glava"
+  },
+  {
+    "finalAnswer": "more",
+    "a": {
+      "answer": "plaža",
+      "words": ["pesak", "sunce", "talasi", "ležaljka"]
+    },
+    "b": {
+      "answer": "brod",
+      "words": ["kapetan", "sidro", "jedrenjak", "putovanje"]
+    },
+    "c": {
+      "answer": "morska hrana",
+      "words": ["riba", "rakovi", "školjke", "paella"]
+    },
+    "d": {
+      "answer": "ostrvo",
+      "words": ["palme", "tajna", "isolacija", "avantura"]
+    }
+  },
+  {
+    "finalAnswer": "planina",
+    "a": {
+      "answer": "sneg",
+      "words": ["hladno", "skijanje", "vrh", "zima"]
+    },
+    "b": {
+      "answer": "stena",
+      "words": ["visina", "strma", "alpinizam", "kamen"]
+    },
+    "c": {
+      "answer": "šuma",
+      "words": ["drveće", "životinje", "tišina", "izlet"]
+    },
+    "d": {
+      "answer": "izvor",
+      "words": ["voda", "čista", "potočić", "hladna"]
+    }
+  },
+  {
+    "finalAnswer": "životinje",
+    "a": {
+      "answer": "pas",
+      "words": ["ljubimac", "vau", "kucanje", "prijatelj"]
+    },
+    "b": {
+      "answer": "mačka",
+      "words": ["nežna", "maženje", "mijau", "igračka"]
+    },
+    "c": {
+      "answer": "slon",
+      "words": ["veliki", "trup", "dugačak", "truba"]
+    },
+    "d": {
+      "answer": "ptica",
+      "words": ["leteći", "krila", "pesma", "gnezdo"]
+    }
+  },
+  {
+    "finalAnswer": "knjiga",
+    "a": {
+      "answer": "priča",
+      "words": ["čitanje", "stranice", "zaplet", "kraj"]
+    },
+    "b": {
+      "answer": "autor",
+      "words": ["pisanje", "književnost", "imena", "romani"]
+    },
+    "c": {
+      "answer": "stranica",
+      "words": ["tekst", "broj", "poglavlje", "sadržaj"]
+    },
+    "d": {
+      "answer": "biblioteka",
+      "words": ["knjige", "čitanje", "mesto", "tišina"]
+    }
+  },
+  {
+    "finalAnswer": "prijateljstvo",
+    "a": {
+      "answer": "poverenje",
+      "words": ["iskrenost", "podrška", "razumevanje", "druženje"]
+    },
+    "b": {
+      "answer": "radost",
+      "words": ["sreća", "smeh", "veselje", "zajednički trenuci"]
+    },
+    "c": {
+      "answer": "podrška",
+      "words": ["pomaganje", "oslonac", "prihvatanje", "razumevanje"]
+    },
+    "d": {
+      "answer": "avantura",
+      "words": ["uzbuđenje", "putovanje", "istraživanje", "nepoznato"]
+    }
+  },
+  {
+    "finalAnswer": "voće",
+    "a": {
+      "answer": "jabuka",
+      "words": ["crvena", "sočna", "hrskava", "vitamini"]
+    },
+    "b": {
+      "answer": "banana",
+      "words": ["žuta", "slatka", "voćna", "vitamini"]
+    },
+    "c": {
+      "answer": "narandža",
+      "words": ["narandžasta", "sok", "kiselkasta", "vitamini"]
+    },
+    "d": {
+      "answer": "grožđe",
+      "words": ["ljubičasto", "sok", "zdravo", "grozdovi"]
+    }
+  },
+  {
+    "finalAnswer": "automobil",
+    "a": {
+      "answer": "brzina",
+      "words": ["trka", "motor", "ubrzanje", "kilometri"]
+    },
+    "b": {
+      "answer": "volan",
+      "words": ["upravljanje", "krug", "kočenje", "instrument tabla"]
+    },
+    "c": {
+      "answer": "putovanje",
+      "words": ["destinacija", "vožnja", "ruta", "odmorište"]
+    },
+    "d": {
+      "answer": "benzin",
+      "words": ["gorivo", "pumpa", "litri", "ekonomičnost"]
+    }
+  },
+  {
+    "finalAnswer": "film",
+    "a": {
+      "answer": "glumac",
+      "words": ["uloga", "scenario", "poznat", "akcija"]
+    },
+    "b": {
+      "answer": "scenario",
+      "words": ["tekst", "radnja", "dijalozi", "režija"]
+    },
+    "c": {
+      "answer": "kamera",
+      "words": ["snimanje", "režija", "kadrovi", "produkcija"]
+    },
+    "d": {
+      "answer": "publika",
+      "words": ["gledaoci", "reakcije", "bioskop", "kritike"]
+    }
+  },
+  {
+    "finalAnswer": "sport",
+    "a": {
+      "answer": "fudbal",
+      "words": ["gol", "lopta", "stadion", "tim"]
+    },
+    "b": {
+      "answer": "plivanje",
+      "words": ["bazen", "voda", "tehnika", "disanje"]
+    },
+    "c": {
+      "answer": "atletika",
+      "words": ["trčanje", "skok", "bacanje", "trening"]
+    },
+    "d": {
+      "answer": "košarka",
+      "words": ["teren", "koš", "tim", "lopta"]
+    }
+  },
+  {
+    "finalAnswer": "računar",
+    "a": {
+      "answer": "tastatura",
+      "words": ["dugmad", "pisanje", "komunikacija", "računarski"]
+    },
+    "b": {
+      "answer": "monitor",
+      "words": ["ekran", "slika", "prikaz", "vizuelno"]
+    },
+    "c": {
+      "answer": "internet",
+      "words": ["mreža", "povezivanje", "pretraga", "sajtovi"]
+    },
+    "d": {
+      "answer": "programiranje",
+      "words": ["kodiranje", "algoritmi", "razvoj", "softver"]
+    }
+  },
+  {
+    "finalAnswer": "cvijet",
+    "a": {
+      "answer": "ruža",
+      "words": ["crvena", "mirisna", "trnje", "ljubav"]
+    },
+    "b": {
+      "answer": "ljubičica",
+      "words": ["ljubičasta", "mala", "mirisna", "trava"]
+    },
+    "c": {
+      "answer": "suncokret",
+      "words": ["žut", "velik", "seme", "polje"]
+    },
+    "d": {
+      "answer": "orhideja",
+      "words": ["egzotična", "ljepota", "cvjetnjak", "tropska"]
+    }
+  },
+  {
+    "finalAnswer": "kafa",
+    "a": {
+      "answer": "jutro",
+      "words": ["buđenje", "energija", "početak", "budilnik"]
+    },
+    "b": {
+      "answer": "espreso",
+      "words": ["jak", "mali", "koncentrisan", "Italija"]
+    },
+    "c": {
+      "answer": "kapućino",
+      "words": ["pena", "mlijeko", "slatko", "kafeterija"]
+    },
+    "d": {
+      "answer": "filter kafa",
+      "words": ["lagana", "crna", "filter", "kafa aparat"]
+    }
+  },
+  {
+    "finalAnswer": "bicikl",
+    "a": {
+      "answer": "vožnja",
+      "words": ["brzina", "rekreacija", "biciklisti", "izlet"]
+    },
+    "b": {
+      "answer": "pedale",
+      "words": ["pokret", "noge", "vožnja", "bicikl"]
+    },
+    "c": {
+      "answer": "lanac",
+      "words": ["prenos", "točkovi", "menjač", "bicikl"]
+    },
+    "d": {
+      "answer": "šlem",
+      "words": ["zaštita", "glava", "bezbednost", "biciklista"]
+    }
+  },
+  {
+    "finalAnswer": "kuća",
+    "a": {
+      "answer": "dom",
+      "words": ["porodica", "toplina", "sigurnost", "ljubav"]
+    },
+    "b": {
+      "answer": "krov",
+      "words": ["zaštita", "kiša", "snijeg", "građevina"]
+    },
+    "c": {
+      "answer": "prozor",
+      "words": ["svjetlost", "pogled", "vjetar", "otvaranje"]
+    },
+    "d": {
+      "answer": "vrt",
+      "words": ["biljke", "cvjetovi", "trava", "relaksacija"]
+    }
+  },
+  {
+    "finalAnswer": "muzika",
+    "a": {
+      "answer": "ritam",
+      "words": ["tempo", "bubnjevi", "pjesma", "ples"]
+    },
+    "b": {
+      "answer": "melodija",
+      "words": ["harmonija", "nota", "pjevanje", "instrument"]
+    },
+    "c": {
+      "answer": "koncert",
+      "words": ["publika", "muzičari", "bend", "scena"]
+    },
+    "d": {
+      "answer": "gitara",
+      "words": ["žice", "sviranje", "akordi", "instrument"]
+    }
+  },
+  {
+    "finalAnswer": "putovanje",
+    "a": {
+      "answer": "avion",
+      "words": ["let", "aerodrom", "nebo", "putnici"]
+    },
+    "b": {
+      "answer": "automobil",
+      "words": ["vožnja", "put", "benzin", "mjesto"]
+    },
+    "c": {
+      "answer": "vlak",
+      "words": ["šine", "vožnja", "stajalište", "kartica"]
+    },
+    "d": {
+      "answer": "putovanje",
+      "words": ["odmor", "istraživanje", "nova mjesta", "avantura"]
+    }
+  },
+  {
+    "finalAnswer": "univerzitet",
+    "a": {
+      "answer": "profesor",
+      "words": ["predavanje", "nastava", "ispit", "katedra"]
+    },
+    "b": {
+      "answer": "student",
+      "words": ["učenje", "knjige", "ispit", "seminar"]
+    },
+    "c": {
+      "answer": "biblioteka",
+      "words": ["knjige", "istraživanje", "čitanje", "mir"]
+    },
+    "d": {
+      "answer": "ispit",
+      "words": ["pismen", "usmen", "ocjena", "stres"]
+    }
+  },
+  {
+    "finalAnswer": "ljubav",
+    "a": {
+      "answer": "sreća",
+      "words": ["radost", "osjećaj", "partner", "osmijeh"]
+    },
+    "b": {
+      "answer": "romantika",
+      "words": ["veze", "strast", "pažnja", "gestovi"]
+    },
+    "c": {
+      "answer": "partner",
+      "words": ["ljubavnik", "vezanost", "prijateljstvo", "podrška"]
+    },
+    "d": {
+      "answer": "srce",
+      "words": ["ljubavno", "emocije", "simbol", "romantika"]
+    }
+  },
+  {
+    "finalAnswer": "zdravlje",
+    "a": {
+      "answer": "ishrana",
+      "words": ["hrana", "vitamini", "energija", "nutrijenti"]
+    },
+    "b": {
+      "answer": "vježbanje",
+      "words": ["fitnes", "aktivnost", "sport", "telovježba"]
+    },
+    "c": {
+      "answer": "odmor",
+      "words": ["spavanje", "opuštanje", "relaksacija", "regeneracija"]
+    },
+    "d": {
+      "answer": "liječnik",
+      "words": ["doktor", "bolnica", "medicina", "terapija"]
+    }
+  },
+  {
+    "finalAnswer": "tehnologija",
+    "a": {
+      "answer": "internet",
+      "words": ["mreža", "pretraga", "sajt", "konekcija"]
+    },
+    "b": {
+      "answer": "računar",
+      "words": ["kompjuter", "ekran", "tastatura", "softver"]
+    },
+    "c": {
+      "answer": "mobilni telefon",
+      "words": ["telefon", "smartfon", "aplikacije", "kamera"]
+    },
+    "d": {
+      "answer": "inovacija",
+      "words": ["napredak", "razvoj", "novitet", "tehnološki"]
+    }
+  },
+  {
+    "finalAnswer": "časopis",
+    "a": {
+      "answer": "novine",
+      "words": ["dnevne", "informacije", "vijesti", "naslov"]
+    },
+    "b": {
+      "answer": "članci",
+      "words": ["tekstovi", "rubrike", "autor", "stranica"]
+    },
+    "c": {
+      "answer": "izdanje",
+      "words": ["broj", "objava", "periodika", "tiraž"]
+    },
+    "d": {
+      "answer": "naslovna strana",
+      "words": ["glavna", "prva", "slika", "uvodni"]
+    }
+  },
+  {
+    "finalAnswer": "kuhinja",
+    "a": {
+      "answer": "šporet",
+      "words": ["peć", "rerna", "toplota", "kuhanje"]
+    },
+    "b": {
+      "answer": "sudopera",
+      "words": ["pranje", "posuđe", "čišćenje", "voda"]
+    },
+    "c": {
+      "answer": "frižider",
+      "words": ["hladno", "hrana", "čuvanje", "smrzavanje"]
+    },
+    "d": {
+      "answer": "kuhinjski ormarić",
+      "words": ["pohrana", "posuđe", "začini", "organizacija"]
+    }
+  },
+  {
+    "finalAnswer": "sunčanica",
+    "a": {
+      "answer": "vrućina",
+      "words": ["toplota", "letnje", "spaljivanje", "znojenje"]
+    },
+    "b": {
+      "answer": "glavobolja",
+      "words": ["bol", "glava", "neugodno", "lečenje"]
+    },
+    "c": {
+      "answer": "vrtoglavica",
+      "words": ["nesigurnost", "okretanje", "gubitak", "ravnoteža"]
+    },
+    "d": {
+      "answer": "dehidratacija",
+      "words": ["nedostatak", "tečnost", "sušenje", "organizma"]
+    }
+  },
+  {
+    "finalAnswer": "avantura",
+    "a": {
+      "answer": "istraživanje",
+      "words": ["otkrivanje", "nepoznato", "istraživač", "putovanje"]
+    },
+    "b": {
+      "answer": "uzbuđenje",
+      "words": ["adrenalin", "nepredvidljivo", "uzbuđujuće", "neizvjesno"]
+    },
+    "c": {
+      "answer": "hrabrost",
+      "words": ["odvažnost", "smjelost", "odvažan", "strah"]
+    },
+    "d": {
+      "answer": "neizvjesnost",
+      "words": ["nepredvidljivo", "nepoznanica", "nejasno", "rizik"]
+    }
+  },
+  {
+    "finalAnswer": "bicikl",
+    "a": {
+      "answer": "vožnja",
+      "words": ["brzina", "rekreacija", "biciklisti", "izlet"]
+    },
+    "b": {
+      "answer": "pedale",
+      "words": ["pokret", "noge", "vožnja", "bicikl"]
+    },
+    "c": {
+      "answer": "lanac",
+      "words": ["prenos", "točkovi", "menjač", "bicikl"]
+    },
+    "d": {
+      "answer": "šlem",
+      "words": ["zaštita", "glava", "bezbednost", "biciklista"]
+    }
+  },
+  {
+    "finalAnswer": "proljeće",
+    "a": {
+      "answer": "cvjetanje",
+      "words": ["cvijeće", "boje", "miris", "priroda"]
+    },
+    "b": {
+      "answer": "toplota",
+      "words": ["sunce", "toplo", "izlazak", "zelenilo"]
+    },
+    "c": {
+      "answer": "prijelaz",
+      "words": ["godina", "sezona", "period", "promjena"]
+    },
+    "d": {
+      "answer": "budić",
+      "words": ["ptica", "pjevanje", "probuđen", "jutro"]
+    }
+  },
+  {
+    "finalAnswer": "ljetovanje",
+    "a": {
+      "answer": "more",
+      "words": ["plivanje", "pješčana plaža", "sunce", "odmor"]
+    },
+    "b": {
+      "answer": "sunčanje",
+      "words": ["toplota", "krema", "ležaljka", "smeđa boja"]
+    },
+    "c": {
+      "answer": "izlet",
+      "words": ["putovanje", "obilazak", "odmor", "nova mjesta"]
+    },
+    "d": {
+      "answer": "ljeto",
+      "words": ["toplo", "dug", "šareno", "odmor"]
+    }
+  },
+  {
+    "finalAnswer": "muzej",
+    "a": {
+      "answer": "umjetnost",
+      "words": ["slikarstvo", "vajarstvo", "arhitektura", "izložba"]
+    },
+    "b": {
+      "answer": "kolekcija",
+      "words": ["sakupljanje", "izlaganje", "prikazivanje", "stalna postavka"]
+    },
+    "c": {
+      "answer": "istorija",
+      "words": ["prošlost", "arheologija", "predmeti", "događaji"]
+    },
+    "d": {
+      "answer": "vodič",
+      "words": ["objašnjenje", "tura", "informacije", "stručnjak"]
+    }
+  },
+  {
+    "finalAnswer": "pješčana plaža",
+    "a": {
+      "answer": "more",
+      "words": ["plivanje", "morska voda", "valovi", "sunce"]
+    },
+    "b": {
+      "answer": "pijesak",
+      "words": ["toplina", "ležanje", "igračke", "gradnja kula"]
+    },
+    "c": {
+      "answer": "ležaljka",
+      "words": ["odmor", "sunčanje", "relaksacija", "udobnost"]
+    },
+    "d": {
+      "answer": "suncobran",
+      "words": ["hladovina", "zaštita", "plivanje", "ljeto"]
+    }
+  },
+  {
+    "finalAnswer": "podne",
+    "a": {
+      "answer": "sunce",
+      "words": ["visoko", "toplota", "sjaj", "svjetlost"]
+    },
+    "b": {
+      "answer": "ručak",
+      "words": ["jelo", "obrok", "hrana", "počinak"]
+    },
+    "c": {
+      "answer": "toplota",
+      "words": ["vrućina", "znojenje", "odmor", "sunčanje"]
+    },
+    "d": {
+      "answer": "vrijeme",
+      "words": ["sat", "trenutak", "kasno", "ranije"]
+    }
+  },
+  {
+    "finalAnswer": "obilazak",
+    "a": {
+      "answer": "turista",
+      "words": ["putnik", "destinacija", "posjeta", "putovanje"]
+    },
+    "b": {
+      "answer": "znamenitost",
+      "words": ["atrakcija", "spomenik", "posmatranje", "lokalitet"]
+    },
+    "c": {
+      "answer": "vodič",
+      "words": ["informacije", "tura", "objašnjenje", "stručnjak"]
+    },
+    "d": {
+      "answer": "razgledanje",
+      "words": ["pogled", "šetnja", "vidikovac", "istorija"]
+    }
+  },
+  {
+    "finalAnswer": "planiranje",
+    "a": {
+      "answer": "cilj",
+      "words": ["želja", "uspeh", "ostvarivanje", "plan"]
+    },
+    "b": {
+      "answer": "organizacija",
+      "words": ["raspored", "priprema", "koordinacija", "izvršenje"]
+    },
+    "c": {
+      "answer": "vreme",
+      "words": ["trenutak", "period", "rokovnik", "satnica"]
+    },
+    "d": {
+      "answer": "strategija",
+      "words": ["planiranje", "metod", "taktika", "akcija"]
+    }
+  },
+  {
+    "finalAnswer": "čitanje",
+    "a": {
+      "answer": "knjiga",
+      "words": ["priča", "pisanje", "stranice", "autor"]
+    },
+    "b": {
+      "answer": "obrazovanje",
+      "words": ["učenje", "znanje", "nauka", "informacija"]
+    },
+    "c": {
+      "answer": "konzentracija",
+      "words": ["fokus", "pažnja", "razmišljanje", "analiza"]
+    },
+    "d": {
+      "answer": "osvrt",
+      "words": ["mišljenje", "kritika", "rezime", "utisci"]
+    }
+  },
+  {
+    "finalAnswer": "putovanje",
+    "a": {
+      "answer": "avion",
+      "words": ["let", "aerodrom", "nebo", "putnici"]
+    },
+    "b": {
+      "answer": "automobil",
+      "words": ["vožnja", "put", "benzin", "mjesto"]
+    },
+    "c": {
+      "answer": "vlak",
+      "words": ["šine", "vožnja", "stajalište", "kartica"]
+    },
+    "d": {
+      "answer": "odmor",
+      "words": ["destinacija", "relaksacija", "odmak", "putovanje"]
+    }
+  },
+  {
+    "finalAnswer": "maštanje",
+    "a": {
+      "answer": "sanjarenje",
+      "words": ["vizija", "snovi", "imaginacija", "fantazija"]
+    },
+    "b": {
+      "answer": "kreacija",
+      "words": ["stvaranje", "izmišljanje", "umjetnost", "originalnost"]
+    },
+    "c": {
+      "answer": "inspiracija",
+      "words": ["ideja", "motivacija", "podsticaj", "kreativnost"]
+    },
+    "d": {
+      "answer": "vizualizacija",
+      "words": ["predstava", "slika", "fantaziranje", "projekcija"]
+    }
+  },
+  {
+    "finalAnswer": "priča",
+    "a": {
+      "answer": "fabula",
+      "words": ["zaplet", "naracija", "radnja", "događaji"]
+    },
+    "b": {
+      "answer": "lik",
+      "words": ["karakter", "osoba", "persona", "protagonista"]
+    },
+    "c": {
+      "answer": "moral",
+      "words": ["poruka", "lekcija", "vrednost", "nauk"]
+    },
+    "d": {
+      "answer": "zaplet",
+      "words": ["radnja", "situacija", "neizvjesnost", "drama"]
+    }
+  },
+  {
+    "finalAnswer": "umjetnost",
+    "a": {
+      "answer": "izražavanje",
+      "words": ["kreativnost", "emocije", "stvaranje", "interpretacija"]
+    },
+    "b": {
+      "answer": "inspiracija",
+      "words": ["ideja", "motivacija", "podsticaj", "kreativnost"]
+    },
+    "c": {
+      "answer": "kultura",
+      "words": ["umjetnici", "društvo", "tradicija", "vrijednosti"]
+    },
+    "d": {
+      "answer": "estetika",
+      "words": ["ljepota", "harmonija", "ukus", "vizuelno"]
+    }
+  },
+  {
+    "finalAnswer": "ples",
+    "a": {
+      "answer": "ritam",
+      "words": ["tempo", "muzika", "pokret", "glas"]
+    },
+    "b": {
+      "answer": "koraci",
+      "words": ["pokret", "koreografija", "tehnika", "izvedba"]
+    },
+    "c": {
+      "answer": "partner",
+      "words": ["plesač", "dvoje", "veza", "igra"]
+    },
+    "d": {
+      "answer": "scena",
+      "words": ["podijum", "pozornica", "gledaoci", "svjetla"]
+    }
+  },
+  {
+    "finalAnswer": "sport",
+    "a": {
+      "answer": "takmičenje",
+      "words": ["natjecanje", "izazov", "rezultat", "pobjeda"]
+    },
+    "b": {
+      "answer": "trening",
+      "words": ["priprema", "vježba", "tehnika", "fizički"]
+    },
+    "c": {
+      "answer": "tim",
+      "words": ["ekipa", "igrači", "sastav", "saradnja"]
+    },
+    "d": {
+      "answer": "rekreacija",
+      "words": ["odmor", "opuštanje", "aktivnost", "zabava"]
+    }
+  },
+  {
+    "finalAnswer": "druženje",
+    "a": {
+      "answer": "prijatelji",
+      "words": ["kompanija", "razgovor", "zabava", "smijeh"]
+    },
+    "b": {
+      "answer": "okupljanje",
+      "words": ["susret", "drugarstvo", "socijalizacija", "porodica"]
+    },
+    "c": {
+      "answer": "razgovor",
+      "words": ["priča", "komunikacija", "tema", "dijalog"]
+    },
+    "d": {
+      "answer": "aktivnost",
+      "words": ["zabava", "igra", "sportska", "društvena"]
+    }
+  },
+  {
+    "finalAnswer": "ljubav",
+    "a": {
+      "answer": "sreća",
+      "words": ["radost", "osjećaj", "partner", "osmijeh"]
+    },
+    "b": {
+      "answer": "romantika",
+      "words": ["veze", "strast", "pažnja", "gestovi"]
+    },
+    "c": {
+      "answer": "partner",
+      "words": ["ljubavnik", "vezanost", "prijateljstvo", "podrška"]
+    },
+    "d": {
+      "answer": "srce",
+      "words": ["ljubavno", "emocije", "simbol", "romantika"]
+    }
+  },
+  {
+    "finalAnswer": "um",
+    "a": {
+      "answer": "misao",
+      "words": ["ideja", "razmišljanje", "kreativnost", "koncept"]
+    },
+    "b": {
+      "answer": "inteligencija",
+      "words": ["razum", "pamet", "znanje", "analiza"]
+    },
+    "c": {
+      "answer": "mašta",
+      "words": ["vizija", "snovi", "imaginacija", "kreacija"]
+    },
+    "d": {
+      "answer": "pamćenje",
+      "words": ["memorija", "zapamćivanje", "sjećanje", "informacije"]
+    }
+  },
+  {
+    "finalAnswer": "nauka",
+    "a": {
+      "answer": "istraživanje",
+      "words": ["otkrivanje", "analiza", "eksperiment", "znanje"]
+    },
+    "b": {
+      "answer": "teorija",
+      "words": ["hipoteza", "objašnjenje", "koncept", "postavka"]
+    },
+    "c": {
+      "answer": "eksperiment",
+      "words": ["test", "metod", "provjera", "dokaz"]
+    },
+    "d": {
+      "answer": "inovacija",
+      "words": ["napredak", "novitet", "razvoj", "tehnologija"]
+    }
+  },
+  {
+    "finalAnswer": "uspeh",
+    "a": {
+      "answer": "cilj",
+      "words": ["postignuće", "ostvarenje", "rezultat", "plan"]
+    },
+    "b": {
+      "answer": "rad",
+      "words": ["trud", "napor", "posao", "angažman"]
+    },
+    "c": {
+      "answer": "motivacija",
+      "words": ["inspiracija", "želja", "podsticaj", "cilj"]
+    },
+    "d": {
+      "answer": "ponos",
+      "words": ["dostignuće", "samopouzdanje", "zadovoljstvo", "pobjeda"]
+    }
+  },
+  {
+    "finalAnswer": "djetinjstvo",
+    "a": {
+      "answer": "igra",
+      "words": ["zabava", "druženje", "smijeh", "dječak"]
+    },
+    "b": {
+      "answer": "bezbrižnost",
+      "words": ["radost", "sloboda", "nevinost", "opuštanje"]
+    },
+    "c": {
+      "answer": "usklik",
+      "words": ["čuđenje", "radost", "iznenađenje", "igra"]
+    },
+    "d": {
+      "answer": "mašta",
+      "words": ["vizija", "snovi", "imaginacija", "kreacija"]
+    }
+  },
+  {
+    "finalAnswer": "sreća",
+    "a": {
+      "answer": "osmeh",
+      "words": ["radost", "zadovoljstvo", "emocija", "ljubaznost"]
+    },
+    "b": {
+      "answer": "ljubav",
+      "words": ["partner", "porodica", "prijateljstvo", "vezanost"]
+    },
+    "c": {
+      "answer": "uspjeh",
+      "words": ["cilj", "postignuće", "rad", "rezultat"]
+    },
+    "d": {
+      "answer": "zahvalnost",
+      "words": ["priznanje", "blagoslov", "poštovanje", "dar"]
+    }
+  },
+  {
+    "finalAnswer": "posmatranje",
+    "a": {
+      "answer": "pažnja",
+      "words": ["fokus", "kontrola", "oprez", "analiza"]
+    },
+    "b": {
+      "answer": "opservacija",
+      "words": ["gledanje", "zapažanje", "uočavanje", "proučavanje"]
+    },
+    "c": {
+      "answer": "izučavanje",
+      "words": ["proučavanje", "analiza", "istraživanje", "razmatranje"]
+    },
+    "d": {
+      "answer": "promatranje",
+      "words": ["gledanje", "praćenje", "nadgledanje", "opservacija"]
+    }
+  },
+  {
+    "finalAnswer": "hrabrost",
+    "a": {
+      "answer": "odvažnost",
+      "words": ["smjelost", "hrabri", "hrabar", "nezavisnost"]
+    },
+    "b": {
+      "answer": "odlučnost",
+      "words": ["rešenost", "resolutnost", "upornost", "volja"]
+    },
+    "c": {
+      "answer": "snalažljivost",
+      "words": ["spretnost", "lukavstvo", "inteligencija", "sposobnost"]
+    },
+    "d": {
+      "answer": "nezavisnost",
+      "words": ["sloboda", "samostalnost", "autonomija", "nezavisan"]
+    }
+  },
+  {
+    "finalAnswer": "poštovanje",
+    "a": {
+      "answer": "priznanje",
+      "words": ["cena", "vrednost", "ugled", "cenjenje"]
+    },
+    "b": {
+      "answer": "ugled",
+      "words": ["poštovanje", "prestiž", "autoritet", "čast"]
+    },
+    "c": {
+      "answer": "korektnost",
+      "words": ["pravednost", "poštenje", "fer", "ispravnost"]
+    },
+    "d": {
+      "answer": "prijateljstvo",
+      "words": ["drugarstvo", "veza", "bliskost", "društvo"]
+    }
+  },
+  {
+    "finalAnswer": "putovanje",
+    "a": {
+      "answer": "avion",
+      "words": ["let", "aerodrom", "nebo", "putnici"]
+    },
+    "b": {
+      "answer": "automobil",
+      "words": ["vožnja", "put", "benzin", "mesto"]
+    },
+    "c": {
+      "answer": "vožnja",
+      "words": ["putovanje", "put", "kretanje", "automobil"]
+    },
+    "d": {
+      "answer": "destinacija",
+      "words": ["cilj", "mesto", "kraj", "odredište"]
+    }
+  },
+  {
+    "finalAnswer": "maštanje",
+    "a": {
+      "answer": "sanjarenje",
+      "words": ["vizija", "snovi", "imaginacija", "fantazija"]
+    },
+    "b": {
+      "answer": "kreacija",
+      "words": ["stvaranje", "izmišljanje", "umetnost", "originalnost"]
+    },
+    "c": {
+      "answer": "inspiracija",
+      "words": ["ideja", "motivacija", "podsticaj", "kreativnost"]
+    },
+    "d": {
+      "answer": "vizualizacija",
+      "words": ["predstava", "slika", "fantaziranje", "projekcija"]
+    }
+  },
+  {
+    "finalAnswer": "boravak",
+    "a": {
+      "answer": "odmor",
+      "words": ["relaksacija", "odmak", "izlet", "destinacija"]
+    },
+    "b": {
+      "answer": "zadržavanje",
+      "words": ["stajanje", "usporavanje", "oklevanje", "zadržati"]
+    },
+    "c": {
+      "answer": "pauza",
+      "words": ["odmor", "prekid", "zaustavljanje", "predah"]
+    },
+    "d": {
+      "answer": "prolaz",
+      "words": ["kretanje", "put", "hod", "putovanje"]
+    }
+  },
+  {
+    "finalAnswer": "životinja",
+    "a": {
+      "answer": "kućni ljubimac",
+      "words": ["pas", "mačka", "ptica", "zec"]
+    },
+    "b": {
+      "answer": "divljač",
+      "words": ["šuma", "lov", "šetnja", "priroda"]
+    },
+    "c": {
+      "answer": "domaćin",
+      "words": ["gazda", "vlasnik", "osoba", "dom"]
+    },
+    "d": {
+      "answer": "sisar",
+      "words": ["krzno", "mladunče", "majka", "mleko"]
+    }
+  },
+  {
+    "finalAnswer": "razmišljanje",
+    "a": {
+      "answer": "analiza",
+      "words": ["istraživanje", "mišljenje", "proučavanje", "razmatranje"]
+    },
+    "b": {
+      "answer": "kontemplacija",
+      "words": ["duboko", "promišljanje", "razmatranje", "meditacija"]
+    },
+    "c": {
+      "answer": "refleksija",
+      "words": ["mišljenje", "preispitivanje", "samospoznaja", "introspekcija"]
+    },
+    "d": {
+      "answer": "razum",
+      "words": ["intelekt", "logika", "um", "misliti"]
+    }
+  },
+  {
+    "finalAnswer": "sport",
+    "a": {
+      "answer": "takmičenje",
+      "words": ["natjecanje", "izazov", "rezultat", "pobjeda"]
+    },
+    "b": {
+      "answer": "treniranje",
+      "words": ["priprema", "vježba", "tehnika", "fizički"]
+    },
+    "c": {
+      "answer": "tim",
+      "words": ["ekipa", "igrači", "sastav", "saradnja"]
+    },
+    "d": {
+      "answer": "rekreacija",
+      "words": ["odmor", "opuštanje", "aktivnost", "zabava"]
+    }
+  },
+  {
+    "finalAnswer": "druženje",
+    "a": {
+      "answer": "prijatelji",
+      "words": ["kompanija", "razgovor", "zabava", "smeh"]
+    },
+    "b": {
+      "answer": "okupljanje",
+      "words": ["susret", "drugarstvo", "socijalizacija", "porodica"]
+    },
+    "c": {
+      "answer": "razgovor",
+      "words": ["priča", "komunikacija", "tema", "dijalog"]
+    },
+    "d": {
+      "answer": "aktivnost",
+      "words": ["zabava", "igra", "sportska", "društvena"]
+    }
+  },
+  {
+    "finalAnswer": "snalaženje",
+    "a": {
+      "answer": "prilagođavanje",
+      "words": ["adaptacija", "fleksibilnost", "sposobnost", "promene"]
+    },
+    "b": {
+      "answer": "snalažljivost",
+      "words": ["spretnost", "lukavstvo", "inteligencija", "hrabrost"]
+    },
+    "c": {
+      "answer": "pronalazak",
+      "words": ["nalaženje", "otkriće", "traženje", "pronalaženje"]
+    },
+    "d": {
+      "answer": "spretnost",
+      "words": ["okretan", "veština", "brzina", "lukavstvo"]
+    }
+  },
+  {
+    "finalAnswer": "zabava",
+    "a": {
+      "answer": "igra",
+      "words": ["druženje", "smeh", "radost", "aktivnost"]
+    },
+    "b": {
+      "answer": "rekreacija",
+      "words": ["sport", "odmor", "aktivnost", "opuštanje"]
+    },
+    "c": {
+      "answer": "provod",
+      "words": ["izlazak", "noćni život", "zabavljanje", "aktivnost"]
+    },
+    "d": {
+      "answer": "veselje",
+      "words": ["radost", "sreća", "dobra atmosfera", "slavlje"]
+    }
+  },
+  {
+    "finalAnswer": "radost",
+    "a": {
+      "answer": "sreća",
+      "words": ["osmeh", "zadovoljstvo", "emocija", "ljubaznost"]
+    },
+    "b": {
+      "answer": "veselje",
+      "words": ["radost", "dobra atmosfera", "zabava", "slavlje"]
+    },
+    "c": {
+      "answer": "ushićenje",
+      "words": ["entuzijazam", "ekstaza", "uzbuđenje", "radost"]
+    },
+    "d": {
+      "answer": "zadovoljstvo",
+      "words": ["sreća", "osjećaj", "emocija", "zadovoljenje"]
+    }
+  },
+  {
+    "finalAnswer": "svest",
+    "a": {
+      "answer": "samosvest",
+      "words": ["samopouzdanje", "samoanaliza", "samoostvarenje", "autonomija"]
+    },
+    "b": {
+      "answer": "svestan",
+      "words": ["budan", "osviješten", "pažljiv", "inteligentan"]
+    },
+    "c": {
+      "answer": "svestanost",
+      "words": ["osviještenost", "pažnja", "bistarstvo", "budnost"]
+    },
+    "d": {
+      "answer": "nesvest",
+      "words": ["neprijamnost", "gubitak svijesti", "bez svesti", "nesvjestica"]
+    }
+  },
+  {
+    "finalAnswer": "djetinjstvo",
+    "a": {
+      "answer": "igra",
+      "words": ["zabava", "druženje", "smijeh", "dječak"]
+    },
+    "b": {
+      "answer": "bezbrižnost",
+      "words": ["radost", "sloboda", "nevinost", "opuštanje"]
+    },
+    "c": {
+      "answer": "usklik",
+      "words": ["čuđenje", "radost", "iznenađenje", "igra"]
+    },
+    "d": {
+      "answer": "mašta",
+      "words": ["vizija", "snovi", "imaginacija", "kreacija"]
+    }
+  },
+  {
+    "finalAnswer": "sloboda",
+    "a": {
+      "answer": "neovisnost",
+      "words": ["nezavisnost", "samostalnost", "autonomija", "slobodan"]
+    },
+    "b": {
+      "answer": "izbor",
+      "words": ["odlučivanje", "odabir", "izabrati", "opcija"]
+    },
+    "c": {
+      "answer": "pravo",
+      "words": ["sloboda", "privilegija", "povelja", "zakon"]
+    },
+    "d": {
+      "answer": "demokratija",
+      "words": ["vlast", "politika", "vladavina", "građani"]
+    }
+  },
+  {
+    "finalAnswer": "priča",
+    "a": {
+      "answer": "fabula",
+      "words": ["zaplet", "naracija", "radnja", "događaji"]
+    },
+    "b": {
+      "answer": "lik",
+      "words": ["karakter", "osoba", "persona", "protagonista"]
+    },
+    "c": {
+      "answer": "moral",
+      "words": ["poruka", "lekcija", "vrednost", "nauk"]
+    },
+    "d": {
+      "answer": "zaplet",
+      "words": ["radnja", "situacija", "neizvjesnost", "drama"]
+    }
+  },
+  {
+    "finalAnswer": "posmatranje",
+    "a": {
+      "answer": "pažnja",
+      "words": ["fokus", "kontrola", "oprez", "analiza"]
+    },
+    "b": {
+      "answer": "opservacija",
+      "words": ["gledanje", "zapažanje", "uočavanje", "proučavanje"]
+    },
+    "c": {
+      "answer": "izučavanje",
+      "words": ["proučavanje", "analiza", "istraživanje", "razmatranje"]
+    },
+    "d": {
+      "answer": "promatranje",
+      "words": ["gledanje", "praćenje", "nadgledanje", "opservacija"]
+    }
+  },
+  {
+    "finalAnswer": "hrabrost",
+    "a": {
+      "answer": "odvažnost",
+      "words": ["smelost", "hrabri", "hrabar", "nezavisnost"]
+    },
+    "b": {
+      "answer": "odlučnost",
+      "words": ["rešenost", "resolutnost", "upornost", "volja"]
+    },
+    "c": {
+      "answer": "snalažljivost",
+      "words": ["spretnost", "lukavstvo", "inteligencija", "sposobnost"]
+    },
+    "d": {
+      "answer": "nezavisnost",
+      "words": ["sloboda", "samostalnost", "autonomija", "nezavisan"]
+    }
+  },
+  {
+    "finalAnswer": "poštovanje",
+    "a": {
+      "answer": "priznanje",
+      "words": ["cena", "vrednost", "ugled", "cenjenje"]
+    },
+    "b": {
+      "answer": "ugled",
+      "words": ["poštovanje", "prestiž", "autoritet", "čast"]
+    },
+    "c": {
+      "answer": "korektnost",
+      "words": ["pravednost", "poštenje", "fer", "ispravnost"]
+    },
+    "d": {
+      "answer": "prijateljstvo",
+      "words": ["drugarstvo", "veza", "bliskost", "društvo"]
+    }
+  },
+  {
+    "finalAnswer": "putovanje",
+    "a": {
+      "answer": "avion",
+      "words": ["let", "aerodrom", "nebo", "putnici"]
+    },
+    "b": {
+      "answer": "automobil",
+      "words": ["vožnja", "put", "benzin", "mesto"]
+    },
+    "c": {
+      "answer": "vožnja",
+      "words": ["putovanje", "put", "kretanje", "automobil"]
+    },
+    "d": {
+      "answer": "destinacija",
+      "words": ["cilj", "mesto", "kraj", "odredište"]
+    }
+  },
+  {
+    "finalAnswer": "maštanje",
+    "a": {
+      "answer": "sanjarenje",
+      "words": ["vizija", "snovi", "imaginacija", "fantazija"]
+    },
+    "b": {
+      "answer": "kreacija",
+      "words": ["stvaranje", "izmišljanje", "umetnost", "originalnost"]
+    },
+    "c": {
+      "answer": "inspiracija",
+      "words": ["ideja", "motivacija", "podsticaj", "kreativnost"]
+    },
+    "d": {
+      "answer": "vizualizacija",
+      "words": ["predstava", "slika", "fantaziranje", "projekcija"]
+    }
+  },
+  {
+    "finalAnswer": "boravak",
+    "a": {
+      "answer": "odmor",
+      "words": ["relaksacija", "odmak", "izlet", "destinacija"]
+    },
+    "b": {
+      "answer": "zadržavanje",
+      "words": ["stajanje", "usporavanje", "oklevanje", "zadržati"]
+    },
+    "c": {
+      "answer": "pauza",
+      "words": ["odmor", "prekid", "zaustavljanje", "predah"]
+    },
+    "d": {
+      "answer": "prolaz",
+      "words": ["kretanje", "put", "hod", "putovanje"]
+    }
+  },
+  {
+    "finalAnswer": "životinja",
+    "a": {
+      "answer": "kućni ljubimac",
+      "words": ["pas", "mačka", "ptica", "zec"]
+    },
+    "b": {
+      "answer": "divljač",
+      "words": ["šuma", "lov", "šetnja", "priroda"]
+    },
+    "c": {
+      "answer": "domaćin",
+      "words": ["gazda", "vlasnik", "osoba", "dom"]
+    },
+    "d": {
+      "answer": "sisar",
+      "words": ["krzno", "mladunče", "majka", "mleko"]
+    }
+  },
+  {
+    "finalAnswer": "razmišljanje",
+    "a": {
+      "answer": "analiza",
+      "words": ["istraživanje", "mišljenje", "proučavanje", "razmatranje"]
+    },
+    "b": {
+      "answer": "kontemplacija",
+      "words": ["duboko", "promišljanje", "razmatranje", "meditacija"]
+    },
+    "c": {
+      "answer": "refleksija",
+      "words": ["mišljenje", "preispitivanje", "samospoznaja", "introspekcija"]
+    },
+    "d": {
+      "answer": "razum",
+      "words": ["intelekt", "logika", "um", "misliti"]
+    }
+  },
+  {
+    "finalAnswer": "sport",
+    "a": {
+      "answer": "takmičenje",
+      "words": ["natjecanje", "izazov", "rezultat", "pobjeda"]
+    },
+    "b": {
+      "answer": "treniranje",
+      "words": ["priprema", "vježba", "tehnika", "fizički"]
+    },
+    "c": {
+      "answer": "tim",
+      "words": ["ekipa", "igrači", "sastav", "saradnja"]
+    },
+    "d": {
+      "answer": "rekreacija",
+      "words": ["odmor", "opuštanje", "aktivnost", "zabava"]
+    }
+  },
+  {
+    "finalAnswer": "druženje",
+    "a": {
+      "answer": "prijatelji",
+      "words": ["kompanija", "razgovor", "zabava", "smeh"]
+    },
+    "b": {
+      "answer": "okupljanje",
+      "words": ["susret", "drugarstvo", "socijalizacija", "porodica"]
+    },
+    "c": {
+      "answer": "razgovor",
+      "words": ["priča", "komunikacija", "tema", "dijalog"]
+    },
+    "d": {
+      "answer": "aktivnost",
+      "words": ["zabava", "igra", "sportska", "društvena"]
+    }
+  },
+  {
+    "finalAnswer": "snalaženje",
+    "a": {
+      "answer": "prilagođavanje",
+      "words": ["adaptacija", "fleksibilnost", "sposobnost", "promene"]
+    },
+    "b": {
+      "answer": "snalažljivost",
+      "words": ["spretnost", "lukavstvo", "inteligencija", "hrabrost"]
+    },
+    "c": {
+      "answer": "pronalazak",
+      "words": ["nalaženje", "otkriće", "traženje", "pronalaženje"]
+    },
+    "d": {
+      "answer": "spretnost",
+      "words": ["okretan", "veština", "brzina", "lukavstvo"]
+    }
+  },
+  {
+    "finalAnswer": "zabava",
+    "a": {
+      "answer": "igra",
+      "words": ["druženje", "smeh", "radost", "aktivnost"]
+    },
+    "b": {
+      "answer": "rekreacija",
+      "words": ["sport", "odmor", "aktivnost", "opuštanje"]
+    },
+    "c": {
+      "answer": "provod",
+      "words": ["izlazak", "noćni život", "zabavljanje", "aktivnost"]
+    },
+    "d": {
+      "answer": "veselje",
+      "words": ["radost", "sreća", "dobra atmosfera", "slavlje"]
+    }
+  },
+  {
+    "finalAnswer": "radost",
+    "a": {
+      "answer": "sreća",
+      "words": ["osmeh", "zadovoljstvo", "emocija", "ljubaznost"]
+    },
+    "b": {
+      "answer": "veselje",
+      "words": ["radost", "dobra atmosfera", "zabava", "slavlje"]
+    },
+    "c": {
+      "answer": "ushićenje",
+      "words": ["entuzijazam", "ekstaza", "uzbuđenje", "radost"]
+    },
+    "d": {
+      "answer": "zadovoljstvo",
+      "words": ["sreća", "osjećaj", "emocija", "zadovoljenje"]
+    }
+  },
+  {
+    "finalAnswer": "svest",
+    "a": {
+      "answer": "samosvest",
+      "words": ["samopouzdanje", "samoanaliza", "samoostvarenje", "autonomija"]
+    },
+    "b": {
+      "answer": "svestan",
+      "words": ["budan", "osviješten", "pažljiv", "inteligentan"]
+    },
+    "c": {
+      "answer": "svestanost",
+      "words": ["osviještenost", "pažnja", "bistarstvo", "budnost"]
+    },
+    "d": {
+      "answer": "nesvest",
+      "words": ["neprijamnost", "gubitak svijesti", "bez svesti", "nesvjestica"]
+    }
+  },
+  {
+    "finalAnswer": "djetinjstvo",
+    "a": {
+      "answer": "igra",
+      "words": ["zabava", "druženje", "smijeh", "dječak"]
+    },
+    "b": {
+      "answer": "bezbrižnost",
+      "words": ["radost", "sloboda", "nevinost", "opuštanje"]
+    },
+    "c": {
+      "answer": "usklik",
+      "words": ["čuđenje", "radost", "iznenađenje", "igra"]
+    },
+    "d": {
+      "answer": "mašta",
+      "words": ["vizija", "snovi", "imaginacija", "kreacija"]
+    }
+  },
+  {
+    "finalAnswer": "sloboda",
+    "a": {
+      "answer": "neovisnost",
+      "words": ["nezavisnost", "samostalnost", "autonomija", "slobodan"]
+    },
+    "b": {
+      "answer": "izbor",
+      "words": ["odlučivanje", "odabir", "izabrati", "opcija"]
+    },
+    "c": {
+      "answer": "pravo",
+      "words": ["sloboda", "privilegija", "povelja", "zakon"]
+    },
+    "d": {
+      "answer": "demokratija",
+      "words": ["vlast", "politika", "vladavina", "građani"]
+    }
+  },
+  {
+    "finalAnswer": "priča",
+    "a": {
+      "answer": "fabula",
+      "words": ["zaplet", "naracija", "radnja", "događaji"]
+    },
+    "b": {
+      "answer": "lik",
+      "words": ["karakter", "osoba", "persona", "protagonista"]
+    },
+    "c": {
+      "answer": "moral",
+      "words": ["poruka", "lekcija", "vrednost", "nauk"]
+    },
+    "d": {
+      "answer": "zaplet",
+      "words": ["radnja", "situacija", "neizvjesnost", "drama"]
+    }
+  },
+  {
+    "finalAnswer": "ljubav",
+    "a": {
+      "answer": "strast",
+      "words": ["emocija", "žudnja", "privlačnost", "uzbuđenje"]
+    },
+    "b": {
+      "answer": "prijateljstvo",
+      "words": ["bliskost", "druženje", "poverenje", "razumevanje"]
+    },
+    "c": {
+      "answer": "romantika",
+      "words": ["vezivanje", "zanose", "nežnost", "osećaj"]
+    },
+    "d": {
+      "answer": "partner",
+      "words": ["ljubavnik", "supružnik", "saradnik", "drug"]
+    }
+  },
+  {
+    "finalAnswer": "znanje",
+    "a": {
+      "answer": "obrazovanje",
+      "words": ["učenje", "škola", "nauka", "znanje"]
+    },
+    "b": {
+      "answer": "intelekt",
+      "words": ["razum", "pamet", "misao", "inteligencija"]
+    },
+    "c": {
+      "answer": "informacija",
+      "words": ["znanje", "podaci", "vest", "saopštenje"]
+    },
+    "d": {
+      "answer": "istraživanje",
+      "words": ["analiza", "proučavanje", "eksperiment", "otkrivanje"]
+    }
+  },
+  {
+    "finalAnswer": "sreća",
+    "a": {
+      "answer": "radost",
+      "words": ["osmeh", "zadovoljstvo", "emocija", "ljubaznost"]
+    },
+    "b": {
+      "answer": "veselje",
+      "words": ["radost", "dobra atmosfera", "zabava", "slavlje"]
+    },
+    "c": {
+      "answer": "zadovoljstvo",
+      "words": ["sreća", "osjećaj", "emocija", "zadovoljenje"]
+    },
+    "d": {
+      "answer": "uspjeh",
+      "words": ["postignuće", "cilj", "dobro", "rezultat"]
+    }
+  }
+]

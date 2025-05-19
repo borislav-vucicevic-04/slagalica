@@ -1,0 +1,127 @@
+.root {
+  --root-gap: 3rem;
+  --root-padding: 1.5rem;
+  --container-padding: 1rem;
+  --container-gap: 1rem;
+  --letter-block-height: 4rem;
+  --letter-block-fontSize: 2rem;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: var(--root-gap);
+  animation: appear 0.3s;
+  box-sizing: border-box;
+  padding: var(--root-padding);
+}
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: var(--container-gap);
+  padding: var(--container-padding);
+  border-radius: var(--container-padding);
+  box-sizing: border-box;
+  position: relative;
+  flex-wrap: wrap;
+}
+.timeCounter {
+  position: fixed;
+  right: 2rem;
+  top: 0.75rem;
+  color: var(--dark-teal);
+  font-size: 2rem;
+  font-weight: 600;
+  height: auto;
+  width: auto;
+  background-color: var(--white);
+}
+.letterBlock {
+  flex-shrink: 1;
+  height: var(--letter-block-height);
+  width: var(--letter-block-height);
+  background-color: var(--dark-teal);
+  text-transform: uppercase;
+  font-size: var(--letter-block-fontSize);
+  font-weight: 600;
+  border-radius: 0.5rem;
+  border: none;
+  color: var(--white);
+  transition: all 0.3s;
+  cursor: pointer;
+}
+.letterBlock:hover {
+  background-color: var(--teal);
+}
+.marker {
+  background-color: var(--yellow);
+}
+.marker:hover {
+  background-color: var(--yellow);
+}
+.greenLetterBlock {
+  background-color: var(--green);
+}
+.greenLetterBlock:hover {
+  background-color: var(--green);
+}
+.redLetterBlock {
+  background-color: var(--red);
+}
+.redLetterBlock:hover {
+  background-color: var(--red);
+}
+@keyframes appear {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}@media only screen and (max-width: 1024px) {
+  .root {
+    gap: 0;
+    justify-content: space-evenly;
+  }
+  .container {
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+  }
+}
+@media only screen and (max-width: 768px) {
+  :root {
+    --root-gap: 2rem;
+    --root-padding: 1rem;
+    --container-padding: 0.5rem;
+    --container-before-left: 1rem;
+    --letter-block-height: 3rem;
+    --letter-block-fontSize: 1.5rem;
+    --submit-button-padding: 0.75rem;
+    --submit-button-fontSize: 1.5rem;
+  }
+  .container::before {
+    top: calc(var(--container-padding) * -1 - 1rem);
+    left: 0;
+  }
+}
+@media only screen and (max-width: 720px) {
+  :root {
+    --root-gap: 2rem;
+    --root-padding: 1rem;
+    --container-padding: 0.5rem;
+    --container-before-left: 1rem;
+    --letter-block-height: 3rem;
+    --letter-block-fontSize: 1.5rem;
+    --submit-button-padding: 0.75rem;
+    --submit-button-fontSize: 1.5rem;
+    --container-gap: 0.5rem;
+  }
+}
+
+@media only screen and (max-height: 500px) {
+  .timeCounter {
+    font-size: 1.5rem;
+  }
+}

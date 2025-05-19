@@ -1,0 +1,82 @@
+.root {
+  --root-padding: 2rem;
+  --tile-padding: 0.75rem;
+  --tile-fontSize: 1.25rem;
+  --root-column-gap: 1.5rem;
+  height: 95%;
+  width: 95%;
+  display: grid;
+  column-gap: var(--root-column-gap);
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(8, 1fr);
+  justify-content: stretch;
+  align-items: center;
+  animation: appear 0.3s;
+  box-sizing: border-box;
+  padding: var(--root-padding);
+}
+.description, .tile {
+  flex: 1;
+  background-color: var(--dark-teal);
+  text-align: center;
+  padding: var(--tile-padding);
+  border: none;
+  border-radius: var(--tile-padding);
+  font-size: var(--tile-fontSize);
+  text-overflow: ellipsis;
+  letter-spacing: 2px;
+  color: var(--white);
+  text-transform: capitalize;
+  cursor: pointer;
+  transition: all 0.5s;
+  transform: rotateX(0deg);
+  overflow: hidden;
+  white-space: nowrap;
+}
+.tile {
+  height: fit-content;
+  max-height: 3rem;
+}
+.description {
+  grid-column-end: span 2;
+  text-transform: lowercase;
+  cursor: auto;
+}
+.description::first-letter {
+  text-transform: uppercase;
+}
+.marker {
+  background-color: var(--yellow);
+  transform: rotateX(360deg);
+}
+.leftCorrect {
+  background-color: var(--green);
+  transform: rotateX(0deg);
+}
+.rightCorrect {
+  background-color: var(--green);
+  transform: rotateX(360deg);
+}
+.wrong {
+  background-color: var(--red);
+  transform: rotateX(0deg);
+}
+.timeCounter {
+  position: fixed;
+  right: 24px;
+  top: 12px;
+  color: var(--dark-teal);
+  font-size: 2rem;
+  font-weight: 600;
+  height: auto;
+  width: auto;
+  background-color: var(--white);
+}
+@keyframes appear {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
