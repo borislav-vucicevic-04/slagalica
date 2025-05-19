@@ -67,7 +67,7 @@ export default class App extends Component<{}, AppState> {
     let element: React.ReactNode | undefined;
     switch(name) {
       case 'control-panel': element = <ControlPanel points={this.state.points} openPage={this.openPage}/>; break;
-      case 'instructions': element = <Instructions />; break;
+      case 'instructions': element = <Instructions openPage={this.openPage} />; break;
       case 'slagalica': element = <Slagalica savePoints={this.savePoints} data={this.state.game!.slagalica} />; break;
       case 'spajalica': element = <Spajalica savePoints={this.savePoints} data={this.state.game!.spajalica}/>; break;
       case 'desno - lijevo': element = <DesnoLijevo savePoints={this.savePoints} data={this.state.game!.desnoLijevo}/>; break;

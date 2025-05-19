@@ -16,8 +16,8 @@
   align-items: stretch;
   justify-content: stretch;
   gap: var(--container-gap);
-  height: 95vh;
-  width: 95vw;
+  height: 95svh;
+  width: 95svw;
   background-color: var(--white);
   animation: appear 0.3s;
 }
@@ -87,8 +87,8 @@
     align-items: stretch;
     justify-content: stretch;
     gap: 1rem;
-    height: 95vh;
-    width: 95vw;
+    height: 95svh;
+    width: 95svw;
     background-color: var(--white);
     animation: appear 0.3s;
   }

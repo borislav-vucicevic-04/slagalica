@@ -1,7 +1,7 @@
 .App {
   display: flex;
-  height: 100vh;
-  width: 100vw;
+  height: 100svh;
+  width: 100svw;
   justify-content: center;
   align-items: center;
   background-color: var(--white);
@@ -12,8 +12,8 @@
   align-items: center;
   justify-content: center;
   gap: 2rem;
-  height: 100vh;
-  width: 100vw;
+  height: 100svh;
+  width: 100svw;
   background-color: var(--white);
   animation: appear 0.3s;
   box-sizing: border-box;

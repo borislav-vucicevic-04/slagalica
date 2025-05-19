@@ -11,6 +11,20 @@
 .instructionsContainer ul li::marker {
   color: var(--dark-teal);
 }
+.instructionsContainer button {
+  background-color: var(--dark-teal);
+  color: var(--white);
+  padding: 0.75rem;
+  border-radius: 0.75rem;
+  font-size: 1.25rem;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  transition: all 500ms;
+}
+.instructionsContainer button:hover {
+  filter: brightness(150%);
+}
 .instructionsContentWrapper {
   width: 100%;
   box-sizing: border-box;

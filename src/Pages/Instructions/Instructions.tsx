@@ -1,7 +1,12 @@
 import React from 'react';
 import styles from './Instructions.module.css';
+import TGameNamesForPoints from '../../interfaces/gameNamesForPoints';
 
-const Instructions: React.FC = () => {
+interface InstructionsProps {
+  openPage: (name: TGameNamesForPoints | 'control-panel' | 'instructions' | '') => void
+}
+
+const Instructions: React.FC<InstructionsProps> = ({openPage}: InstructionsProps) => {
   return (
     <div className={styles.instructionsContainer}>
       <div className={styles.instructionsContentWrapper}>
@@ -31,6 +36,7 @@ const Instructions: React.FC = () => {
         <PutOkoSvijetaSection />
         <AsocijacijeSection />
         <PremetaljkaSection />
+        <button onClick={() => openPage('control-panel')}>Vrati se nazad</button>
       </div>
     </div>
   );
