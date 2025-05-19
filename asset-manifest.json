@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/slagalica/static/css/main.77593fba.css",
-    "main.js": "/slagalica/static/js/main.61beba85.js",
+    "main.css": "/slagalica/static/css/main.816a5a7e.css",
+    "main.js": "/slagalica/static/js/main.3b3f773e.js",
     "static/js/453.0c398bdc.chunk.js": "/slagalica/static/js/453.0c398bdc.chunk.js",
     "static/media/bionce.png": "/slagalica/static/media/bionce.0af6059d66f8ed2732b3.png",
     "static/media/svetlana-bojkovic.png": "/slagalica/static/media/svetlana-bojkovic.8d3e3bdd50c84643782a.png",
@@ -306,12 +306,12 @@
     "static/media/mc.svg": "/slagalica/static/media/mc.3a3d3636390c09c64d3e.svg",
     "static/media/ua.svg": "/slagalica/static/media/ua.f8cca1b6202785b4fb56.svg",
     "static/media/id.svg": "/slagalica/static/media/id.ffa58d55dd7e95dd504d.svg",
-    "main.77593fba.css.map": "/slagalica/static/css/main.77593fba.css.map",
-    "main.61beba85.js.map": "/slagalica/static/js/main.61beba85.js.map",
+    "main.816a5a7e.css.map": "/slagalica/static/css/main.816a5a7e.css.map",
+    "main.3b3f773e.js.map": "/slagalica/static/js/main.3b3f773e.js.map",
     "453.0c398bdc.chunk.js.map": "/slagalica/static/js/453.0c398bdc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77593fba.css",
-    "static/js/main.61beba85.js"
+    "static/css/main.816a5a7e.css",
+    "static/js/main.3b3f773e.js"
   ]
 }
