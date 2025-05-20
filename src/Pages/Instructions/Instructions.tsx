@@ -111,6 +111,9 @@ const SpajalicaSection: React.FC = () => {
       <ul className={styles.instructionsParagraph}>
         <li><strong>4 poena</strong> za svaki tačno spojen par</li>
       </ul>
+      <p className={styles.instructionsParagraph}>
+        <strong>Ukoliko tekst u nekom polju nije vidljiv, desni klik na polje ako ste na računaru ili pritisnite i zadržite ako ste na mobilnom telefonu, kako bi se prikazao sav tekst!</strong>
+      </p>
     </div>
   );
 };
@@ -159,6 +162,9 @@ const DesnoLijevoSection: React.FC = () => {
         <li>Za svaki tačno odabran pojam igrač dobija <strong>2 poena</strong>.</li>
         <li>Ako igrač tačno identifikuje svih 7 pojmova, dobija <strong>bonus od 1 poena</strong>.</li>
       </ul>
+      <p className={styles.instructionsParagraph}>
+        <strong>Ukoliko tekst u nekom polju nije vidljiv, desni klik na polje ako ste na računaru ili pritisnite i zadržite ako ste na mobilnom telefonu, kako bi se prikazao sav tekst!</strong>
+      </p>
     </div>
   );
 };
@@ -287,6 +293,9 @@ const AsocijacijeSection: React.FC = () => {
       </ul>
       <p className={styles.instructionsParagraph}>
         Ukupno vrijeme predviđeno za igru je <strong>180 sekundi</strong>.
+      </p>
+      <p className={styles.instructionsParagraph}>
+        <strong>Ukoliko tekst u nekom polju nije vidljiv, desni klik na polje ako ste na računaru ili pritisnite i zadržite ako ste na mobilnom telefonu, kako bi se prikazao sav tekst!</strong>
       </p>
     </div>
   );
